@@ -3,7 +3,6 @@ title: News
 media_order: News.jpeg
 menu: News
 child_type: blog
-creator: bushw011
 content:
     items:
         - '@self.children'
