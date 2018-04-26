@@ -1,7 +1,6 @@
 ---
 title: Feature
 media_order: Feature.jpeg
-owner: nick
 content:
     items:
         - '@self.children'
