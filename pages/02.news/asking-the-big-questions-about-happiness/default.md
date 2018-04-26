@@ -1,0 +1,29 @@
+---
+title: 'Asking the Big Questions About Happiness'
+media_order: happiness.jpg
+published: true
+date: '12-04-2018 19:22'
+taxonomy:
+    category:
+        - article
+---
+
+**By Joshua Schlenner, News Editor** _uploaded at 7:36 p.m. on Thursday, April 12, 2018_
+
+At 7:30 p.m. on Tuesday, March 27, Rodney A. Briggs Library and the Psychology Discipline sponsored the final Asking the Big Questions event of the academic year. This event was located in the McGinnis Room in the basement of Briggs Library and was the first event of the 42nd Annual Midwest Philosophy Colloquium. Four panelists, all of whom are staff at the University of Minnesota Morris, arrived to discuss the nature of happiness. 
+
+The first panelist to speak was Kerry Michael, Assistant Professor of Psychology. Her presentation focused on the question of what happiness is fundamentally and highlighted the work of Martin Seligman, a prominent psychologist known for his work in the field of positive psychology. Michael explained that the common idea of happiness revolves around the concept of a “happy, stressless life.” Many psychologists, including Michael herself, find this explanation “boring.” Instead, Seligman believes that happiness may be achieved by living any of three kinds of lives: a pleasant life, a good life, or a meaningful life. While a “pleasant life” continues to refer to a life free of stress, a “good life” is highlighted by personal achievement, and a “meaningful life” is characterized by one’s ability to find meaning in their everyday activities. 
+
+Professor Michael then moved her focus to the field of neuroscience to discuss the changes that occur in one’s brain when he or she experiences happiness. She explained how happiness rises and falls with any of four chemicals in the brain: dopamine, serotonin, endorphins, or oxytocin. According to Michael, dopamine is produced when an individual partakes in an activity he or she finds pleasurable and “would like to do again.” When an individual is in a generally pleasant mood, it is due to an increase in the production of serotonin. An endorphin, on the other hand, is commonly referred to as a “runner’s high” and creates a euphoric rush within an individual while relieving some physical pain. The last of the chemicals, oxytocin, was described as being a “love hormone.” Professor Michael ended her presentation by explaining that the neuroscientific explanations for happiness, though fundamentally important, are a “drastic oversimplification.” 
+
+The second panelist of the evening was Stephen Burks, Professor of Economics with expertise in behavioral economics. Describing himself as a “recovering philosopher,” his presentation focused on the question of whether or not public policy should maximize subjective well-being. He highlighted the works of Dr. Andrew Clark, a Professor of Molecular Biology and Genetics at Cornell University, and Edward Glaeser, the Fred and Eleanor Glimp Professor of Economics in the Faculty of Arts and Sciences at Harvard University. While Clark’s work emphasized the importance of subjective wellbeing, Glaeser argues that economic welfare is more important. Since opportunity costs are real, Glaeser argues that the maximization of subjective well-being should not be a priority of society. 
+
+Professor Burks shared scientific findings that suggest while ending unemployment and making more money may raise individual happiness, raising an individual’s physical health raises it more. Regardless, all three methods pale in comparison to raising mental health. Using British data, Burks showed that not only is raising mental health more effective in raising happiness than the aforementioned methods, but it is far less expensive to society as well. 
+The third panelist, Bridgett Karels, is the Wellness Promotion Coordinator with the UMM Wellness Center on campus. “From a health perspective, we’re standing on these guys’ shoulders,” she explained while gesturing toward her fellow panelists. She explained that the programs that the Wellness Center puts on have “evidence-based backing” meaning that she and her colleagues look at the works of psychologists and philosophers and design their programs based on their findings. “You’re a whole person,” she explained to the discussion group, “We want you to work on moving toward your well-being… No matter where you’re at.” 
+
+The final panelist of the event was Steven McFarlane, Assistant Professor of Philosophy with expertise in ethics and moral psychology. “I do my job as a philosopher to admire everyone else and make everyone happier,” he informed the group. He explained that when people think about happiness, there are four common connections people make: feeling good, it being what you want, having good stuff, and an ethical duty to make people happy. His lecture focused on the first three. 
+
+He asked the group to imagine that there existed a pill that made anyone who took it feel happy, but had no effect on other aspects of one’s life. “Have we cured happiness?” McFarlane inquired, “Are we all equally happy?”
+“Are you an expert on how happy you are?” was another question Professor McFarlane posed to the group. He then asked the group to imagine that they had a friend who spent every waking moment in his or her room and exhibited numerous other red flags of depression but continuously claimed to be perfectly happy. He finished by asking the group what part of happiness mattered: the feeling of happiness, the material possessions that make one happy, or having numerous good experiences in one’s life?
+
+The floor then opened for questions and comments before the group dispersed shortly after 8:30 p.m. 

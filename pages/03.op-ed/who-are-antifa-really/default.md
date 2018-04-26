@@ -1,0 +1,51 @@
+---
+title: 'Who Are Antifa Really?'
+date: '17-11-2017 00:00'
+taxonomy:
+    category:
+        - article
+---
+
+**By Silence Dobetter, [pen name]** _orignally published in Issue 5, Volume 30 of The University Register on Friday, November 17, 2017_
+
+Recently, _The North Star_ decided to publish an article about the antifascist movement in their October edition. Unfortunately, that article fell victim to precisely the same myths and misconceptions that journalists are meant to dispel. Anyone is, of course, free to oppose or disagree with antifascists or their methods, but disagreement requires understanding, and understanding requires honest and informed reporting. The recent events on the Morris campus and in college campuses across the country make it even more important to communicate an honest account to readers. Journalistic integrity tangent aside, let us set the record straight. 
+
+Who are Antifa? 
+
+In the simplest terms, antifa is an abbreviation of anti-fascist or anti-fascism. That is to say, antifa is anyone who is both opposed to fascism and is willing to do something about it. Some groups give an alternate definition of antifa as AntiFA, or Anti-Fascist Action, to emphasize the “doing something about it” part. For clarity, the definition of fascism, according to the Merriam-Webster dictionary, is “political philosophy, movement, or regime (such as that of the Fascisti) that exalts nation and often race above the individual and that stands for a centralized autocratic government headed by a dictatorial leader, severe economic and social regimentation, and forcible suppression of opposition.”  There is, of course, quite a lot more to it than the dictionary definition, but this is a useful starting point. 
+
+Understanding who and what antifascists are now requires a brief history of the rise of fascism and the early responses to it. Fascism as we know it today originally developed in Italy shortly after World War I. The ideology of these original fascists was countered almost immediately by Italian communists, socialists, and anarchists. Some of the earliest Antifa organizations included the Arditi del Populo and the Italian Anarchist Union, both emerging between 1919 and 1921. People continued to actively oppose fascism in Europe, the United States, and around the world through the rise of Nazi Germany and throughout World War II. Antifascists remained active around the world in a variety of ways, notably in the United States for supporting civil rights and anti-war movements. To this day, many antifascists are heavily influenced by communism, anarchism, and other far-left beliefs and ideologies. It is important to note, however, that antifascism in and of itself does not espouse any particular ideology other than the opposition to fascism. 
+
+Antifascists rarely work alone, however, which brings us to antifascist organizations. A common misconception is that Antifa is a single large organization, similar to a corporation or political party. This is incorrect. There is no leader of Antifa, no Antifa HQ, no central decision-making body that hands out orders or plans to various chapters. Instead, antifascists form a great many small organizations, usually focused on a single city or small area each, all acting independently from one another. These groups vary widely in their structure, tactics, size, symbology, and level of communication with other groups. They may make decisions through a hierarchy, flat pure democracy, or some other type of organizational structure. Antifascist organizations are composed of men, women, people of other genders, people of color, white people, middle-class people, poor people, marxists, anarchists, and nearly every other type of person one might think of. 
+
+What does Antifa do? 
+
+Contrary to popular belief, going to protests is actually a pretty small part of what antifascists do. Antifa typically consider fascism to be inseparable from white supremacy, patriarchy, capitalism, homophobia, and other forms of oppression, and they consider it their mission to oppose all of these societal structures through a variety of tactics. One of the most common ways they do this is by supporting those who are harmed by these oppressive structures, for example by: 
+-  Volunteering at their local food shelf, homeless/women’s/youth shelter, church, or community center of some other type 
+-  Making and distributing blankets for their city’s homeless population 
+-  Setting up water drops in the desert for people crossing the border 
+-  Organizing and attending educational events at libraries and universities 
+-  Donating to medical or legal fundraisers, or to local charities 
+-  Collecting and distributing food and other supplies to people overlooked by other disaster response groups
+
+You may notice a theme here. The most common type of antifascist work is community aid work. The desire to defend one’s community from fascists is quite often paired with a desire to help the community in other ways. This underlying altruistic and cooperative drive, combined with the beliefs and ideals that refine it into useful work, is a defining feature of antifascism. 
+
+What about protests? 
+
+In addition to their other work, antifascists also organize and participate in protests and demonstrations of many kinds. It is important to take a small tangent here to discuss that part about organizing. Protests, public demonstrations, and other highly-visible actions take a lot of planning and work to make happen. To put together an effective protest, people need to choose a meeting place and time, plan a marching route, decide on chants or songs, make posters, acquire the appropriate permits (or decide to proceed in spite of denied permits), prepare for any expected opposition, advertise to get enough attendees, plan how to talk to the press, and complete a multitude of other small tasks. With very few exceptions, these things don’t happen spontaneously. They take time and effort and skill, and without those things a protest will have great difficulty actually making much of a difference. Antifa are often involved in this kind of behind-the-scenes work for protests and demonstrations aligned with their goals and values. 
+
+Tangent about organizing aside, Antifa are also frequent protest attendees as well. Most often, they are ordinary protesters like anyone else present. They hold signs, banners, or flags, participate in chants and songs, and support the people around them and the idea for which they are there. Sometimes, though, Antifa engage in more radical action. Dressing in all black, protecting their identities, physically preventing fascists or police from getting to ordinary protesters or other antifascists, and so on. Antifascists view these activities as self-defense. Fascists are openly willing to engage in violence and to escalate existing violence, especially against marginalized groups. Antifa, unlike many other groups, are willing to fight fire with fire. When fascists try to spread paranoia or to recruit people into their violent plans, antifascists aim to deny them a platform. Antifascists consider a purely non-violent and non-destructive strategy to be insufficient in the face of a system that is built on violence. Even so, it is almost always other groups who instigate violence, with Antifa acting in response.
+
+This brings us to one last misconception that deserves explicit countering: the idea that because of their tactics, antifascists are no different from the fascists they oppose. In reality, the differences are enormous. The first notable difference is in their interactions with police and other institutions of government power. The FBI reported over a decade ago that white supremacist groups and other right-wing extremists have a long-standing interest in infiltrating police, law enforcement, and recruiting existing law enforcement personnel. Fascists try to acquire and use government power to get what they want and steamroll their opponents. Antifascists, on the other hand, have little to no interest in acquiring institutional power. They prefer to do work and solve problems on their own terms. As quoted earlier, central tenets of fascism are “a centralized autocratic government” and the “forcible suppression of opposition.” 
+
+Additionally, contrary to popular belief, Antifa are very open and accepting of varied viewpoints, identities, and experiences - certainly far more than fascists are. Antifascists include people of a variety of backgrounds, races, genders, and political views, and they celebrate these differences. Meanwhile fascists, as can be seen in any photo or video of their events, are almost all white, almost all men, almost all middle-class or wealthier, and both in practice and by definition “[exalt] nation and often race above the individual.” 
+
+Finally, though perhaps most importantly, is the difference in the end goals of the two. Fascists consistently call for the extermination and genocide of various minorities. Even at their most mild, they advocate rounding up these targets and deporting them. In their ideal world, there is only one type of person, and everyone’s lives would be carefully regimented and controlled. They say this openly and explicitly. Antifascists, on the other hand, engage in a host of community aid work in addition to the violence they sometimes need to engage in. Clear from both their words and actions is that antifascists want a world based on mutual support and cooperation, where everyone has what they need to live the life they want. 
+
+In summary, Antifa are not nearly as simple a bunch as you may have heard. They are a lot of different people doing a lot of different things for a lot of different reasons, all with a clear and defined goal. They sometimes use extreme or unusual tactics, but to critique those tactics without acknowledging the larger strategy and context they result from is fundamentally dishonest and cannot result in any kind of useful discussion. Hopefully this article serves as a useful baseline for such discussion in the future. 
+
+I am, Morris, Your Humble Servant, 
+
+Silence Dobetter 
+
+silencedobetterspeaks@gmail.com

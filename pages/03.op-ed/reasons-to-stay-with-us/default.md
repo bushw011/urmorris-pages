@@ -1,0 +1,19 @@
+---
+title: 'Reasons to Stay With Us'
+date: '17-11-2017 00:00'
+taxonomy:
+    category:
+        - article
+---
+
+**By Christian Pfeiffer, Editor-in-Chief** _Originally published in Issue 5, Volume 30 of The University Register on Friday, November 17, 2017_
+
+The feeling of ripping up construction paper with your bare hands. Spicy memes. The feeling you get from sitting and resting your feet after a long day of work. The warmth of another human being on your skin. The warmth of a pet on your skin. The warmth of another human being and a pet on your skin. The feel of a smile stretching across your face. That first sip from a bottle of ice-cold Dr. Pepper that begins with a blast of Dr. Pepper-scented carbon dioxide and ends with its 23 flavors dancing passionately across your palette. The chance to make another person’s life better. The sensation of sleeping in, warm and cozy, still wrapped under the covers at 11 in the morning. All the good music you haven’t had a chance to hear yet. The cool, gentle breeze caressing your body under a warm sun. The chirp of birds. The smell of rain. The cold, funny-bone strike of winter air on your neck. Olive Garden’s Zuppa Toscana. J. K. Rowling tweets. J. K. Rowling tweets featuring Stephen King. J. K. Rowling tweets featuring Stephen King featuring the mention of chocolate. Supercuts of Bill Hader playing Stefan on SNL. Chef Gordon Ramsey. The sensation of Q-Tips in your ear canal and the thrill that comes from ignoring the warnings on the back of the box. Baby goats can wear pajamas now! You’re another vote for those in need. Chicken McNuggets. You’ve always been good enough, even when you thought you weren’t. Wet, sniffy pupper noses. You’re worth it, even if you don’t think you are. Fresh, authentic tortillas, fresh from the pan, corn OR flour; both are amazing. Mari-fuckin-juana, if that’s your thing. Tator tot hot dish made with love. Sweaters, ugly and otherwise. Bear hugs. Circle jerks. Unexpected twists! Funny jokes. Trident Layers. The adventure that is sitting in a car while it’s going through an automated car wash. Autumn foliage and the earthy smell of fallen leaves. Gal Gadot as Wonder Woman. Belly laughs. Kit Harrington’s ass. Booze in moderation. Kale in moderation. Team wipes in Overwatch. A really good apple. (Like, a really good apple.) Toe socks. Cheesecake with graham cracker crust. The hilarity of bicycle horns. Kitters and cates doin heckin mlems. Literally so much authority to disregard. Racism to fight. Stuff to learn. Terrible, terrible movies. Bonfires. Back scratches and back rubs. The art your friends make. The gentle happiness of feeding birds. The knowledge you did the right thing by adopting that ugly cat. The reward of showing dogs random acts of kindness—because you can bet your ass they’d do the same for you! Have you ever had a really good stretch? Like, the kind where you bring your hands up as high as they can go and you don’t care if people see your tummy? Ugh, my god, folks, those are the bomb diggity. You are loved, even if you don’t always feel like that’s true. How do I know? Because I love you, dammit, you’re a human being aren’t you? Then you’re worthy of love and compassion (and healthcare, but more on that later). Daytime thunderstorms that make it get real dark out and cause street lamps to turn on. Aww, who am I kidding? ALL thunderstorms are freakin’ fantastic. The smell of someone you love. The feeling of security that comes from knowing that even when you’re at your lowest—financially, emotionally, whatever—you can say “panini” however many times you want. And, perhaps most importantly, the simple fact that you’ll always have more waves to make.
+
+Peace and love,
+
+Christian Pfeiffer
+
+Editor-in-Chief,
+
+_The University Register_

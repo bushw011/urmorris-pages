@@ -1,0 +1,17 @@
+---
+title: 'Upcoming Event: The UMMy Film Festival'
+media_order: ummy1.jpg
+date: '22-03-2018 00:00'
+taxonomy:
+    category:
+        - article
+---
+
+**By Michael Small, Arts & Entertainment Editor**, _uploaded at 5:00 p.m. on Thursday, March 22, 2018_
+
+The 2018 UMMys is coming up on Friday April 13. The student film festival will begin at 9:30 p.m. in Edson Auditorium. The showing follows a long tradition of student made content straight to the screen. Coming from a line of differently named student film events throughout the years, the UMMys first premiered in 2005. Since then, a rich body of creative student films has emerged which has portrayed Morris from an array of perspectives. This year’s films will be judged by external judges on the following categories: Best Feature Film (up to 30 minutes in length), Best Short Film, Best Actor, Best Director, and Best Script. Awards may also be presented in the following categories depending upon submissions: Best Use of Sound, Best Cinematography, Best Musical Number, and Best Film by a First Year Student. The following is my review of the first feature film winner and my personal favorite UMMy I have seen, _The Amazing Adventures of Beeman and Greyhound Boy_. You can find it under the “UMMYs Past and Present” category on UMM Cinema (movies.morris.umn.edu) or by checking them out from Briggs Library DVD collection. UMM Cinema hosts lasts year’s films and various winners from previous years while the Briggs DVDs contain all submissions from previous years. 
+
+_The Amazing Adventures of Beeman and Greyhound Boy_, a pilot UMMy during the first year (2005), is a great movie to kick off the UMMy film tradition. _Beeman_ is twenty-five minutes of parody superhero action that’s pure cheese. Stung by a genetically mutated bee in an unfortunate lab accident, James Beeman becomes a town hero mostly known for stopping crimes like stopping a grocery stores from selling spoiled milk. When faced with the villain, Slick Staples (a slimy foe with staplers for hands), who kidnaps the mayor’s dog with the help of armed thugs, Beeman has his bee powers checked and looks for a sidekick at the suggestion of reporter Honey Hughes. He holds auditions and recruits the wondrous Greyhound Boy, with the power to run up to 45 miles per hour but has one extremely specific but unfortunate weakness. _Beeman and Greyhound Boy_ only gets more contrived than my synopsis in the best way possible. The only thing about it that may not be anybody’s cup of tea is that there’s a couple dated references, but if you get them then they will hit you in the face. 
+
+All throughout the film you can tell that they had a lot of fun from page to screen and that’s what one can expect when watching an UMMy. They aren’t class projects that groups crank out for a grade (though some UMMys turn into directed study opportunities and vice versa). Everyone involved decided to turn a dream or an interesting idea into a reality with their friends. While I can’t speak for the creators of _Beeman_, I’m guessing their thought process was at some level “Let’s run around town in costumes using cheesy voices and record it.” _Beeman_ is much more than that but there’s nothing wrong with the format. You’ll laugh, you’ll cry… settle down with a bucket of sugar and prepare for the hilarious ride. 
+ 
