@@ -10,7 +10,6 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
-creator: bushw011
 ---
 
 # Feature
