@@ -1,14 +1,13 @@
 ---
 title: 'Documentary Showcases Cultural Bridges Built Through Friendship'
 content:
-    items:
-        - '@self.children'
-    limit: 5
+    items: '- ''@self.children'''
+    limit: '5'
     order:
         by: date
         dir: desc
-    pagination: true
-    url_taxonomy_filters: true
+    pagination: '1'
+    url_taxonomy_filters: '1'
 ---
 
 **By Trey Goodsell, Staff Writer** _uploaded at 5:50 p.m. on Friday, April 27, 2018_
