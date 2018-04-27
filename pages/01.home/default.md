@@ -36,7 +36,7 @@ pfeif090@morris.umn.edu
 **Sally Bremer, Managing Editor**
 breme128@morris.umn.edu
 
-**Nick Bushway, Tech Editor/ Web Developer**
+**Nick Bushway, Tech Specialist**
 bushw011@morris.umn.edu
 
 **Isaac Hunt, Ad Sales Manager**
