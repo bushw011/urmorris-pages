@@ -3,7 +3,7 @@ title: '2018 Spring Dance Ensemble: I Wanna Dance With Somebody'
 date: 04/28/2018
 ---
 
-**By Desmond Homan, Variety Editor** _originally published in Issue 11, Volume 30 of The University Register on Friday, April 27, 2017_
+**By Desmond Homann, Variety Editor** _originally published in Issue 11, Volume 30 of The University Register on Friday, April 27, 2017_
 
 On Friday, April 20 and Saturday, April 21, the production of Dance Ensemble returned for their Spring 2018 show, “I Wanna Dance With Somebody.” This show happened to be the last show on the Edson stage, as the auditorium will be renovated before the Fall. Dance Ensemble ensured that both the stage and semester itself would end with a bang. 23 different songs were featured, including the production reprise at the very end. The weekend was filled with high-energy and a respectable amount of the students, family, friends, and alumni, gathered to watch what is probably one of the biggest performance the campus holds each semester. Because of its popularity, Dance Ensemble is held to pretty high expectations on campus, yet continues to exceed those expectations thanks to the hard work of dedicated members offering a handful of pleasant surprises for the audience. 
 
