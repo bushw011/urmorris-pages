@@ -1,6 +1,6 @@
 ---
 title: 'The UMMYs'
-date: 04/28/2018
+date: '28-04-2018 00:00'
 content:
     items: '- ''@self.children'''
     limit: '5'
