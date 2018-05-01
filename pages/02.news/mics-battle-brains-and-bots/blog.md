@@ -1,5 +1,6 @@
 ---
 title: 'MICS Battle Brains and Bots'
+media_order: 'MICSGroupPhoto(courtesy of Kai Zang)-min.jpg'
 content:
     items:
         - '@self.children'
