@@ -1,5 +1,6 @@
 ---
 title: 'Hank and Mercer Bring Joyful Times to Morris Students'
+media_order: 'HankandMercer (courtesy of flickr)-min.jpg'
 content:
     items:
         - '@self.children'
