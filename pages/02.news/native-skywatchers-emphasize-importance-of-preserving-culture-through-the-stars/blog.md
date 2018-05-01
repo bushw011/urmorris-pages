@@ -1,5 +1,6 @@
 ---
 title: 'Native Skywatchers Emphasize Importance of Preserving Culture Through The Stars'
+media_order: 'NativeSkywatchers(courtesy of flickr)-min.jpg'
 content:
     items:
         - '@self.children'
