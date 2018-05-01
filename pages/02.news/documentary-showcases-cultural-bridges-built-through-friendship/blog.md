@@ -1,5 +1,6 @@
 ---
 title: 'Documentary Showcases Cultural Bridges Built Through Friendship'
+date: '01-05-2018 15:59'
 content:
     items:
         - '@self.children'
