@@ -1,5 +1,8 @@
 ---
 title: 'Cause of Death: Sandwich Man'
+taxonomy:
+    category:
+        - article
 ---
 
 **By Desmond Homann, Variety Editor** _originally published in Issue 11, Volume 30 of The Univeristy Register on Friday, April 27, 2018_
