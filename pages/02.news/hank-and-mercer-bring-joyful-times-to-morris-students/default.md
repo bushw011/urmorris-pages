@@ -2,7 +2,6 @@
 title: 'Hank and Mercer Bring Joyful Times to Morris Students'
 media_order: 'HankandMercer (courtesy of flickr)-min.jpg'
 published: true
-publish_date: '01-05-2018 21:24'
 content:
     items: '- ''@self.children'''
     limit: '5'
