@@ -1,6 +1,6 @@
 ---
 title: 'An Update From Your Friendly Neighborhood Oboe-Man'
-media_order: 'oboe2-min.jpg,oboe-min.jpg'
+media_order: 'oboe3-min.jpg,oboe-min.jpg'
 ---
 
 **By Desmond Homann, Variety Editor** _originally published in Issue 11, Volume 30 of The Univeristy Register on Friday, April 27, 2018_
