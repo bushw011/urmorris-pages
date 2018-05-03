@@ -1,6 +1,6 @@
 ---
 title: 'Cause of Death: Sandwich Man'
-media_order: wade-min.jpg
+media_order: 'hoodwinked (1)-min.jpg,wade-min.jpg'
 taxonomy:
     category:
         - article
