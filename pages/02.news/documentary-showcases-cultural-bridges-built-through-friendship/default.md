@@ -2,6 +2,10 @@
 title: 'Documentary Showcases Cultural Bridges Built Through Friendship'
 media_order: gossels-min.jpg
 date: '01-05-2018 15:59'
+taxonomy:
+    category:
+        - article
+        - featured
 content:
     items:
         - '@self.children'
