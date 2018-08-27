@@ -22,7 +22,7 @@ We welcome all student writers, graphic designers, photographers, copy editors, 
 
 #### Submission Information
 
-**_The University Register_ invites letters from its readers. Letters may be edited for length, libelous content, good taste, and other like concerns. All letters and editorials represent the views and opinions of the author only and do not necessarily reflect the opinions of The University Register or its staff.** In order to be eligible for publication, all letters must include the author's name and email address. The deadline for editorial submissions is Wednesday at 8:00 p.m. before the Thursday of publication. **_The University Register_ will make all possible attempts to publish all letters we receive, however some letters may be omitted due to space constraints.**
+**_The University Register_ invites letters from its readers. Letters may be edited for length, libelous content, good taste, and other like concerns. All letters and editorials represent the views and opinions of the author only and do not necessarily reflect the opinions of The University Register or its staff.** In order to be eligible for publication, all letters must include the author's name and email address. The deadline for editorial submissions is Tuesday at 8:00 p.m. before the Thursday of publication. **_The University Register_ will make all possible attempts to publish all letters we receive, however some letters may be omitted due to space constraints.**
 
 
 #### Contact Us
@@ -46,12 +46,12 @@ huntx253@morris.umn.edu
 vossx257@morris.umn.edu
 
 **Jon Antonsen, Feature Editor**
-anton428@morris.umn.edu
+anton248@morris.umn.edu
 
 **Janie Dam, Arts & Entertainment Editor**
 damxx048@morris.umn.edu
 
-**Jonathan Antonsen, Variety Editor**
-anton248@morris.umn.edu
+**Des Homann, Variety Editor**
+homan049@morris.umn.edu
 
 
