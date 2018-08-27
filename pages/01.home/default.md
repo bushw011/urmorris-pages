@@ -30,11 +30,11 @@ We welcome all student writers, graphic designers, photographers, copy editors, 
 **_The University Register_**
 university.register@gmail.com
 
-**Christian Pfeiffer, Editor-in-Chief**
-pfeif090@morris.umn.edu
+**Tehya Wachuta, Editor-in-Chief**
+wachu006@morris.umn.edu
 
-**Sally Bremer, Managing Editor**
-breme128@morris.umn.edu
+**Jeph Novak, Head Copy Editor**
+novak442@morris.umn.edu
 
 **Nick Bushway, Tech Specialist**
 bushw011@morris.umn.edu
@@ -42,14 +42,14 @@ bushw011@morris.umn.edu
 **Isaac Hunt, Ad Sales Manager**
 huntx253@morris.umn.edu
 
-**Joshua Schlenner, News Editor**
-schle542@morris.umn.edu
+**Missy Voss, News Editor**
+vossx257@morris.umn.edu
 
-**Tehya Wachuta, Feature Editor**
-wachu006@morris.umn.edu
+**Jon Antonsen, Feature Editor**
+anton428@morris.umn.edu
 
-**Michael Small, Arts & Entertainment Editor**
-small203@morris.umn.edu
+**Janie Dam, Arts & Entertainment Editor**
+damxx048@morris.umn.edu
 
 **Jonathan Antonsen, Variety Editor**
 anton248@morris.umn.edu
