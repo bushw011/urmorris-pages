@@ -37,7 +37,7 @@ We welcome all student writers, graphic designers, photographers, copy editors, 
 
 **Isaac Hunt, Ad Sales Manager**	|	huntx253@morris.umn.edu
 
-**Missy Voss, News Editor**		|	vossx257@morris.umn.edu
+**Melissa Voss, News Editor**		|	vossx257@morris.umn.edu
 
 **Jon Antonsen, Feature Editor**	|	anton248@morris.umn.edu
 
