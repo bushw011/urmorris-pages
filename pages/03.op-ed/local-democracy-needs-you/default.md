@@ -1,6 +1,6 @@
 ---
 title: 'Local Democracy Needs You'
-date: 27-4-18
+date: '18-04-2018 00:00'
 ---
 
 **By Troy Goodsell, Staff Writer**_ uploaded at 2:50 p.m. on Friday, April 27, 2018_
