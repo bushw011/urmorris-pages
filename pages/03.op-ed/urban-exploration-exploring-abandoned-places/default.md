@@ -1,6 +1,6 @@
 ---
 title: 'Urban Exploration: Exploring Abandoned Places'
-date: 27-04-18
+date: '18-04-2018 00:00'
 ---
 
 **By Ben Mladenich, Staff Writer** _uploaded at 3:01 p.m. on Friday, April 27, 2018_
