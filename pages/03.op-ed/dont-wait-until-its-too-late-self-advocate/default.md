@@ -4,7 +4,7 @@ media_order: 980x.png
 date: '17-09-2018 00:00'
 ---
 
-**By Trey Goodsell, Staff Writer** _originally published in Issue 11, Volume 30 of The Univeristy Register on Friday, September 1,4 2018_
+**By Trey Goodsell, Staff Writer** _originally published in Issue 1, Volume 31 of The Univeristy Register on Friday, September 14 2018_
 
 The stereotype of college kids assumes many are activists bringing provocateurs to campus to challenge our safe spaces. (I don’t know what stereotypes are in with the public, if you couldn’t tell.) What’s startling about reality is that many of us are inarticulate up until we are out of college.
 
@@ -19,3 +19,5 @@ The next step is knowing your resources. Especially as a student, you have acces
 The ability to weave a powerful narrative out of the disparate parts uncovered when you research your issue can be the deciding factor in winning support and progress. The research that comes before that is going to be hard, and that is where your education can make the most difference. Higher education is great for teaching the formal process for building solid intellectual foundations. Standing up to scrutiny is important for any movement. However, a major impetus for the creation of this op-ed is the neglect that the institution puts in teaching you about yourself, specifically an absence of skills to learn about and communicate specifically for yourself. 
 
 This may seem like it is another instance of “For Your Consideration, This is Capital ‘I’ Important”™, but being able to push your own interests in civic and private life is important. No fight that secured your rights was ever definitively won, and many in the world, even those who call themselves your friend, will undermine or corrupt those rights to mitigate your power. You cannot let them. When faced with exploitation, many submit or give up, their energy all used up. People find refuge in cynicism or apathy. What must be taught and shared, is that ways exist to counter exploitation, that being prepared can make all the difference in whether a fight is won or lost. No fight is insurmountable; never feel that one is. 
+
+_Photo on top courtesy of Google Images_
