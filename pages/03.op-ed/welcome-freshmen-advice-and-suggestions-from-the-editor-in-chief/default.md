@@ -1,5 +1,6 @@
 ---
 title: 'Welcome, Freshmen! Advice & Suggestions from the Editor-in-Chief'
+media_order: Morris.jpg
 date: '17-09-2018 19:52'
 ---
 
@@ -28,3 +29,5 @@ Until next issue,
 Tehya Wachuta
 Editor-in-Chief
 _The University Register_
+
+_Photo on top courtesy of Google Images_
