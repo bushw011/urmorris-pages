@@ -12,7 +12,7 @@ content:
     url_taxonomy_filters: true
 ---
 
-**By Desmond Homann, Variety Editor** _originally published in Issue 1, Volume 31 of The Univeristy Register on Friday, April 13, 2018_
+**By Desmond Homann, Variety Editor** _originally published in Issue 1, Volume 31 of The Univeristy Register on Friday, September 14, 2018_
 
 Let’s talk about her. You know exactly who I mean. Maybe her name is Karen or Carol or Cheryl or Annette; either way, you know which one I mean, and you know just how powerful she is. With a glass of wine in one hand and a lapdog that she calls her “baby” in the other, she will do anything in her power to prevent you from being invited to the cul-de-sac’s cookout. After that nonsense you pulled last year with your store-bought taco salad, there’s no heckin’ way she’s going to let you back in.
 
