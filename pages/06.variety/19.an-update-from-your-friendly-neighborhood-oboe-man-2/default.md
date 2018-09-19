@@ -13,3 +13,5 @@ For those who are ready to start this semester’s performances off even earlier
 For Symphonic Winds, what is perhaps most exciting this semester is the WWI Armistice Centenary Commemoration Concert. Symphonic Winds and the Concert Choir, under the direction of Simon Tillier and Bradley Miller respectively, will perform a varied selection of works alongside readings from students and faculty to commemorate the ending of the First World War. This free concert will be held in the Morris Elementary School Concert Hall on Sunday, November 11 at 3 p.m.
 
 Throughout the month of October, there will be seven performances, including guest artist Dr. Emilie Amriem, a percussion faculty recital by Dr. Scott Horey, a faculty Chamber Music concert, and many more wonderful opportunities to support the various music groups on campus. More information about performance dates and times can be found at academics.morris.umn.edu/music/current-concerts-and-music-events
+
+_Photo on top courtesy of Google Images_
