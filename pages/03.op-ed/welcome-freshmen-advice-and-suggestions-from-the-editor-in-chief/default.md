@@ -1,6 +1,6 @@
 ---
 title: 'Welcome, Freshmen! Advice & Suggestions from the Editor-in-Chief'
-media_order: Morris.jpg
+media_order: Morris2.jpg
 date: '17-09-2018 19:52'
 ---
 
