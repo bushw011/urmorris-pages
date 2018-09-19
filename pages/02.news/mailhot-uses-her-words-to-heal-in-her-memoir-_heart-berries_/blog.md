@@ -1,5 +1,5 @@
 ---
-title: 'Mailhot Uses Her Words to Heal in Her Memoir _Heart Berries_'
+title: 'Mailhot Uses Her Words to Heal in Her Memoir Heart Berries'
 content:
     items:
         - '@self.children'
