@@ -4,7 +4,7 @@ media_order: oboe3-min.jpg
 date: '19-09-2018 16:38'
 ---
 
-**By Desmond Homann, Variety Editor** _originally published in Issue 1, Volume 31 of The Univeristy Register on Friday, September 24, 2018_
+**By Desmond Homann, Variety Editor** _originally published in Issue 1, Volume 31 of The Univeristy Register on Friday, September 14, 2018_
 
 A new semester brings a variety of new music to Morris, as well as plenty of new musicians. Each fall, Morris’ Jazz Ensemble, Symphonic Winds, and Concert Choir perform a short Homecoming concert in order to preview the three highly talented ensembles. This showcase of Morris’ ensembles features two different musical selections from each group, and though it is only 50 minutes of music, it is sure to be a wonderful way to kick off this new school year. The Homecoming concert is free to all who plan on attending. The concert will be held on Saturday, September 22 at 4 p.m. in the Humanities Fine Arts Recital Hall.
 
