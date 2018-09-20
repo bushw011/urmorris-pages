@@ -11,7 +11,7 @@ content:
     url_taxonomy_filters: '1'
 ---
 
-**By Trey Goodsell, staff writer** _originally published in Issue 1, Volume 31 of The Univeristy Register on Friday, April 13, 2018_
+**By Trey Goodsell, Staff Writer** _originally published in Issue 1, Volume 31 of The Univeristy Register on Friday, September 14, 2018_
 
 Every year, memorials to the tragedy of September 11 do their best to capture hearts and minds. This year, the memorial is capturing them with cranes and flags, and not just the American one.
 
