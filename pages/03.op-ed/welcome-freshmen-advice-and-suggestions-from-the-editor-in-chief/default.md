@@ -4,7 +4,7 @@ media_order: Morris2.jpg
 date: '17-09-2018 19:52'
 ---
 
-**By Tehya Wachuta, Editor-in-Chief** _originally published in Issue 1, Volume 31 of The Univeristy Register on Friday, April 13, 2018_
+**By Tehya Wachuta, Editor-in-Chief** _originally published in Issue 1, Volume 31 of The Univeristy Register on Friday, September 14, 2018_
 
 I know that since it’s the third week of classes, it may be a little late to welcome freshmen to campus, but punctuality has never exactly been my strong suit. So, welcome, freshmen! I hope your first few weeks on campus have been phenomenal, and the transition into life on campus has been stressless. 
 
