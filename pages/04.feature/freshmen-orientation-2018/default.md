@@ -1,6 +1,7 @@
 ---
 title: 'Freshmen Orientation 2018: Guide to Morris'
 media_order: 'home on the prairie-min.jpg'
+date: '20-09-2018 13:38'
 ---
 
 **By Jon Antonsen, Feature Editor & Geordi Jones, Feature Editor II** _originally published in Issue 1, Volume 31 of The Univeristy Register on Friday, April 13, 2018_
