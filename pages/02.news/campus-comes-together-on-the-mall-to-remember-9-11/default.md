@@ -2,14 +2,13 @@
 title: 'Campus Comes Together on the Mall to Remember 9/11'
 date: '19-09-2018 00:00'
 content:
-    items:
-        - '@self.children'
-    limit: 5
+    items: '- ''@self.children'''
+    limit: '5'
     order:
         by: date
         dir: desc
-    pagination: true
-    url_taxonomy_filters: true
+    pagination: '1'
+    url_taxonomy_filters: '1'
 ---
 
 **By Trey Goodsell, staff writer** _originally published in Issue 1, Volume 31 of The Univeristy Register on Friday, April 13, 2018_
