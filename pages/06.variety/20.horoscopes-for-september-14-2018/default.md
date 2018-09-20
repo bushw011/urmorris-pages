@@ -1,14 +1,13 @@
 ---
 title: 'Horoscopes for September 14, 2018'
 content:
-    items:
-        - '@self.children'
-    limit: 5
+    items: '- ''@self.children'''
+    limit: '5'
     order:
         by: date
         dir: desc
-    pagination: true
-    url_taxonomy_filters: true
+    pagination: '1'
+    url_taxonomy_filters: '1'
 ---
 
 **By Desmond Homann, Variety Editor** _originally published in Issue 1, Volume 31 of The Univeristy Register on Friday,September 14, 2018_
