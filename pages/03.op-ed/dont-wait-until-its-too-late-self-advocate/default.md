@@ -4,7 +4,7 @@ media_order: 980x.png
 date: '17-09-2018 00:00'
 ---
 
-**By Trey Goodsell, Staff Writer** _originally published in Issue 1, Volume 31 of The Univeristy Register on Friday, September 14 2018_
+**By Trey Goodsell, Staff Writer** _originally published in Issue 1, Volume 31 of The Univeristy Register on Friday, September 14, 2018_
 
 The stereotype of college kids assumes many are activists bringing provocateurs to campus to challenge our safe spaces. (I don’t know what stereotypes are in with the public, if you couldn’t tell.) What’s startling about reality is that many of us are inarticulate up until we are out of college.
 
