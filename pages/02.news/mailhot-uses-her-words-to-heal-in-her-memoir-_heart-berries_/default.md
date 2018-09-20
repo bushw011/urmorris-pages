@@ -1,14 +1,13 @@
 ---
 title: 'Mailhot Uses Her Words to Heal in Her Memoir Heart Berries'
 content:
-    items:
-        - '@self.children'
-    limit: 5
+    items: '- ''@self.children'''
+    limit: '5'
     order:
         by: date
         dir: desc
-    pagination: true
-    url_taxonomy_filters: true
+    pagination: '1'
+    url_taxonomy_filters: '1'
 ---
 
 **By Melissa Voss, News Editor**_ originally published in Issue 1, Volume 31 of The Univeristy Register on Friday, April 13, 2018_
