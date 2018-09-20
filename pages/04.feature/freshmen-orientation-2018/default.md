@@ -4,7 +4,7 @@ media_order: 'home on the prairie-min.jpg'
 date: '20-09-2018 13:38'
 ---
 
-**By Jon Antonsen, Feature Editor & Geordi Jones, Feature Editor II** _originally published in Issue 1, Volume 31 of The Univeristy Register on Friday, April 13, 2018_
+**By Jon Antonsen, Feature Editor & Geordi Jones, Feature Editor II** _originally published in Issue 1, Volume 31 of The Univeristy Register on Friday, September 14, 2018_
 
 Morris may be a small town, but there’s no lack of things to do. Nowhere is this clearer than at Crystal Lanes, now featuring automated scoring! Make a visit to Morris’ very own bowling alley, open 3 p.m. to 10:30 p.m. Monday through Thursday, 3 p.m. to 12 a.m. Friday, 1 p.m. to 12 a.m. Saturday, and 1:30 p.m. to 10p.m. Sunday. Games are $3.50 per game per person. Don’t have your own bowling shoes? Rent a pair from Crystal Lanes for only 75 cents. On Sunday, Crystal Lanes has a special price: only $3 for a game and bowling shoes. If you’re looking for a bite to eat while you play, Crystal Lanes has pizza, snacks, and drinks of the non-alcoholic variety.
 
@@ -25,3 +25,5 @@ is showing the films “The Meg” (PG-13) and “Alpha” (PG-13) on the main s
 If you’re looking for a place to pick up some inexpensive clothes or decorations for your brand-new living space, look no further than the Someplace Safe thrift store. Someplace Safe is a non-profit organization run mostly by volunteers. All of the wares sold at the Someplace Safe thrift store are donated by the community of Morris, and a portion of the proceeds are donated back to people in need. Someplace Safe is located on Atlantic Avenue, behind Willie’s Supervalu grocery store. The thrift store is open 9 a.m. to 6 p.m. Monday through Friday, and 10 a.m. to 5 p.m. Saturday.
 
 Casey’s is the quintessential “I’m studying and need sustenance NOW” place. It is the only place in Morris that is open 24-hours. Please, if you need to take a walk, take a walk up 5th Street to Casey’s.
+
+_Photo on top Courtesy of Google Images_
