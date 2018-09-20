@@ -10,7 +10,7 @@ content:
     url_taxonomy_filters: '1'
 ---
 
-**By Melissa Voss, News Editor**_ originally published in Issue 1, Volume 31 of The Univeristy Register on Friday, April 13, 2018_
+**By Melissa Voss, News Editor**_ originally published in Issue 1, Volume 31 of The Univeristy Register on Friday, September 14, 2018_
 
 On Thursday September 6th at 7 p.m., Morris students, faculty and community members gathered in the Lammers Proscenium Theatre on the University of Minnesota Morris campus to listen to New York Times Bestselling author Terese Maire Mailhot read excerpts from her memoir Heart Berries, as well as take questions from the audience about her memoir and life as an up-and-coming author.  The event was presented by Native American Student Success (NASS) and followed a welcome dinner in Oyate Hall honoring Mailhot.
  
