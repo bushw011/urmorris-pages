@@ -3,7 +3,7 @@ title: 'Be Bothered, Be Very Bothered, by the Dystopia of Sorry to Bother You'
 media_order: 'sorry2-min.jpg,sorry-min.jpg'
 ---
 
-**By Trey Goodsell, Staff Writer** _originally published in Issue 1, Volume 31 of The Univeristy Register on Friday, September 13, 2018_
+**By Trey Goodsell, Staff Writer** _originally published in Issue 1, Volume 31 of The Univeristy Register on Friday, April 14, 2018_
 
 Sorry to Bother You is a revelation. The film is the rare political satire, but not one of The Daily Show or its ilk, pandering to an audience in disbelief over current events, but rather one with a strong point of political view. If anything, the film is sharply critical of being in disbelief over the shape of our country, seeing clearly that this is the realization of capitalism. Through this story, the whole of our society that permits widespread indignity to exist alongside unprecedented avarice is skewered. 
 
