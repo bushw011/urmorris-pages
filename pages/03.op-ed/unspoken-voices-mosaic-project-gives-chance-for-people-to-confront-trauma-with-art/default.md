@@ -1,5 +1,6 @@
 ---
 title: 'Unspoken Voices Mosaic Project Gives Chance for People to Confront Trauma with Art'
+media_order: plate.jpg
 ---
 
 **By Kilomarie Granda, Contributor; Ashlee Bednar, Contributor; and Desmond Homann, Variety Editor** _originally published in Issue 2, Volume 31 of The Univeristy Register on Friday, September 28, 2018_
