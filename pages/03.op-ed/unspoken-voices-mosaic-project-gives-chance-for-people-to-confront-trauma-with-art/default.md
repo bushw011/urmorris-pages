@@ -27,3 +27,5 @@ _If you cannot make it to the event, but still want to participate, we invite yo
 https://docs.google.com/forms/d/e/1FAIpQLScb6n_jgmyA5n_m_OL2vjPioUhQXF4NazwCHJfjFXORmpwtRg/viewform?usp=sf_link
 
 _We will take pictures of the plate, with the words of your choosing on it, as well as pictures of the plate once it has been broken and then pieced together as part of the mosaic. We can email you the pictures as well, if you would like us to._
+
+_Photo on Top Courtesy of Google Images_
