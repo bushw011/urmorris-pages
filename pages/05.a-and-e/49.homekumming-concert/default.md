@@ -1,6 +1,7 @@
 ---
 title: '2018 HomeKUMMing Concert'
 media_order: 27983130_1002334709919738_6863365539510804801_o.jpg
+date: 09/29/2018
 ---
 
 **By Janie Dam, Arts & Entertainment Editor** originally published in Issue 2, Volume 31 of The University Register on Friday, September 28, 2018
