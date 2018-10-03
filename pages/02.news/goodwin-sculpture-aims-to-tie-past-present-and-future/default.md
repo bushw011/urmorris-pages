@@ -15,3 +15,4 @@ To Goodwin, this was more than just a sculpting project, but a spiritual ad- ven
 
 Goodwin’s intentions of healing trauma spread to the members of the Morris community as well. As Puncky and Mary Soehren Heppner said, the sculpture now stands on campus as a reminder of our past and a link to our future; an homage to the University’s “multi-cultural, cross-cultural” identity.
 
+_photo at the top courtesy of UMM Flickr_
