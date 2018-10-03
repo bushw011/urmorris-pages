@@ -1,5 +1,6 @@
 ---
 title: 'Civic renewal or bust: Briggs hosts Constitution Day event'
+date: 09/28/2018
 ---
 
 **By Trey Goodsell, Staff Writer** _originally published in Issue 2, Volume 31 of The Univeristy Register on Friday, September 28, 2018_
@@ -33,3 +34,4 @@ In the current debate, Kavanaugh has a long trail leading through two presidenci
 
 All of these pressing concerns belie the fact the Constitution only means something if we agree collectively that it does. Without great interest from the public in civic life, the Constitution, like this article, is just words on a page.
 
+_Photo courtesy of earthrights.org_
