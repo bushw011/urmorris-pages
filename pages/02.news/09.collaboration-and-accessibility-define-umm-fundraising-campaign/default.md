@@ -3,6 +3,8 @@ title: 'Collaboration and accessibility define UMM fundraising campaign'
 date: 09/28/2018
 ---
 
+**By Trey Goodsell, Staff Writer**  _originally published in Issue 2, Volume 31 of The University Register on Friday, September 28, 2018_
+
 If you have appreciated the additions to the Student Center any time in the last week, you have a very aptly named family to thank.
 The University Administration opened the new Edward J. and Helen Jane Morrison Performing Arts Center this past Friday, September 21. The Center encompasses the re-modeled Edson Auditorium and the lobby area outside. Some of the noteworthy additions include the new entrance that accentuates the presence of the auditorium, the new charging ports coupled with counters, and the new flooring for the previous opening into the basement level and first floor of the Student Center.
 
