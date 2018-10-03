@@ -1,6 +1,7 @@
 ---
 title: 'Goodwin sculpture aims to tie past, present, and future'
-date: 09/28/2018
+media_order: 44843532702_f6c93dfb69_z-min.jpg
+date: '28-09-2018 00:00'
 ---
 
 **By Melissa Voss, News Editor** _originally published in Issue 2, Volume 31 of The University Register on Friday, September 28, 2018_
