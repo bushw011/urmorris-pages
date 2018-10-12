@@ -6,7 +6,6 @@ date: '12-04-2018 19:16'
 taxonomy:
     category:
         - article
-        - featured
 ---
 
 **By Joshua Schlenner, News Editor** _uploaded at 7:41 p.m. on Thursday, April 12, 2018_
