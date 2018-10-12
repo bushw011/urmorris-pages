@@ -5,7 +5,6 @@ date: '01-05-2018 15:59'
 taxonomy:
     category:
         - article
-        - featured
 content:
     items:
         - '@self.children'
