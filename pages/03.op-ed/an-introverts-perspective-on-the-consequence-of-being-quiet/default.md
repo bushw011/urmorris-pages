@@ -1,8 +1,9 @@
 ---
 title: 'An Introvert''s Perspective on the Consequence of Being Quiet'
+media_order: plate2-min.jpg
 ---
 
-**By Tehya Wachuta, Editor-in-Chief** uploaded at 11:10 a.m. on Friday, October 12, 2018
+**By Tehya Wachuta, Editor-in-Chief** uploaded at 11:15 a.m. on Friday, October 12, 2018
 
 Last weekend, I helped to construct a mosaic that was so much more than an art project. It was a symbol of closure and of community, and a way for participants to confront the negative things in their lives and take control of them.
 
