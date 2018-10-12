@@ -1,5 +1,6 @@
 ---
 title: 'What Kavanaugh''s Confirmation Means for Us'
+media_order: kavanaugh-min.jpg
 ---
 
 **By Cal Mergendahl, Writer** _uploaded at 11:00 a.m. on Friday, October 12, 2018_
