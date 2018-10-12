@@ -1,6 +1,5 @@
 ---
 title: 'Vote, You Nerd'
-media_order: vote.jpg
 ---
 
 **By Jon Antonsen, Staff Writer** uploaded at 11:20 a.m. on Friday, October 12, 2018
