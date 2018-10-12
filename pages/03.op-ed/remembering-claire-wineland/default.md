@@ -1,5 +1,8 @@
 ---
 title: 'Remembering Claire Wineland'
+taxonomy:
+    category:
+        - featured
 ---
 
 **By Jeph Novak, Head Copy-Editor** _originally published in Issue 2, Volume 31 of The Univeristy Register on Friday, September 28, 2018_
