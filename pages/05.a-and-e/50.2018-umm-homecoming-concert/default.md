@@ -16,14 +16,14 @@ For understanding of this piece, the English translation follows:
 
 _Hey, lacemaker woman,
 If you teach me how to weave, 
-I’ll teach you how to flirt.
+I’ll teach you how to flirt._
 
-Hey, lacemaker woman,
+_Hey, lacemaker woman,
 The beautiful village girl
 Has no other occupation
-She only wants to stay at the window
+She only wants to stay at the window_
 
-Virgulino is Lampeao.
+_Virgulino is Lampeao.
 He is Lampa, Lampa, Lampa,
 He is Lampeao.
 His name is Virgulino,
