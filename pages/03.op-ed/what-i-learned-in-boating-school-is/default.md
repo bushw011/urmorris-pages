@@ -6,7 +6,6 @@ date: '13-04-2018 10:12'
 taxonomy:
     category:
         - article
-        - featured
 ---
 
 **By Christian Pfeiffer, Editor-in-Chief** _uploaded at 10:11 a.m. on Friday, April 13, 2018_
