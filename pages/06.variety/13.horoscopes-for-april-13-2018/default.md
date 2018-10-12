@@ -6,7 +6,6 @@ publish_date: '16-04-2018 13:00'
 taxonomy:
     category:
         - article
-        - featured
 content:
     items: '- ''@self.children'''
     limit: '5'
