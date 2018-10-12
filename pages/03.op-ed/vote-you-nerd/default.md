@@ -1,8 +1,9 @@
 ---
 title: 'Vote, You Nerd'
+media_order: vote.jpg
 ---
 
-**By Jon Antonsen, Staff Writer** uploaded at 11:25 a.m. on Friday, October 12, 2018
+**By Jon Antonsen, Staff Writer** uploaded at 11:20 a.m. on Friday, October 12, 2018
 
 Hey Morris fam, it’s that time of the biennial: time to register to vote! To learn how to register to vote, turn to the back of this paper: MCSA has purchased a very nice and informative ad (in color!) for you to learn how to register to vote!
 
