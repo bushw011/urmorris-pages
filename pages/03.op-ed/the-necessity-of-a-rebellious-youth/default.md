@@ -6,7 +6,6 @@ date: '13-04-2018 10:17'
 taxonomy:
     category:
         - article
-        - featured
 ---
 
 **By Evan Aanerud, Staff Writer** _uploaded at 10:16 a.m. on Friday, April 13, 2018_
