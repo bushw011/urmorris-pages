@@ -6,7 +6,6 @@ date: '12-04-2018 00:00'
 taxonomy:
     category:
         - article
-        - featured
 ---
 
 **By Tehya Wachuta, Feature Editor** _uploaded at 7:23 p.m. on Thursday, April 12, 2018_
