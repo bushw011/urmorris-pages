@@ -1,0 +1,19 @@
+---
+title: 'Performing Arts Series Opens with Nobuntu'
+date: 10/12/18
+---
+
+**By Janie Dam, Arts & Entertainment Editor** _originally published in Issue 3, Volume 31 of The University Register on Friday, October 12, 2018_
+
+Campus Activities Council, along with support from the Arts Midwest Touring Fund, Minnesota State Arts Board, and The Crane Group proudly presented Nobuntu, the five-part vocal ensemble from Zimbabwe, on Saturday evening of October 6. The Edson Auditorium filled with students, faculty, and community members just before 7:30 p.m when the first show of this year’s Performing Arts Series began. The women of Nobuntu aligned on stage, wearing bright, colorful garments that exquisitely stood out against the black background. With only a hand drum played by one of the members for the first song, all five vocals seemed to fill the room effortlessly. Nobuntu performed songs from their latest album, _Ekhaya_, that was released in 2016 and catapulted them towards various television and radio appearances in Africa and Europe. Their sound is heavily influenced by Afro-Jazz and Gospel music, both in original writings and renditions of renowned songs such as_ Amazing Grace_, that was soulfully presented. The a capella group also incorporates authentic dance movements when performing, which always hypes the audience members up. Even on stage, each of the members manifest their own unique characters but when it comes to making a message as a whole, all of them are conspicuously on the same page when something needs to be said once and clear.
+
+“As women of Nobuntu, we do not support abuse,” Heather Dube asserted, telling the audience that women being abused in Zimbabwe is not much concern to the majority of people there. Unfortunately, this is often normalized in many cultures around the world. “_The men will grow out of it_, that is what people will say. However, the women of Nobuntu does not support abuse of any kind. If you have been abused, please tell somebody.” This was avowed before delivering the third song they sung, which was about a girl crying out to her mother for this very reason. Through the vibrant energy and up-beat harmony, it would not have been assumed that the song had such heavy scenario behind it. Still, many people felt the passion that was projected.
+
+The word _Nobuntu_ is from an African concept that values love, unity, and family through a woman’s perspective. The a capella group sings to celebrate their culture through art.
+“We are the best all-female ensemble in Zimbabwe,” Zanele Manhega said amusingly, then continued with, “we are the best ensemble ever”.
+
+Nobuntu had been nominated for Best Musician of the Year at the Zimbabwe International Women Awards in the last few seasons. Their music has captured the attention of people from an array of countries. Near the end of the show, the ensemble insisted on a more interactive session: teaching the audience a song in Ndebele, one of the 16 official languages of Zimbabwe. It consists of simultaneous clicks while enunciating a word. Because of the difficulty to non-native speakers, the room filled with giggles as the ladies demonstrated. Despite this, everyone was amazed of the way it had been incorporated in their song.
+
+Nobuntu is only in the beginning of their tour this evening. With 14 different stops in the U.S ahead of them, the University of Minnesota-Morris is honored to be one of their first visits where they share their heritage through music. Guaranteed, there were nothing but positive remarks for the ensemble. Thank you to Campus Activities Council’s Performing Arts Committee for presenting Zimbabwe’s Nobuntu!
+
+_Photo at top courtesy of **nobuntu-music.com**_
