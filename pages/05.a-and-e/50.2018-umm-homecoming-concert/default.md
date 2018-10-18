@@ -7,11 +7,11 @@ taxonomy:
         - featured
 ---
 
-**By Janie Dam, Arts & Entertainment Editor** originally published in Issue 2, Volume 31 of The University Register on Friday, September 28, 2018
+**By Janie Dam, Arts & Entertainment Editor** _originally published in Issue 2, Volume 31 of The University Register on Friday, September 28, 2018_
 
 Homecoming is one of the most lively weekends on any college campus. People, especially first-year students, have the chance to experience various events and the University of Minnesota Morris’ Homecoming Concert is no exclusion to this tradition. On an early Saturday evening of September 22 at 4:00 p.m., the campus’ three music ensembles performed a showcase that demonstrate the talents of Morris students. Conducted by Simon Tiller, Symphonic Winds was the first group to play for the Recital Hall. Two pieces were beautifully presented: _Allerseelen_ by Richard Strauss and _Toccata_ by Girolamo Frescobaldi.
 
-After the audience members’ enthusiastic applause,  Jazz Ensemble, directed by Jonathan Campbell, gathered and offered a more upbeat vibe through the two classics that they performed: _Blues in Hoss’ Flat_ by Frank Foster and _The Jody Grind_ by Horace Silver.
+After the audience members’ enthusiastic applause, Jazz Ensemble, directed by Jonathan Campbell, gathered and offered a more upbeat vibe through the two classics that they performed: _Blues in Hoss’ Flat_ by Frank Foster and _The Jody Grind_ by Horace Silver.
 
 Lastly, without the use of instruments and rather spending time and dedication fine-tuning their vocal abilities, members of the Concert Choir, conducted by Bradley Miller, assembled onto stage and gracefully sang an American Folk Song titled, _Now Our Meeting’s Over_, which swayed many, if not everybody, who was present in the room. From _Four Madrigals on Rose Texts_, Paul Mealor’s _Now Sleeps the Crimson Petal_ was sang. In Portuguese,_ Muie Rendera_, is an arrangement of two traditional Brazilian songs: one being the same title and the other called _Lampeao_. 
 
