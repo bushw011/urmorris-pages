@@ -43,6 +43,6 @@ We welcome all student writers, graphic designers, photographers, copy editors, 
 
 **Janie Dam, Arts & Entertainment Editor**	|	damxx048@morris.umn.edu
 
-**Des Homann, Variety Editor**	|	homan049@morris.umn.edu
+**Desmond Homann, Variety Editor**	|	homan049@morris.umn.edu
 
 
