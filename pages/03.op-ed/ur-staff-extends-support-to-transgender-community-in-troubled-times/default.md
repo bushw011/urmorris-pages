@@ -25,4 +25,4 @@ Whatever your gender identity, whatever your personal definition of gender, The 
 
 — The UR Staff
 
-_Photo on Top Courtesy of Google Images_
+_Image on Top Created by Tehya Wachuta_
