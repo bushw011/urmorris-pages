@@ -11,6 +11,7 @@ Maybe coming to college has made you care more about the environment or maybe re
 Is your go-to meal a grilled cheese? Not anymore. If most of your dinners are a 5 ounce burger patty or a chicken breast with some veggies on the side? Try again. Vegan meat and cheese replacements are expensive and honestly don’t taste like meat or cheese. Your go-to meals will need a complete overhaul.
 
 **Know when to buy fresh vs canned vs dried** 
+
 A great source of protein is beans- but canned beans can be expensive and that adds up. Buying dried beans (prepackaged at Willie’s or in bulk at Pomme de Terre) is way cheaper, and so worth the extra 2 hours of effort. Frozen corn and broccoli are just as good as fresh and way better than canned. The Morris farmer’s market is THE BEST way to get your veggie fill. 
 
 **Explore your stores.**
