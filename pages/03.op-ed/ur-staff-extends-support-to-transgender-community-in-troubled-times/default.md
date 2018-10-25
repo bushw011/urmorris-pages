@@ -1,6 +1,6 @@
 ---
 title: 'UR Staff Extends Support to Transgender Community in Troubled Times'
-media_order: 'trans flag-min.png'
+media_order: 'gay flag+-min.png,trans flag-min.png'
 ---
 
 **By The UR Staff** _uploaded at 4:05 p.m. on Thursday, October 25, 2018_
