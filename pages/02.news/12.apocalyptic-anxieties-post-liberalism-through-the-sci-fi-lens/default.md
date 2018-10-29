@@ -1,5 +1,6 @@
 ---
 title: 'Apocalyptic Anxieties: post-liberalism through the sci-fi lens'
+date: 10/26/2018
 media_order: 30468897407_aa3337ef0d_k-min.jpg
 ---
 
