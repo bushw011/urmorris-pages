@@ -1,6 +1,7 @@
 ---
-title: 'To The Freshman: please, leave your lanyards at the door.'
-date: 09/14/2018
+title: 'To the Freshman: please, leave your lanyards at the door.'
+media_order: 'Screenshot (52).png'
+date: '14-09-2018 00:00'
 ---
 
 **Written by Jon Antonsen, Feature Editor and Geordi Jones, Feature Editor** _originally published in Issue 1, Volume 31 of The University Register on Friday, September 14, 2018_
@@ -23,3 +24,5 @@ Want to catch a movie? You don’t even have to leave town! Located on East 6th 
 If you’re looking for a place to pick up some inexpensive clothes or decorations for your brand-new living space, look no further than the Someplace Safe thrift store. Someplace Safe is a non-profit organization run mostly by volunteers. All of the wares sold at the Someplace Safe thrift store are donated by the community of Morris, and a portion of the proceeds are donated back to people in need. Someplace Safe is located on Atlantic Avenue, behind Willie’s Supervalu grocery store. The thrift store is open 9 a.m. to 6 p.m. Monday through Friday, and 10 a.m. to 5 p.m. Saturday. 
 
 Casey’s is the quintessential “I’m studying and need sustenance NOW” place. It is the only place in Morris that is open 24-hours. Please, if you need to take a walk, take a walk up 5th Street to Casey’s.
+
+_(Photo at top courtesy of Jon Antonsen)_
