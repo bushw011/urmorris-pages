@@ -19,3 +19,4 @@ Rogers and Stagg compared thoughts on their passion for swing dancing. When aske
 
 One thing for certain has not changed in the last twenty years of Swing Club: the officers share a passion for helping the students of UMM discover a new fact of their identity through swing dancing. Interested in swing dancing? Stop by the RFC Multipurpose Room Monday nights at 9 p.m., and Swing Club will set you up!
 
+_(Photo at top courtesy of Tehya Wachuta)_
