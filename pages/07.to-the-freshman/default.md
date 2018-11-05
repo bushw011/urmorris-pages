@@ -1,5 +1,6 @@
 ---
 title: 'To The Freshman: please, leave your lanyards at the door.'
+date: 09/14/2018
 ---
 
 **Written by Jon Antonsen, Feature Editor and Geordi Jones, Feature Editor** _originally published in Issue 1, Volume 31 of The University Register on Friday, September 14, 2018_
