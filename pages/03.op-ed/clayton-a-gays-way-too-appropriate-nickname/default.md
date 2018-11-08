@@ -3,7 +3,7 @@ title: 'Clayton A. Gay''s Way Too Appropriate Nickname'
 media_order: 'gay hall pic-min.jpg'
 ---
 
-**By Ariel Cordes, Contributor** _Originally published in Issue 4, Volume 31 of The University Register on Friday, October 26, 2018_
+**By Ariel Cordes, Contributor** _uploaded at 1:55 p.m. on Thursday, November 8, 2018_
 
 It is now November, the month in which we lose the most daylight per day, leading to things like the sun going down before 6 p.m., people with Seasonal Affective Disorder having their moods worsened, and those lucky bastards without souls remaining chipper as always. So, given this, I thought it appropriate to perhaps offset this depressing fact with an amazing, yet no less true, one. 
 
