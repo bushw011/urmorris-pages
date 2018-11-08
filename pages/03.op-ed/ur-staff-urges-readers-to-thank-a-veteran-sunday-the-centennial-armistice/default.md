@@ -1,5 +1,6 @@
 ---
 title: 'UR Staff Urges Readers to Thank a Veteran Sunday, the Centennial Armistice'
+media_order: arlington-min.jpg
 ---
 
 **By The UR Staff** _uploaded at 2:05 on Thursday, November 8_
