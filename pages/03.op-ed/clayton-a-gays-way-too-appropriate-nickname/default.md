@@ -1,5 +1,6 @@
 ---
 title: 'Clayton A. Gay''s Way Too Appropriate Nickname'
+media_order: 'gay hall pic-min.jpg'
 ---
 
 **By Ariel Cordes, Contributor** _Originally published in Issue 4, Volume 31 of The University Register on Friday, October 26, 2018_
