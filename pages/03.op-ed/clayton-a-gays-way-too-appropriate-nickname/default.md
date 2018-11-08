@@ -21,4 +21,6 @@ Now, I realize that this might be somewhat difficult to believe. A namesake of o
 
 Now rest assured, I did not make this up. It is far too unbelievable to be fictitious. I understand your skepticism, though, and so, I will attempt to include a screenshot of previously mentioned scanned editorial, specifically the relevant part.
 
+![](nickname-gay-min.PNG)
+
 Now, I hope, like those who knew Kinks, that I have brightened the lives of those reading this. And I hope that, for at least a moment, we can both forget about the waning daylight and appreciate the fact that we can now refer to a residence hall as “Gay Kinks Hall.”
