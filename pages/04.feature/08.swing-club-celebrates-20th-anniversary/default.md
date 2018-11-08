@@ -1,6 +1,7 @@
 ---
 title: 'Swing Club celebrates 20th anniversary'
-date: 09/28/2018
+media_order: 'swing dance1-min.jpg,Screenshot (53).png'
+date: '28-09-2018 00:00'
 ---
 
 **Written by Geordi Jones, Feature Editor** _originally published in Issue 2, Volume 31 of The University Register on Friday, September 28, 2018_
