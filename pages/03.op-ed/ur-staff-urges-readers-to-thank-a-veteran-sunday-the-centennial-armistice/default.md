@@ -29,3 +29,5 @@ It is more important than ever to make sure that our veterans know that we value
 To veterans everywhere, we would like to say again, thank you.
 
 The UR Staff & MCSA Executive Committee
+
+_Photo on Top Courtesy of Google Images_
