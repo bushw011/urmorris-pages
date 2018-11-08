@@ -1,12 +1,10 @@
 ---
 title: 'UMM Concert Choir celebrates 40 years of music-making'
-date: 09/28/2018
+media_order: choir-min.png
+date: '28-09-2018 00:00'
 ---
 
 **Written by Geordi Jones, Feature Editor** _originally published in Issue 2, Volume 31 of The University Register on Friday, September 28, 2018_
-
-Author: Geordi Jones
-Section: Feature
 
 The University of Minnesota Morris’s Concert Choir is approaching its 40th anniversary this coming spring, and we at the University Register wish to celebrate the several decades’ of musical achievement by providing a brief history of the ensemble, as well as some personal insight to the ensemble’s inner workings, all from yours truly: Geordi Jones, feature editor of the University Register and second alto of the UMM Concert Choir! 
 
