@@ -24,4 +24,4 @@ One thing for certain has not changed in the last twenty years of Swing Club: th
 
 _Above: Jennifer Rogers and Jamin Stagg. Photo by Tehya Wachuta_
 
-_Photo at top courtesy of Google Images_
+_Image at top created by Tehya Wachuta, with stock images by Ioulia Bolchakova_
