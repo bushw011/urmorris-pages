@@ -1,5 +1,6 @@
 ---
 title: 'Letters Home'
+date: 11/9/2018
 ---
 
 **By Janie Dam, Arts & Entertainment Editor** _originally published in Issue 5, Volume 31 of The University Register on Friday, November 9, 2018_
