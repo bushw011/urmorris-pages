@@ -3,7 +3,7 @@ title: 'UMM Jazz Ensemble Offer Children-Oriented Presentation'
 date: 11/9/2018
 ---
 
-**By Christian Pfeiffer, President of UMM Jazz Ensemble**_ originally published in Issue 5 of Volume, 31 of The University Register on Friday, November 9, 2018_
+**By Christian Pfeiffer, President of UMM Jazz Ensemble**_ originally published in Issue 5, Volume, 31 of The University Register on Friday, November 9, 2018_
 
 Jazz at the Library was a two-part program taking place at the Morris Public Library on Tuesday, November 6 from 6:00-7:30 p.m. The first segment, running from 6-6:30 p.m, consisted of an all-age presentation titled "What is Jazz?" followed by an hour-long performance by UMM's Jazz Ensemble I. 
 
