@@ -1,6 +1,7 @@
 ---
 title: 'Theatre Discipline Presents: Dead Man''s Cell Phone'
 media_order: 'cell phone-min.jpg'
+published: false
 date: '09-11-2018 00:00'
 ---
 
