@@ -1,6 +1,7 @@
 ---
 title: 'Theatre Discipline Presents: Dead Man''s Cell Phone'
-date: 11/9/2018
+media_order: 31794836528_950ec77dc4_o-min.jpg
+date: '09-11-2018 00:00'
 ---
 
 **By Janie Dam, Arts & Entertainment Editor** _originally published in Issue 5, Volume 31 of The University Register on Friday, November 9, 2018_
