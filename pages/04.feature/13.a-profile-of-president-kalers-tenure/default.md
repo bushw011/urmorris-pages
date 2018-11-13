@@ -1,6 +1,7 @@
 ---
 title: 'A profile of President Kaler''s tenure'
-date: 10/28/2018
+media_order: kaler-min.jpg
+date: '28-10-2018 00:00'
 ---
 
 **Written by Trey Goodsell, Staff Writer** _originally published in Issue 4, Volume 31 of The University Register on Friday, October 28, 2018_
