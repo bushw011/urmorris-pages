@@ -1,6 +1,6 @@
 ---
 title: 'Theatre Discipline Presents: Dead Man''s Cell Phone'
-media_order: '31794836528_950ec77dc4_o-min (1).jpg'
+media_order: 'cell phone-min.jpg'
 date: '09-11-2018 00:00'
 ---
 
@@ -21,4 +21,4 @@ At Mrs. Gottlieb’s house, she tells Jean that Gordon's mistress had taken over
 
 With the help of the theatre discipline’s production staff, _Dead Man’s Cell Phone_ ran three successful shows that amused students and community members. The play was originally produced in 2006 by Woolly Mammoth Theatre Company and premiered in New York’s Playwrights Horizons, Inc. in 2008. There will, of course, be other live theatre performances from UMM in upcoming events to look forward to such as the Play in a Day on Saturday, November 10 and Meinigens’ productions as early as February.
 
-_Photo at top courtesy of UMM, Flickr_
+_Photo at top courtesy of UMM Flickr_
