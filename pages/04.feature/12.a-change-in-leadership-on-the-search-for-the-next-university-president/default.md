@@ -1,6 +1,7 @@
 ---
 title: 'A change in leadership: on the search for the next University President'
-date: 10/26/2018
+media_order: UMN-min.jpg
+date: '26-10-2018 00:00'
 ---
 
 **Written by Trey Goodsell, Staff Writer** _originally published in Issue 4, Volume 31 of The University Register on Friday, October 28, 2018_
