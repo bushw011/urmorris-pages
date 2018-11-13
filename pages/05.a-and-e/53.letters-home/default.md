@@ -1,6 +1,6 @@
 ---
 title: 'Letters Home'
-media_order: 'letters home-min.png'
+media_order: 'letters home2-min.png,letters home-min.png'
 date: '09-11-2018 00:00'
 ---
 
