@@ -23,3 +23,5 @@ It is not surprising that arguments over finances have defined the tenure of Pre
 President Kaler has been vital in securing funding streams beyond state appropriations. Donations and fundraising campaigns are a fact of life now for higher education, as evidenced by our our campaign, Driven. President Kaler was able to secure unusual funding streams to keep tuition down in years without a tuition freeze from the state. Many of the new programs that have been instituted under his tenure rely on non-institutional funding. The vulnerability of these programs is a question left unresolved, and more salient with his coming retirement.
 
 Eric Kaler was not the first president to face these institutional problems, and he is unlikely to be the last. With three new chancellors at University of Minnesota campuses, we can hope that the next leader has enough of a clean slate to institute a vision for the university system that has been missing during much of President Kaler’s tenure.
+
+_Photo at top courtesy of UMN Alumni Association_
