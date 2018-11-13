@@ -1,6 +1,6 @@
 ---
 title: 'Theatre Discipline Presents: Dead Man''s Cell Phone'
-media_order: 31794836528_950ec77dc4_o-min.jpg
+media_order: '31794836528_950ec77dc4_o-min (1).jpg'
 date: '09-11-2018 00:00'
 ---
 
