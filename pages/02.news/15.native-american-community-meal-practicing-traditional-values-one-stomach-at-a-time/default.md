@@ -3,6 +3,8 @@ title: 'Native American Community Meal: Practicing Traditional Values, One Stoma
 date: 11/9/2018
 ---
 
+**By Trey Goodsell, Staff Writer** _Originally published in Issue 5, Volume 31 of The University Register on Friday, November 9, 2018_
+
 What is the mission of a Community Meal? Is it service? Is it education? Both, neither, a mix of this and something else? 
 
 The Office of Community Engagement (OCE), in cooperation with the Organic Gardening Club (OGC), the Circle of Nations Indigenous Association (CNIA), and the Office of Equity, Diversity, and Intercultural Exchange (EDI), hosted the final community meal of the semester on Monday, November 5. This meal, with a menu selected by students based on foods traditionally a part of their culture, was the product of staff at UMM, students, their communities at home, and the land, not to mention the history that ties all of those components together. 
