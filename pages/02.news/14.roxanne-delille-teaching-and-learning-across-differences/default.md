@@ -1,5 +1,6 @@
 ---
 title: 'Roxanne DeLille: Teaching and Learning Across Differences'
+date: 11/9/2018
 media_order: 43865780760_60710d87e0_k.jpg
 ---
 
