@@ -28,4 +28,4 @@ To end her presentation, Larson emphasises on the need for the younger generatio
 
 Larson also gave a list of recommended readings on a final presentation slide before the Q&A session began.
 
-
+_photo courtesy of UMM Flickr_
