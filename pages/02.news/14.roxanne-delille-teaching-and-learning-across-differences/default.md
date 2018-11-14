@@ -1,5 +1,6 @@
 ---
 title: 'Roxanne DeLille: Teaching and Learning Across Differences'
+media_order: 43865780760_60710d87e0_k.jpg
 ---
 
 **By Trey Goodsell, Staff Writer** _Originally published in Issue 5, Volume 31 of The University Register on Friday, November 9, 2018_
