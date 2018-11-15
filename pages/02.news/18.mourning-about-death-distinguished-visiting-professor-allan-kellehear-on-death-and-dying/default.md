@@ -30,3 +30,5 @@ Lastly, diagnosis and the locus of control address how death is certified and va
 To wrap up his presentation, Kellehear summarized five main areas of sociological factors that changed the way we experience and perceive dying: public health changes (sanitation, clean water, housing); interpersonal changes (increase in privacy, growth of single income families, increase in sentimentality, waning from religious influences); gentrification (increase and spread of middle class policy); professionalism (doctors, lawyers, funerals); and economic changes (primacy of consumption over production).
 
 Kellehear also released a book “A Social History of Dying”  in 2007 that goes more in-depth of how death, social responsibility, and death-related sciences have changed throughout the course of human history.
+
+_photo above courtesy of UMM Flickr_
