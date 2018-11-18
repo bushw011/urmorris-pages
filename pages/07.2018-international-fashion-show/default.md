@@ -1,5 +1,6 @@
 ---
 title: '2018 International Fashion Show'
+date: 11/16/18
 ---
 
 **By Janie Dam, Arts & Entertainment Editor** _originally published in Issue 6, Volume 31 of The University Register on Friday, November 16, 2018_
