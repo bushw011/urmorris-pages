@@ -15,4 +15,4 @@ The strongest points in the album are both of its slower tracks: “Nowhere Left
 
 Overall, their general ideas are cool, however some of their riffs aren’t as big as they should be, and they should have included more tracks on the record.
 
-_Photo at top courtesy of genius.com_
+_Photo at top courtesy of fumanchu.bandcamp.com_
