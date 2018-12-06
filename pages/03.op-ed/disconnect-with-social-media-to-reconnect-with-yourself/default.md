@@ -1,5 +1,6 @@
 ---
 title: 'Disconnect with Social Media to Reconnect with Yourself'
+media_order: 'social media & mental health-min.jpg'
 ---
 
 By Melissa Voss, News Editor uploaded at 2:25 p.m. on Thursday, December 6, 2018
@@ -19,3 +20,5 @@ But it was not an easy transition. In the beginning, I was optimistic — imagin
 Gradually I found things that occupied my time that not only got me out of my dorm room, but that I enjoyed. I was able to say yes to all of those experiences and opportunities that I would have just ignored because I felt as if I had no time. I was able to be productive with my schoolwork right as I woke up in the morning because I was not stuck in bed for an hour scrolling through Facebook and Instagram. I was able to find interests that fascinated me, allowing me to become more connected with who I am, not someone I simply wanted or thought I should be.
 
 I have grown up in the age of technology and social media, but that does not mean I have to be consumed by it. We all have the choice to turn off the Wifi, delete an app, or put down the phone. This past week, I have slowly re-introduced myself to social media, but I have lost the desire to sit down and scroll. I found that unplugging from social media was the best thing I could have done for my self-esteem and my own happiness. And I urge others to do the same, even if it is just for a day.
+
+_Photo on top courtesy of Google Images_
