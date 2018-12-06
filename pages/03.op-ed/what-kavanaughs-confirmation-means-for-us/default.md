@@ -1,5 +1,6 @@
 ---
 title: 'What Kavanaugh''s Confirmation Means for Us'
+date: '12-10-2018 16:51'
 ---
 
 **By Cal Mergendahl, Writer** _uploaded at 11:00 a.m. on Friday, October 12, 2018_
