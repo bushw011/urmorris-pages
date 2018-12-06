@@ -1,6 +1,9 @@
 ---
 title: 'It''s Okay To Be the Best: Spite as a Form of Motivation'
 media_order: motivation-min.jpg
+taxonomy:
+    category:
+        - feature
 ---
 
 **By Desmond Homann, Variety Editor** _Originally published in Issue 6, Volume 31 of The University Register on Friday, November 16, 2018_
