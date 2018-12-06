@@ -1,6 +1,7 @@
 ---
 title: 'It''s Okay To Be the Best: Spite as a Form of Motivation'
 media_order: motivation-min.jpg
+date: '19-11-2018 17:00'
 taxonomy:
     category:
         - feature
