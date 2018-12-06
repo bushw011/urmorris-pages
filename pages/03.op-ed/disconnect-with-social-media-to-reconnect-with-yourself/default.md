@@ -3,6 +3,7 @@ title: 'Disconnect with Social Media to Reconnect with Yourself'
 media_order: 'social media & mental health-min.jpg'
 taxonomy:
     category:
+        - article
         - feature
 ---
 
