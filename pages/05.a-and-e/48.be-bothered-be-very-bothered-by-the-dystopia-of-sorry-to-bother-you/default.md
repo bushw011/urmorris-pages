@@ -1,10 +1,7 @@
 ---
 title: 'Be Bothered, Be Very Bothered, by the Dystopia of Sorry to Bother You'
-date: 9/12/2018
 media_order: sorry2-min.jpg
-taxonomy:
-    category:
-        - featured
+date: '12-09-2018 00:00'
 ---
 
 **By Trey Goodsell, Staff Writer** _originally published in Issue 1, Volume 31 of The Univeristy Register on Friday, September 12, 2018_
