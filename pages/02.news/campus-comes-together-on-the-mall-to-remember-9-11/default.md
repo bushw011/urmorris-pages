@@ -1,9 +1,6 @@
 ---
 title: 'Campus Comes Together on the Mall to Remember 9/11'
 date: '19-09-2018 00:00'
-taxonomy:
-    category:
-        - featured
 content:
     items: '- ''@self.children'''
     limit: '5'
