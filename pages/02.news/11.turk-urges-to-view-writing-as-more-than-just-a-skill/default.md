@@ -1,5 +1,6 @@
 ---
 title: 'Turk urges to view writing as more than just a skill'
+date: '12-10-2018 16:57'
 ---
 
 **By Melissa Voss, News Editor** _Originally published in Issue 3, Volume 31 of The University Register on Friday, October 12, 2018_
