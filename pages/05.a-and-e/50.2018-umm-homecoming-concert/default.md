@@ -2,9 +2,6 @@
 title: 'Music Ensembles Perform for Homecoming Concert'
 media_order: 43983605555_d666ac817b_z.jpg
 date: '28-09-2018 00:00'
-taxonomy:
-    category:
-        - featured
 ---
 
 **By Janie Dam, Arts & Entertainment Editor** _originally published in Issue 2, Volume 31 of The University Register on Friday, September 28, 2018_
