@@ -1,6 +1,9 @@
 ---
 title: 'Disconnect with Social Media to Reconnect with Yourself'
 media_order: 'social media & mental health-min.jpg'
+taxonomy:
+    category:
+        - feature
 ---
 
 By Melissa Voss, News Editor uploaded at 2:25 p.m. on Thursday, December 6, 2018
