@@ -4,7 +4,7 @@ date: '16-11-2018 00:00'
 taxonomy:
     category:
         - article
-        - feature
+        - featured
 ---
 
 **By Melissa Voss, News Editor** _Originally published in Issue 6, Volume 31 of The University Register on Friday, November 16, 2018_
