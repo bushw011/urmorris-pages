@@ -1,5 +1,6 @@
 ---
 title: '2018 Fall Dance Ensemble: Celebrate!'
+date: 12/7/18
 ---
 
 **By Janie Dam, A&E Editor** _originally published in Issue 7, Volume 31 of The University Register on Friday, December 7, 2018_
@@ -19,3 +20,5 @@ Before alumni Ellis Sherman graduated in the spring earlier this year, he starte
 Kristin McQuerry, a freshman who also jumped into Dance Ensemble in her first semester, has been a dancer for seven years now and plans on continuing throughout college. She excitingly says, “Dance Ensemble is such a fun club to be a part of and I would highly recommend it to everyone on campus. All of the students involved did really well, and seemed to have fun when they were on stage. It was definitely a different atmosphere than what I’m use to for dance. Everybody was so supportive of each other, and I can’t wait to do it again next semester.”
 
 With all the affirmative remarks about Dance Ensemble behind-the-scenes, it’s worthy to note that the campus looks forward to seeing new faces doing new dances in the show to come in the Spring. This celebration has been a success and proceeds from the shows will benefit the John Vo Scholarship that will be given to a selected senior who is double majoring with one major being fine arts. Thank you to those who contributed and thank you to the Dance Ensemble board for continuously dedicating time and effort in these shows to bring together students, friends, and families in celebration of dance!
+
+_Photo at top courtesy of_ **UMM, Flickr**
