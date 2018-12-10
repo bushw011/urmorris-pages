@@ -24,4 +24,4 @@ Students there also shared and reminisced about their favorite moments in the li
 
 The Briggs library continues to aid students while providing a great environment for study, relaxation, and events. Here is to another 50 years of Briggs Library!
 
-_photo above provided by_**Rodney A. Briggs Library Facebook Page**
+_photo above provided by_ **Rodney A. Briggs Library Facebook Page**
