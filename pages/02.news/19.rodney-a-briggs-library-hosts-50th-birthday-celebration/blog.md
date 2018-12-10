@@ -1,5 +1,6 @@
 ---
 title: 'Rodney A. Briggs Library hosts 50th birthday celebration'
+media_order: briggs_outside1.jpg
 content:
     items:
         - '@self.children'
@@ -31,3 +32,5 @@ In addition to the white boards, there were several smaller archives displaying 
 Students there also shared and reminisced about their favorite moments in the library. “I like the quiet atmosphere, all the books, art, and old brick architecture along with very comfortable furniture makes it a huge pleasure to study in,” Joseph Lauer, a student frequenter of the library told me, praising the library as the perfect study spot. Many students, Joseph included, also wanted to thank the incredibly talented and helpful library staff. “The librarians are also fantastic, shout out to reference librarians that know everything about the library and are always willing to help you get a book, no matter how obscure or hidden!”
 
 The Briggs library continues to aid students while providing a great environment for study, relaxation, and events. Here is to another 50 years of Briggs Library!
+
+_photo above provided by_**Rodney A. Briggs Library Facebook Page**
