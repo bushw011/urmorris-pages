@@ -1,5 +1,6 @@
 ---
 title: 'Rodney A. Briggs Library hosts 50th birthday celebration'
+date: 12/07/2018
 media_order: briggs_outside1.jpg
 content:
     items:
