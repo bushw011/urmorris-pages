@@ -1,6 +1,6 @@
 ---
-title: 'MoQUIE holds Trans Day of Remembrance Day Vigil in Louie''s Lower Level'
-date: 12/07/2018
+title: 'MoQSIE holds Trans Day of Remembrance Day Vigil in Louie''s Lower Level'
+date: '07-12-2018 00:00'
 ---
 
 **By Trey Goodsell, Staff Writer** _Originally published in Issue 7, Volume 31 of The University Register on Friday, December 7, 2018_
