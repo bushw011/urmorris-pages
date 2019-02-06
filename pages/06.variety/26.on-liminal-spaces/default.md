@@ -1,5 +1,6 @@
 ---
 title: 'On Liminal Spaces'
+date: 11/09/2018
 ---
 
 **By Desmond Homann, Variety Editor** _originally published in Issue 5, Volume 31 of The University Register on Friday, November 9, 2018_
