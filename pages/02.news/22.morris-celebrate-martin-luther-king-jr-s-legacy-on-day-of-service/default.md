@@ -1,5 +1,6 @@
 ---
 title: 'Morris celebrate Martin Luther King Jr.''s legacy on Day of Service'
+date: 02/08/2019
 media_order: 39875152143_91140c47c1_k.jpg
 ---
 
