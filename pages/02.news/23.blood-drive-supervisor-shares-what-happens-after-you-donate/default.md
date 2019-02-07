@@ -14,6 +14,8 @@ All of the blood collected during the drive is first sent to the Twin Cities to 
 The blood drive is also very grateful to receive blood recently, due to the cancellations of many of their blood drives across Minnesota and the broader Midwest due to the Polar Vortex that occured the previous week. “We’ve especially been in need because of the vortex,” Doege said. “A lot of people are in need during that time, and since we can’t get blood, it’s been difficult to help people.” Many people were reported frozen to death or injured during the Polar Vortex due to extreme temperatures.
 
 When asked about what students should do to prepare to donate their blood, or if they were hesitant, Doege told us: “Make sure you eat lots of food and drink lots of water; you don’t want to get dizzy or pass out while your blood’s being drawn. The needle doesn’t hurt, either. And just think: one donation of your blood will save three people, and that feels really good.”
+
+_Photo above provided by UMM Flickr_
         	
         	
 
