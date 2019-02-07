@@ -2,6 +2,8 @@
 title: 'Morris celebrate Martin Luther King Jr.''s legacy on Day of Service'
 ---
 
+**By Melissa Voss, News Editor** _Originally published in Issue 8, Volume 31 of The University Register on Friday, February 8, 2019_
+
 On January 21, the University of Minnesota Morris’ Office of Community Engagement and Office of Equity, Diversity, and Intercultural Programs hosted the Morris Day of Service to celebrate and extend the legacy of the late Martin Luther King Jr.
 
 The Martin Luther King Jr. Day of Service is a commemorative holiday that takes place on the third Monday of January and is overseen by the Corporation for National and Community Service (CNCS), a government-run organization that aids in grants for service and volunteer initiatives. After Martin Luther King Jr.’s birthday was declared a national holiday back in 1983, 19 years after his assassination, Representatives John Lewis and Harris Wofford presented to Congress “a day on, not a day off” to adhere to King’s vision of building a “beloved community,” where individuals feel empowered, social change is being made, and bridges are built between communities.  
