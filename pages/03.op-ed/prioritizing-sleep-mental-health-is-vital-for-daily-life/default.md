@@ -1,6 +1,7 @@
 ---
 title: 'Prioritizing Sleep, Mental Health is Vital for Daily Life'
 media_order: sleep2-min.png
+date: '11-02-2019 20:24'
 ---
 
 **By Tehya Wachuta, Editor-in-Chief** _Originally published in Issue 8, Volume 31 of The University Register on Friday, February 8, 2019_
