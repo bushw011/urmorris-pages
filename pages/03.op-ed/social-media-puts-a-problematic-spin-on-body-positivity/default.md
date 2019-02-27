@@ -1,5 +1,6 @@
 ---
 title: 'Social Media Puts a Problematic Spin on Body Positivity'
+media_order: 'body positivity-min.png'
 date: '24-02-2019 16:14'
 ---
 
