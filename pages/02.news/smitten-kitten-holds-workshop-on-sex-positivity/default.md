@@ -1,6 +1,6 @@
 ---
 title: 'Smitten Kitten Holds Workshop on Sex Positivity'
-media_order: 'Screen Shot 2018-02-10 at 12.20.09 AM.png'
+media_order: SexPositivity_new.jpg
 date: '09-02-2018 14:28'
 taxonomy:
     category:
