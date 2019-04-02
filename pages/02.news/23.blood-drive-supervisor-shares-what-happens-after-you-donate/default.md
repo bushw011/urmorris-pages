@@ -1,6 +1,7 @@
 ---
 title: 'Blood drive supervisor shares what happens after you donate'
-date: 02/08/2019
+media_order: blooddrive_new.jpg
+date: '08-02-2019 00:00'
 ---
 
 **By Evan Douville, Staff Writer** _Originally published in Issue 8, Volume 31 of The University Register on Friday, February 8 2019_  	
