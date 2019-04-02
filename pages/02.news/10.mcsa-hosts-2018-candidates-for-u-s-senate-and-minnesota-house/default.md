@@ -1,7 +1,7 @@
 ---
 title: 'MCSA Hosts 2018 Candidates for U.S. Senate and Minnesota House'
 media_order: vote.jpg
-date: 12-10-18
+date: '18-10-2018 00:00'
 ---
 
 **By Trey Goodsell, Staff Writer** _Originally published in Issue 3, Volume 31 of The University Register on Friday, October 12, 2018_
