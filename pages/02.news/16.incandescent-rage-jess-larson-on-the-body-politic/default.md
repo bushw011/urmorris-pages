@@ -1,6 +1,7 @@
 ---
 title: 'Incandescent Rage: Jess Larson on “The Body Politic”'
-date: 11/09/2018
+media_order: jess_new.jpg
+date: '09-11-2018 00:00'
 ---
 
 **By Melissa Voss, News Editor** _Originally published in Issue 5, Volume 31 of The University Register on Friday, November 9, 2018_
