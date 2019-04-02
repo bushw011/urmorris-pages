@@ -1,5 +1,6 @@
 ---
 title: 'Terra Madre: food sovereignty at home and around the world'
+media_order: TerraMadre_new.jpg
 date: '16-11-2018 00:00'
 taxonomy:
     category:
