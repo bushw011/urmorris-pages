@@ -1,6 +1,6 @@
 ---
 title: 'Flamin'' Hot Cheetos Inventor Offers UMM Students his Rules for Success'
-media_order: Richard2.jpg
+media_order: Cheetos_new.jpg
 published: true
 date: '12-04-2018 19:16'
 taxonomy:
