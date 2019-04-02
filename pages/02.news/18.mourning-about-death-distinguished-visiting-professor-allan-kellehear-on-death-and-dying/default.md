@@ -1,5 +1,6 @@
 ---
 title: 'Mourning about death: Distinguished Visiting Professor Allan Kellehear on death and dying'
+media_order: Allan_new.jpg
 date: '16-11-2018 00:00'
 taxonomy:
     category:
