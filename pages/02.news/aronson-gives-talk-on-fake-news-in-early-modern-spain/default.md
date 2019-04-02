@@ -1,6 +1,6 @@
 ---
 title: 'Aronson Gives Talk on Fake News in Early Modern Spain'
-media_order: 'Bat Boy.png'
+media_order: FakeNews_new.jpg
 date: '09-02-2018 14:19'
 taxonomy:
     category:
