@@ -1,6 +1,6 @@
 ---
 title: 'Goodwin sculpture aims to tie past, present, and future'
-media_order: 44843532702_158a606169_k-min.jpg
+media_order: Sculpture_new.jpg
 date: '28-09-2018 00:00'
 ---
 
