@@ -1,6 +1,6 @@
 ---
 title: 'Tammy Berberi Hosts Talk on World Language Studies'
-media_order: berberi_web.jpg
+media_order: 'berberi_web_new.jpg,berberi_web.jpg'
 date: '23-02-2018 21:36'
 taxonomy:
     category:
