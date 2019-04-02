@@ -1,5 +1,6 @@
 ---
 title: 'Turk urges to view writing as more than just a skill'
+media_order: turk_new.jpg
 date: '12-10-2018 16:57'
 ---
 
