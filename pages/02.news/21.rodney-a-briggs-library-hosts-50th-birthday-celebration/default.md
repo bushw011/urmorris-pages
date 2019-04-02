@@ -1,6 +1,7 @@
 ---
 title: 'Rodney A. Briggs Library hosts 50th birthday celebration'
-date: 12/07/2018
+media_order: briggs_outside1_new.jpg
+date: '07-12-2018 00:00'
 ---
 
 **By Evan Douville, Staff Writer**  _Originally published in Issue 7, Volume 31 of The University Register on Friday, December 7, 2018_
