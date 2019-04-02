@@ -1,6 +1,6 @@
 ---
 title: 'MoQSIE Holds Social for Morris Pride Week'
-media_order: 8AA4DB54-CBC8-4B55-ADAD-41622650F6E8.jpeg
+media_order: PrideSocial_new.jpg
 date: '22-03-2018 23:42'
 taxonomy:
     category:
