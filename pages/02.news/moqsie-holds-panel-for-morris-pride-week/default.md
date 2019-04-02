@@ -1,6 +1,6 @@
 ---
 title: 'MoQSIE Holds Panel for Morris Pride Week'
-media_order: 67C04D66-8A1C-4F6D-8C75-F94918BB9106.jpeg
+media_order: PridePanel_new.jpg
 date: '22-03-2018 23:41'
 taxonomy:
     category:
