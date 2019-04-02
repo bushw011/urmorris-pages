@@ -1,5 +1,6 @@
 ---
 title: 'MoQSIE holds Trans Day of Remembrance Day Vigil in Louie''s Lower Level'
+media_order: moqsie_new.jpg
 date: '07-12-2018 00:00'
 ---
 
