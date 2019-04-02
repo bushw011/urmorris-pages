@@ -1,5 +1,7 @@
 ---
 title: 'Mailhot Uses Her Words to Heal in Her Memoir Heart Berries'
+media_order: Mailhot_new.jpg
+date: '14-09-2018 00:00'
 content:
     items: '- ''@self.children'''
     limit: '5'
