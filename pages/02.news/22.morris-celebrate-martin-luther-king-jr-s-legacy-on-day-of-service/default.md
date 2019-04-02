@@ -1,7 +1,7 @@
 ---
 title: 'Morris celebrates Martin Luther King Jr.''s legacy on Day of Service'
-date: 02/08/2019
-media_order: 39875152143_91140c47c1_k.jpg
+media_order: MLK_new.jpg
+date: '08-02-2019 00:00'
 ---
 
 **By Melissa Voss, News Editor** _Originally published in Issue 8, Volume 31 of The University Register on Friday, February 8, 2019_
