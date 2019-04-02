@@ -1,6 +1,6 @@
 ---
 title: 'Silence and Screaming: Exploring Oppression with Foreign Film'
-media_order: Map.jpg
+media_order: Map_new.jpg
 date: '08-12-2017 00:00'
 taxonomy:
     category:
