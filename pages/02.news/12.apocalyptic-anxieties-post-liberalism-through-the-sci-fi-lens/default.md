@@ -1,7 +1,7 @@
 ---
 title: 'Apocalyptic Anxieties: post-liberalism through the sci-fi lens'
-date: 10/26/2018
-media_order: 30468897407_aa3337ef0d_k-min.jpg
+media_order: ApocolypticAnxieties_new.jpg
+date: '26-10-2018 00:00'
 ---
 
 **By Trey Goodsell, Staff Writer** _Originally published in Issue 4, Volume 31 of The University Register on Friday, October 26, 2018_
