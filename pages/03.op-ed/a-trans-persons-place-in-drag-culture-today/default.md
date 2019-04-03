@@ -1,6 +1,6 @@
 ---
 title: 'A Trans+ Person''s Place in Drag Culture Today'
-media_order: Drag.jpg
+media_order: Drag_new.jpg
 published: true
 date: '22-02-2018 20:43'
 publish_date: '22-02-2018 20:43'
