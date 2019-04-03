@@ -1,6 +1,6 @@
 ---
 title: 'A Message From Your Void Mother'
-media_order: 'Rainbow Moon1.jpg'
+media_order: RainbowMoon_new.jpg
 date: '17-11-2017 00:00'
 taxonomy:
     category:
