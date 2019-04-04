@@ -1,6 +1,6 @@
 ---
 title: 'Step on A Crack: Auditions'
-media_order: red-curtain-clipart.jpg
+media_order: red-curtain-clipart_new.jpg
 date: '09-02-2018 13:54'
 taxonomy:
     category:
