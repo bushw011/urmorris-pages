@@ -1,6 +1,6 @@
 ---
 title: 'American Beauty: A Recital of Vocal Music by Living American Women Composers'
-media_order: Yosemite.jpeg
+media_order: Yosemite_new.jpg
 date: '09-02-2018 13:53'
 taxonomy:
     category:
