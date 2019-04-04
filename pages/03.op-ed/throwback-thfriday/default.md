@@ -1,6 +1,6 @@
 ---
 title: 'Throwback Thfriday'
-media_order: 'Cheetos 2.jpg'
+media_order: Cheetos2_new.jpg
 published: true
 date: '22-02-2018 20:42'
 publish_date: '22-02-2018 20:42'
