@@ -1,6 +1,6 @@
 ---
 title: 'Swing Club celebrates 20th anniversary'
-media_order: 'swing dance banner-min.jpg,JaminJennifer_new.jpg,Screenshot (53).png'
+media_order: 'swing dance banner-min.jpg,Screenshot (53).png'
 date: '28-09-2018 00:00'
 ---
 
@@ -21,8 +21,6 @@ Rogers and Stagg compared thoughts on their passion for swing dancing. When aske
 One thing for certain has not changed in the last twenty years of Swing Club: the officers share a passion for helping the students of UMM discover a new fact of their identity through swing dancing. Interested in swing dancing? Stop by the RFC Multipurpose Room Monday nights at 9 p.m., and Swing Club will set you up!
 
 ![](Screenshot%20%2853%29.png)
-
-![](JaminJennifer_new.jpg)
 
 _Above: Jennifer Rogers and Jamin Stagg. Photo by Tehya Wachuta_
 
