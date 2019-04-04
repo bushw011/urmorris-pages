@@ -1,6 +1,6 @@
 ---
 title: '40th Annual Jazz Fest 2018'
-media_order: 39534570030_b49299d7e6_k.jpg
+media_order: JazzFest_new.jpg
 date: '13-04-2018 05:00'
 taxonomy:
     category:
