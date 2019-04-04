@@ -1,6 +1,6 @@
 ---
 title: 'Cable Hardin: Inspiration and Processes of Animation'
-media_order: screenshot.png
+media_order: CableHardin_new.jpg
 date: '13-04-2018 05:00'
 taxonomy:
     category:
