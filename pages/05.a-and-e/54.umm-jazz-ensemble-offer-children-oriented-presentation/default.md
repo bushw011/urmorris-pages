@@ -1,6 +1,7 @@
 ---
 title: 'UMM Jazz Ensemble Offer Children-Oriented Presentation'
-date: 11/9/2018
+media_order: JazzEnsemble_new.jpg
+date: '09-11-2018 00:00'
 ---
 
 **By Christian Pfeiffer, President of UMM Jazz Ensemble**_ originally published in Issue 5, Volume, 31 of The University Register on Friday, November 9, 2018_
