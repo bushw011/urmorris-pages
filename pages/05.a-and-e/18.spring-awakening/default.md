@@ -1,6 +1,6 @@
 ---
 title: 'Spring Awakening '
-media_order: springawakening.jpg
+media_order: springawakening_new.jpg
 date: '03-11-2017 00:00'
 taxonomy:
     category:
