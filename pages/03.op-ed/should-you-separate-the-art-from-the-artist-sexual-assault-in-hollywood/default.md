@@ -1,6 +1,6 @@
 ---
 title: 'Should You Separate the Art from the Artist? Sexual Assault in Hollywood'
-media_order: Spacey.jpg
+media_order: Spacey_new.jpg
 date: '17-11-2017 00:00'
 taxonomy:
     category:
