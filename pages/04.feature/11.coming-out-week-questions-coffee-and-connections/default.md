@@ -1,6 +1,6 @@
 ---
 title: 'Coming Out Week: questions, coffee, and connections.'
-media_order: 'Coffee_new.jpg,Screenshot (56).png'
+media_order: RainbowCoffee_new.jpg
 date: '12-10-2018 00:00'
 ---
 
