@@ -1,6 +1,6 @@
 ---
 title: 'UMM Pride Week Events Help Students  Celebrate Individuality, Consider Personal Aspects of Pride'
-media_order: 39779685725_657e5c9629_k.jpg
+media_order: Drag2_new.jpg
 published: true
 date: '23-03-2018 11:28'
 taxonomy:
