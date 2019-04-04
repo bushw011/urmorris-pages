@@ -1,6 +1,6 @@
 ---
 title: 'UMMwarts Enrollment Down Third Year in Row: Administration Struggles to Identify Why'
-media_order: 'Death Eaters.jpg'
+media_order: DeathEaters_new.jpg
 published: true
 date: '23-03-2018 00:00'
 taxonomy:
