@@ -1,6 +1,7 @@
 ---
 title: 'Coming Out Week: questions, coffee, and connections.'
-date: 10/12/2018
+media_order: 'Coffee_new.jpg,Screenshot (56).png'
+date: '12-10-2018 00:00'
 ---
 
 **Written by Geordi Jones, Feature Editor** _originally published in Issue 3, Volume 31 of The University Register on Friday, October 12, 2018_
