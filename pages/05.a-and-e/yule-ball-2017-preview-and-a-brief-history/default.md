@@ -1,6 +1,6 @@
 ---
 title: 'Yule Ball: 2017 Preview and a Brief History'
-media_order: '30789558883_7d7f824f64_k (1).jpg'
+media_order: 2017YuleBall.jpg
 date: '08-12-2017 00:00'
 taxonomy:
     category:
