@@ -1,6 +1,6 @@
 ---
 title: 'PLAY IN A DAY '
-media_order: playinaday.jpg
+media_order: playinaday_new.jpg
 published: true
 date: '17-11-2017 00:00'
 taxonomy:
