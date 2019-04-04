@@ -1,6 +1,6 @@
 ---
 title: 'Esports: the Responsible NFL That Doesn''t Take Your Tax Dollars'
-media_order: Esports.jpg
+media_order: Esports_new.jpg
 date: '08-02-2018 18:56'
 taxonomy:
     category:
