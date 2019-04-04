@@ -1,6 +1,6 @@
 ---
 title: 'Go Bananas, B-A-N-A-N-A-S'
-media_order: Bananas.jpg
+media_order: Bananas2_new.jpg
 date: '17-11-2017 00:00'
 taxonomy:
     category:
