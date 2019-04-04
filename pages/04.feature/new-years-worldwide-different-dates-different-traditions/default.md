@@ -1,6 +1,6 @@
 ---
 title: 'New Year''s Worldwide: Different Dates, Different Traditions'
-media_order: Fireworks.JPG
+media_order: Fireworks_new.jpg
 taxonomy:
     category:
         - article
