@@ -1,6 +1,6 @@
 ---
 title: 'Custodian Leah Kietzman Nurtures Variety of Plants, Keeps Minnesota Winters Green'
-media_order: Plants.jpeg
+media_order: Plants_new.jpg
 date: '03-11-2017 00:00'
 taxonomy:
     category:
