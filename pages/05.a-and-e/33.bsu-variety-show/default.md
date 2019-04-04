@@ -1,5 +1,6 @@
 ---
 title: 'BSU Variety Show'
+media_order: bsushow_new.jpg
 date: '23-02-2018 00:00'
 taxonomy:
     category:
