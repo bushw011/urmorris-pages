@@ -1,6 +1,6 @@
 ---
 title: 'What I Learned in Boating School is...'
-media_order: IMG_0703.JPG
+media_order: BoatingSchool_new.jpg
 published: true
 date: '13-04-2018 10:12'
 taxonomy:
