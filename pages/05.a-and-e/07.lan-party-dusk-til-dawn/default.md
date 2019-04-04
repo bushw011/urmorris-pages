@@ -1,6 +1,6 @@
 ---
 title: 'LAN Party: Dusk til Dawn '
-media_order: lanparty.jpg
+media_order: lanparty_new.jpg
 published: true
 date: '21-09-2017 00:00'
 taxonomy:
