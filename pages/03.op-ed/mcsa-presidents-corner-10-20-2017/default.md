@@ -1,6 +1,6 @@
 ---
 title: 'MCSA President''s Corner 10-20-2017'
-media_order: 'PresidentsCorner2.jpg,Gavel 2.jpg'
+media_order: 'Gavel 2.jpg'
 date: '20-10-2017 00:00'
 taxonomy:
     category:
