@@ -1,6 +1,6 @@
 ---
 title: 'Avocados: God-Fruit and Friend to All'
-media_order: 'Avocado good.png'
+media_order: Avocado_new.jpg
 date: '03-11-2017 00:00'
 taxonomy:
     category:
