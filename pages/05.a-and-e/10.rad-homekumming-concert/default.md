@@ -1,6 +1,6 @@
 ---
 title: 'Rad HomeKUMMing Concert '
-media_order: homekumming.JPG
+media_order: homekumming_new.jpg
 published: true
 date: '06-10-2017 00:00'
 taxonomy:
