@@ -1,6 +1,6 @@
 ---
 title: 'A Night of LGBTQIA2S+ Staged Readings'
-media_order: Gayer.png
+media_order: Gayer_new.jpg
 date: '13-04-2018 05:00'
 taxonomy:
     category:
