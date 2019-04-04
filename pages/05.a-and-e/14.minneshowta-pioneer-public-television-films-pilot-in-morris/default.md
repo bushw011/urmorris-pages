@@ -1,6 +1,6 @@
 ---
 title: 'Minneshowta:  Pioneer Public Television Films Pilot in Morris '
-media_order: minneshowta.JPG
+media_order: minneshowta_new.jpg
 published: true
 date: '20-10-2017 00:00'
 taxonomy:
