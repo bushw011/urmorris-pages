@@ -1,6 +1,6 @@
 ---
 title: 'Morris Sucks at Identifying Hate Speech'
-media_order: Mic.jpeg
+media_order: Mic_new.jpg
 date: '08-02-2018 18:40'
 taxonomy:
     category:
