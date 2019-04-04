@@ -1,6 +1,6 @@
 ---
 title: 'A Risk Worth Taking: Eurydice'
-media_order: eurydice.JPG
+media_order: eurydice_new.jpg
 date: '09-02-2018 13:55'
 taxonomy:
     category:
