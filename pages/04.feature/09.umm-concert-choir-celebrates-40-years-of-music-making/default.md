@@ -1,6 +1,6 @@
 ---
 title: 'UMM Concert Choir celebrates 40 years of music-making'
-media_order: choir-min.png
+media_order: 'Choir_new.jpg,choir-min.png'
 date: '28-09-2018 00:00'
 ---
 
