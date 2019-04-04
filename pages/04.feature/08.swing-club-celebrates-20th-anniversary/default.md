@@ -1,6 +1,6 @@
 ---
 title: 'Swing Club celebrates 20th anniversary'
-media_order: 'swing dance banner-min.jpg,SwingDance_new.jpg,Screenshot (53).png'
+media_order: 'swing dance banner-min.jpg,JaminJennifer_new.jpg,Screenshot (53).png'
 date: '28-09-2018 00:00'
 ---
 
