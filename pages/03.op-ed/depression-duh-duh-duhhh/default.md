@@ -1,6 +1,6 @@
 ---
 title: 'Depression (duh-duh-DUHHH)'
-media_order: depression.jpeg
+media_order: depression.jpg
 date: '08-02-2018 18:25'
 taxonomy:
     category:
