@@ -1,6 +1,6 @@
 ---
 title: 'Spooky Groove: Halloween Music Review in April'
-media_order: 'halloween-illustration 2.jpg'
+media_order: pumpkins_new.jpg
 published: true
 date: '13-04-2018 05:00'
 taxonomy:
