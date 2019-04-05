@@ -1,6 +1,6 @@
 ---
 title: 'Rise of the Shitlords: Part 9'
-media_order: 'riseof.png,Shitlords_new.jpg'
+media_order: riseof_new.jpg
 published: true
 ---
 
