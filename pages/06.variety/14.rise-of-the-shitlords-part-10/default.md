@@ -1,6 +1,6 @@
 ---
 title: 'Rise of the Shitlords: Part 10'
-media_order: 4bb90485c6c6e386cf41af36124eac6e5db6d253-riseof.png
+media_order: riseof_new.jpg
 date: '13-04-2018 13:13'
 publish_date: '16-04-2018 13:13'
 taxonomy:
