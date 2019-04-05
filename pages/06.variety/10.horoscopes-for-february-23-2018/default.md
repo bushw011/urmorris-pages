@@ -1,6 +1,6 @@
 ---
 title: 'Horoscopes for February 23, 2018'
-media_order: Horoscopes2.jpeg
+media_order: HoroscopesChristian_new.jpg
 date: '23-02-2018 16:53'
 taxonomy:
     category:
