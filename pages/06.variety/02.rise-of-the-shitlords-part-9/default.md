@@ -1,6 +1,7 @@
 ---
 title: 'Rise of the Shitlords: Part 9'
 media_order: 'riseof.png,Shitlords_new.jpg'
+published: true
 ---
 
 **By Jon Antonsen, Variety Editor** _uploaded at 8:41 a.m. on Friday, March 23, 2018._
