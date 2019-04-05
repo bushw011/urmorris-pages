@@ -1,6 +1,6 @@
 ---
 title: 'Horoscopes for April 13, 2018'
-media_order: 884d561dd5c8302b5012ecfcb1ac04ab85f743c2-horoscopes2.jpeg
+media_order: HoroscopesChristian_new.jpg
 date: '13-04-2018 13:00'
 publish_date: '16-04-2018 13:00'
 taxonomy:
