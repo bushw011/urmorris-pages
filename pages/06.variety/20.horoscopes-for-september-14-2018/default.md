@@ -1,5 +1,6 @@
 ---
 title: 'Horoscopes for September 14, 2018'
+media_order: 'HoroscopesDesmond_new.jpg,horoscope desmond-min.png'
 content:
     items: '- ''@self.children'''
     limit: '5'
