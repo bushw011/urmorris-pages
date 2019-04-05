@@ -1,6 +1,6 @@
 ---
 title: 'Rise of the Shitlords: Part 8'
-media_order: riseof.png
+media_order: riseof_new.jpg
 date: '23-02-2018 17:16'
 taxonomy:
     category:
