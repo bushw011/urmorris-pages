@@ -1,6 +1,6 @@
 ---
 title: 'Horoscopes for February 09, 2018'
-media_order: Horoscopes2.jpeg
+media_order: HoroscopesChristian_new.jpg
 published: true
 date: '09-02-2018 00:01'
 publish_date: '09-02-2018 17:53'
