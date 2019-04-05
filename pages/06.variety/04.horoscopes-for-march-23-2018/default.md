@@ -1,6 +1,6 @@
 ---
 title: 'Horoscopes for March 23, 2018'
-media_order: Horoscopes2.jpeg
+media_order: HoroscopesChristian_new.jpg
 date: '23-03-2018 08:52'
 taxonomy:
     category:
