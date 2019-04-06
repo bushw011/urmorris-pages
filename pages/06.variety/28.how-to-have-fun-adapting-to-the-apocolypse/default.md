@@ -1,5 +1,6 @@
 ---
 title: 'How to Have Fun Adapting to the Apocolypse'
+date: 4/5/2019
 ---
 
 **By Evan Douville, Staff Writer**_Originally published in Issue 11, Volume 31 of The University Register on Friday, April 5._
