@@ -1,6 +1,7 @@
 ---
 title: 'New Year''s Worldwide: Different Dates, Different Traditions'
 media_order: Fireworks_new.jpg
+date: '23-02-2018 00:00'
 taxonomy:
     category:
         - article
