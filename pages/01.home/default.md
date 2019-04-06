@@ -22,7 +22,7 @@ We welcome all student writers, graphic designers, photographers, copy editors, 
 
 #### Submission Information
 
-**_The University Register_ invites letters from its readers. Letters may be edited for length, libelous content, good taste, and other like concerns. All letters and editorials represent the views and opinions of the author only and do not necessarily reflect the opinions of The University Register or its staff.** In order to be eligible for publication, all letters must include the author's name and email address. The deadline for editorial submissions is Tuesday at 8:00 p.m. before the Thursday of publication. **_The University Register_ will make all possible attempts to publish all letters we receive, however some letters may be omitted due to space constraints.**
+**_The University Register_ invites letters from its readers. Letters may be edited for length, libelous content, good taste, and other like concerns. All letters and editorials represent the views and opinions of the author only and do not necessarily reflect the opinions of The University Register or its staff.** In order to be eligible for publication, all letters must include the author's name and email address. The deadline for editorial submissions is Tuesday at 6:00 p.m. before the Friday of publication. **_The University Register_ will make all possible attempts to publish all letters we receive, however some letters may be omitted due to space constraints.**
 
 
 #### Contact Us
