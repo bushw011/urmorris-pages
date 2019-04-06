@@ -1,6 +1,7 @@
 ---
 title: 'My Life is Ruled by a d20'
-date: 9/28/2018
+media_order: JoeBeaver_new.jpg
+date: '28-09-2018 00:00'
 ---
 
 **By Dorothy N. Davenport (By Jonathon Antonsen, Staff Writer)** _originally published in Issue 2, Volume 31 of The University Register on September 28, 2018_
