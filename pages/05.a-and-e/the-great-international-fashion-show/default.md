@@ -1,6 +1,5 @@
 ---
 title: 'The Great International Fashion Show'
-media_order: 'fashion show UR website-min.jpg'
 published: true
 date: '08-12-2017 00:00'
 taxonomy:
