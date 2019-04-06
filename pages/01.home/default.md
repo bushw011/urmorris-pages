@@ -33,15 +33,15 @@ We welcome all student writers, graphic designers, photographers, copy editors, 
 
 **Jeph Novak, Head Copy Editor**	|	novak442@morris.umn.edu
 
-**Nick Bushway, Tech Specialist**	|	bushw011@morris.umn.edu
+**Michael Small, Tech Specialist**	|	small203@morris.umn.edu
 
 **Isaac Hunt, Ad Sales Manager**	|	huntx253@morris.umn.edu
 
 **Melissa Voss, News Editor**		|	vossx257@morris.umn.edu
 
-**Jon Antonsen, Feature Editor**	|	anton248@morris.umn.edu
+**Geordi Jones, Feature Editor**	|	jone3340@morris.umn.edu
 
-**Janie Dam, Arts & Entertainment Editor**	|	damxx048@morris.umn.edu
+**Alisa Samadani, Arts & Entertainment Editor**	|	samad025@umn.edu
 
 **Desmond Homann, Variety Editor**	|	homan049@morris.umn.edu
 
