@@ -1,6 +1,7 @@
 ---
 title: 'On Your Headphones: Preach'
-date: 10/26/18
+media_order: preach.jpg
+date: '26-10-2018 00:00'
 ---
 
 **By Desmond Homann, Variety Editor** _originally published in Issue 4, Volume 31 of The University Register on Friday, October 26, 2018_
@@ -13,7 +14,6 @@ _Preach_ has been one of my most played (and replayed) songs these last few week
 
 It should also be noted that Lonsdale’s other songs are just as spectacular as _Preach_. I would strongly recommend the gay bop titled, _Kiss The Boy_ though I haven’t listened to it enough yet to give a strong argument for it other than it making me happy.
 
-
 A+
 
-_Photo at top courtesy of genius.com_
+_Photo at top courtesy of youtube.com: Keiynan Lonsdale - Preach (Official Music Video)_
