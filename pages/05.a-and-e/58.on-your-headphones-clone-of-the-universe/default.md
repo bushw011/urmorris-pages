@@ -1,6 +1,6 @@
 ---
 title: 'On Your Headphones: Clone of the Universe'
-date: 10/12/18
+date: '12-10-2018 00:00'
 ---
 
 **By Jon Antonsen, Staff Writer** _originally published in Issue 3, Volume 31 of The University Register on Friday, October 12, 2018_
