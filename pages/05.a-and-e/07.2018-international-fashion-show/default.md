@@ -1,6 +1,5 @@
 ---
 title: '2018 International Fashion Show'
-media_order: IMG_2042.jpg
 date: '16-11-2018 00:00'
 ---
 
