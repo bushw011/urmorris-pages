@@ -1,6 +1,6 @@
 ---
 title: 'Briggs Library Hosts Native Voices Exhibit'
-date: 04/03/2018
+date: 04/03/2019
 ---
 
 **Written by Evan Douville, Staff Writer**
