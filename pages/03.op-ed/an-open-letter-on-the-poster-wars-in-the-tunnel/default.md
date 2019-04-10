@@ -20,3 +20,7 @@ Tehya Wachuta
 Editor-in-Chief
 
 _The University Register_
+
+
+
+_image at top courtesy of Google Images_
