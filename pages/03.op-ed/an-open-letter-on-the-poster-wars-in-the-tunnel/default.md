@@ -17,5 +17,7 @@ The original posters, as I have stated, have a simple message: Your identity is 
 The new posters took that message of validation and respect and turned it into a message of hate. And I don’t care which political party you affiliate yourself with — I just don’t think that anyone should be able to tell others that they are living their lives incorrectly. This is a college campus; students are supposed to grow, learn, and develop here. Instead, they are closing themselves off from opportunities to expand their worldviews, choosing to immerse themselves in animosity. And while I don’t expect this editorial to change anything, I wanted to leave my readers with this message: Whoever you are, however you identify in any aspect of your life, you are valid, and don’t let anyone tell you otherwise.
 
 Tehya Wachuta
+
 Editor-in-Chief
+
 _The University Register_
