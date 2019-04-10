@@ -1,0 +1,24 @@
+---
+title: 'Mellon Grant Funds Several Projects to Promote the Role of the Humanities in the Liberal Arts Education'
+date: 04/03/2019
+---
+
+**Written by Melissa Voss, News Editor**
+
+Not many people are made aware of the projects and research that go on within the University until the final product is released.  But Communication, Media, and Rhetoric professor Barbara Burke wants the Morris community members to be aware of the generous grant that the Mellon Foundation offered the University of Minnesota Morris: a grant that gives research opportunity to several faculty member/student teams.  
+
+Back in late June, the University of Minnesota Morris received a $137,000 grant from The Andrew W. Mellon Foundation as a part of an Engaged and Engaging Humanities initiative, an initiative hoping to help people reimagine the purpose and role that the Humanities plays within a Liberal Arts education.  As an institution, the University of Minnesota Morris applied for the grant.  After several rounds of faculty applying and pitching projects, the University disparced the grant to several different projects to happen over the next couple semesters. One of those grant projects is the team of faculty members Denise Odello and Barbara Burke, as well as students Sam Madden, Zion Zaloudek, and Hannah Blockway.  Their project consists of creating a documentary investigating the importance of existence of music as a form of liberal arts learning, how it is carried on through life beyond one’s time at college, and how it has moved on to affect their lives today.  Burke explains that through participation in music ensembles throughout college become valuable experiences moving forward beyond college as “valuable members of communities.” 
+
+The process for the documentary consisted of students Madden, Zaloudek, and Blockway going through university archives and conducting research within the history of the university’s music ensembles such as jazz, concert choir, and orchestra.  After which, they draw up questions for the faculty, current students, and alumni interviews regarding their ensemble experience.  Interviews will take place through the late part of this spring semester and throughout the summer.  Those interviews will then be edited into the final documentary, which is expected to be completed within the 2019-2020 academic school year.  
+
+The interviewees will not include alumni or students planning on becoming professional musicians, but who still incorporate music into their everyday lives today such as participating in the church choir or continuing to support art programs.  Burke explains that University of Minnesota Morris students join ensembles for a variety of reasons other than being a music major: “There are human stories work together, work hard, solve problems, fix challenges, grow as a human while in the ensemble.”
+
+The final product will be posted to social media sites and various platforms for viewers of the Morris community and beyond.  
+
+Burke emphasized that although she and Odello are the ones writing the weekly project reports, giving suggestions, and pitching ideas, it is really the students who shine through their extensive work and dedication to the documentary: “The students are really valuable partners in this project… They were given a difficult task and they are working hard.”  But it also allows students to get a real hands-on experience with the history and impact that the music program has had on past and present university students: “I have learned just how passionate the students and staff involved in music programs are here at Morris. Everyone we have worked with has done their best to help us succeed, out of their love for music,” stated Sam Madden, the technical lead for the project.
+
+The group is currently looking for current student volunteers who are in music ensembles and would be willing to be interviewed.  Emails and calls will be put out as time goes on for the project.  If you have any questions or would like to participate in the project, contact Barbara Burke.
+
+There are also several other projects regarding the Mellon Grant that are happening around the humanities, six of which were announced in late December.  Although Burke was the one sharing the story of her team’s project, she wants everyone on campus to know about work that many students and faculty are putting in, “We should celebrate that students and faculty, students and staff are working together to celebrate and tell stories about the humanities.”  Some of these projects include Michael Bryant and LeAnn Dean’s Timeline: HIstory of Athletics at the University of Minnesota Morris, Sarah Buchanan’s American First Nations and French: History, Anthropology, Literature, and Steven McFarlane: Understanding the Liberal Arts Podcast.
+
+_Photo above courtesy of The Andrew. W Mellon Foundation_
