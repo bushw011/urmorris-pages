@@ -1,5 +1,5 @@
 ---
-title: 'Mellon Grant Funds Several Projects to Promote the Role of the Humanities in the Liberal Arts Education'
+title: 'Mellon Grant Funds Several Projects to Promote the Role of the Humanities in the Liberal Arts'
 date: 04/03/2019
 ---
 
