@@ -1,5 +1,6 @@
 ---
 title: 'UMM Presents: She Kills Monsters'
+date: '22-02-2019 18:54'
 ---
 
 **By Alisa Samadani, A&E Editor**_ originally published in Issue 9, Volume 31 of The University Register on Friday, February 22, 2019_
