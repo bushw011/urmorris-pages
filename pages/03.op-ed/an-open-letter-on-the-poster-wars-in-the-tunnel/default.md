@@ -1,5 +1,7 @@
 ---
 title: 'An Open Letter on the Poster Wars in the Tunnel'
+media_order: Validation_new.jpg
+date: '05-04-2019 18:37'
 ---
 
 **By Tehya Wachuta, Editor-in-Chief**
