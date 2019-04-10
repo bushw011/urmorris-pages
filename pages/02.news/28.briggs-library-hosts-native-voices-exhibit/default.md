@@ -3,7 +3,7 @@ title: 'Briggs Library Hosts Native Voices Exhibit'
 date: 04/03/2019
 ---
 
-**Written by Evan Douville, Staff Writer**
+**By Evan Douville, Staff Writer**
 
 Health and Healing are two things that are directly interwoven into Native culture. Beginning (whatever date it began the calendar is confusing), in Briggs Library, students, staff, and faculty were treated to the Native Voices: Native People’s Concepts of Health and Illness interactive exhibit, discussing the many aspects of Native health, medicine, and illness.
 
