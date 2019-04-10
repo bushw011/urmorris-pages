@@ -26,4 +26,4 @@ The production schedule runs almost the entire year. From February to May, the c
 At the premiere, there was a clear love of the program and the station. Rural Minnesotans saw themselves on the screen, represented with hard work, science, and culture with roots here and in the past. The service to the community represented by Pioneer is something we could all aspire to. 
 _Prairie Yard and Garden_ airs Thursdays at 7:30 PM. Episodes are hosted on YouTube on the pioneerpublic channel. 
 
-_Photo avoved courtesy of UMM Flickr_
+_Photo above courtesy of Stevens County Historical Society_
