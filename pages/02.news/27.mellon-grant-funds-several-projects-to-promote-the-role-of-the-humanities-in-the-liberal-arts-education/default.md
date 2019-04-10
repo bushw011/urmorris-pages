@@ -3,7 +3,7 @@ title: 'Mellon Grant Funds Several Projects to Promote the Role of the Humanitie
 date: 04/03/2019
 ---
 
-**Written by Melissa Voss, News Editor**
+**By Melissa Voss, News Editor**
 
 Not many people are made aware of the projects and research that go on within the University until the final product is released.  But Communication, Media, and Rhetoric professor Barbara Burke wants the Morris community members to be aware of the generous grant that the Mellon Foundation offered the University of Minnesota Morris: a grant that gives research opportunity to several faculty member/student teams.  
 
