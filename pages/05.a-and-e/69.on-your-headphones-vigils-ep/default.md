@@ -1,5 +1,6 @@
 ---
 title: 'On Your Headphones: Vigils EP'
+media_order: vigils_new.jpg
 date: '08-03-2019 20:06'
 ---
 
