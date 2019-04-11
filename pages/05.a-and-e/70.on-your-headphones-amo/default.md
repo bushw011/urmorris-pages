@@ -1,5 +1,7 @@
 ---
 title: 'On Your Headphones: amo'
+media_order: amo_new.jpg
+date: '08-02-2019 20:18'
 ---
 
 **By Alisa Samadani, A&E Editor** _originally published in Issue 8, Volume 31 of The University Register on Friday, February 8, 2019
