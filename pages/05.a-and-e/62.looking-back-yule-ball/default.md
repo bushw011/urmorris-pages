@@ -2,7 +2,7 @@
 title: 'Looking Back: Yule Ball'
 media_order: YuleBall.jpg
 published: true
-date: '11-02-2019 11:54'
+date: '08-02-2019 11:54'
 ---
 
 **By Alisa Samadani, A&E Editor**_Originally published in Issue 8, Volume 31 of The University Register on Friday, February 8, 2019_
