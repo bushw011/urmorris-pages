@@ -5,7 +5,7 @@ published: true
 date: '08-02-2019 11:54'
 ---
 
-**By Alisa Samadani, A&E Editor**_Originally published in Issue 8, Volume 31 of The University Register on Friday, February 8, 2019_
+**By Alisa Samadani, A&E Editor** _originally published in Issue 8, Volume 31 of The University Register on Friday, February 8, 2019_
 
 The campus hosted its annual Yule Ball on Saturday, December 8, 2018. From the New York City cityscapes outlining the walls of the student center to the residence hall banners from years past and constant references to the Fantastic Beasts series, it truly was “a ball.” With the student center as New York City in the 1920s and Louie’s Lower Level decorated as Central Park Zoo, music was a-blaring and heels were a-clicking to the biggest event of 2018. 
 
