@@ -1,5 +1,7 @@
 ---
 title: 'Polynesian Paradise Dancers'
+published: true
+date: '08-03-2019 20:00'
 ---
 
 **By Alisa Samadani, A&E Editor** _originally published in Issue 10, Volume 31 of The University Register on Friday, March 8, 2019_
