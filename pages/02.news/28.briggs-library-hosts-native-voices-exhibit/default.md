@@ -5,7 +5,7 @@ date: '03-04-2019 00:00'
 
 **By Evan Douville, Staff Writer**
 
-Health and Healing are two things that are directly interwoven into Native culture. Beginning February 28, in Briggs Library, students, staff, and faculty were treated to the Native Voices: Native People’s Concepts of Health and Illness interactive exhibit, discussing the many aspects of Native health, medicine, and illness.
+Health and Healing are two things that are directly interwoven into Native culture. Beginning February 28 in Briggs Library, students, staff, and faculty were treated to the Native Voices: Native People’s Concepts of Health and Illness interactive exhibit, discussing the many aspects of Native health, medicine, and illness.
 
 The exhibit was divided into five sections: Individual, Community, Tradition, Nature, and Healing, each one featuring the rich histories and stories of Native Americans, their views on the interconnectedness of community and medicine, as well as the challenges of balancing Native healing and Western medicine. Each of the five boards present also featured a set of headphones and a tablet linked to the Native Voices website, complete with a staggering amount of interviews and videos on the subject, from doctors to tribe leaders and even some children’s voices. Kellie Meehlhause, a librarian at Briggs, was able to offer some insight into the creation of this event.
 
