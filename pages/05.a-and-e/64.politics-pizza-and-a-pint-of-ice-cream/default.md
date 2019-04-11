@@ -1,6 +1,7 @@
 ---
 title: 'Politics, Pizza, and a Pint of Ice Cream'
 media_order: pizza_new.jpg
+date: '08-03-2019 19:19'
 ---
 
 **By Alisa Samadani, A&E Editor** _originally published in Issue 10, Volume 31 of The University Register on Friday, March 8, 2019_
