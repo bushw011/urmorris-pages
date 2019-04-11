@@ -1,6 +1,5 @@
 ---
 title: 'On Your Headphones: Volume 2'
-media_order: oranges_new.jpg
 published: true
 date: '22-02-2019 19:02'
 ---
