@@ -1,6 +1,5 @@
 ---
 title: 'Annual Washi Tape Pop-up Art Exhibit'
-media_order: 46851581204_753a37dfe3_z-min.jpg
 date: '17-04-2019 20:04'
 ---
 
