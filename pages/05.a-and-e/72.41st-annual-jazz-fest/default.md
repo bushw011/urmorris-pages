@@ -1,5 +1,6 @@
 ---
 title: '41st Annual Jazz Fest'
+date: '17-04-2019 20:29'
 ---
 
 **By Alisa Samadani, A&E Editor** _originally published in Issue 12, Volume 31 of The University Register on Friday, April 17, 2019_
