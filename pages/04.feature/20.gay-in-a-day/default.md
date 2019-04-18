@@ -1,5 +1,6 @@
 ---
 title: 'Gay in a Day'
+media_order: 'gayplays.jpg,0.jpeg'
 date: '08-03-2019 20:33'
 ---
 
@@ -53,6 +54,8 @@ Cultivating spaces for such an unashamed and supportive celebration of creativit
 This was my first experience with Play in a Day. The environment was very accepting and helpful, and any challenges I had were easily helped by the support of fellow LGBTQIA2S+ peers. My favorite part of the process for PiaD would have to be being able to talk through ideas in an accepting environment and seeing the final product of how the director’s interpret the writing. The biggest challenge was the writing itself, as it is a very short time to write a play in, however these fears were easily consolidated by the support of others. Additionally, the final product and seeing people’s positive reactions made all the challenges worth it. It is such a good feeling, despite the anxiety, to be able to see something I wrote be brought to life in a safe and accepting environment, and especially in such a short time.”
 
 **UMM Student Playwright D.C. Bound**
+
+![](0.jpeg)
 
 Paige Quinlivan received very exciting news on Tuesday, March 5 that she and her play _John Hughes Wrote My Diary_ are invited to be showcased at the national Kennedy Center American College Theatre Festival in Washington, D.C. this coming April to compete for the John Cauble Award for Outstanding Play. As you may recall from an earlier issue, Quinlivan’s play was performed as a concert reading at the region festival in Sioux Falls, SD this past January as one of three selected pieces out of 54 submissions. Now, Quinlivan’s play will be competing as one of the eight finalists selected from all over the nation to compete for the John Cauble Award.
 
