@@ -4,7 +4,7 @@ media_order: 'gayplays.jpg,0.jpeg'
 date: '08-03-2019 20:33'
 ---
 
-**Written by Geordi Jones, Feature Editor.** _Originally published in Issue 9, Volume 31 of The University Register on Friday, March 8, 2019._
+**Written by Geordi Jones, Feature Editor.** _Originally published in Issue 10, Volume 31 of The University Register on Friday, March 8, 2019._
 
 This past Saturday, the Meiningens Student Theatre Organization hosted their semi-annual Play in a Day event. In partnership with MoQSIE for their Pride Week events, this Play in a Day was LQBTQIA2S+-themed, or more humorously dubbed “Gay in a Day”. Starting at 9 p.m., four playwrights gathered in the 24-hour study lounge to crack out four brand-new plays to be presented the following evening. The following morning, rehearsals started at 8 a.m., with actors and directors working hard to get these new plays in performance shape before 9 p.m.
 
