@@ -29,3 +29,5 @@ _The Wonderful Wizard of Oz_ featured the talents of many students both in and o
 **Evan Aanerud, Actor (Scarecrow) and Co-Sound Designer:**
 
 “It was such a rewarding experience to be both an actor and co-sound designer. For one, it gave me a better look at all of the behind-the-scenes action that goes on with the production team and the technical elements of the show. The duality of these roles was also beneficial because as an actor in the show, I knew what sound cues would work best when. This made designing the cues much more fun (and easy) because I knew what the action onstage looked like. While it really pushed my workload, working as an actor and sound designer sharpened my attention to detail and helped me develop a better appreciation for the production team doesn't always get the recognition they deserve.”
+
+_Photo courtesy of Samuel Yuan._
