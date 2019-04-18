@@ -3,7 +3,7 @@ title: 'Morris Community and Beyond Celebrate CNIA 35th Annual Powwow'
 date: 04/19/2019
 ---
 
-**By Melissa Voss**
+**By Melissa Voss, News Editor**
 
 On Saturday, April 13, the University of Minnesota Morris hosted the 35th Annual Circle of Nations Indigenous Association (CNIA) Powwow at the Cougar Sports Center.  According to the Crazy Crow Trading Post website, CNIA Powwow has a rich history of promoting the campus and Morris community to embrace the Indigenous heritages that spread across Minnesota, North Dakota, and South Dakota and serves as an opportunity for students to develop leadership skills, promote cultural awareness, and network with potential American Indian students.
 
