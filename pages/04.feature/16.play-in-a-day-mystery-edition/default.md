@@ -1,5 +1,7 @@
 ---
 title: 'Play in a Day: Mystery Edition'
+media_order: lakedale.jpg
+date: '16-11-2018 20:06'
 ---
 
 **Written by Geordi Jones, Feature Editor.** _Originally published in Issue 6, Volume 31 of The University Register on Friday, November 16, 2018._
