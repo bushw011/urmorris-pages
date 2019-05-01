@@ -1,5 +1,6 @@
 ---
 title: 'Vegetarian Stereotypes Debunked'
+date: '19-04-2019 15:52'
 ---
 
 **By Tehya Wachuta, Editor-in-Chief**
