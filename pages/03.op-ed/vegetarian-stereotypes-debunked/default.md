@@ -1,5 +1,6 @@
 ---
 title: 'Vegetarian Stereotypes Debunked'
+media_order: salad.jpg
 date: '19-04-2019 15:52'
 ---
 
