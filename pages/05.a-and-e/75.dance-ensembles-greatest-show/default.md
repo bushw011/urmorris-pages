@@ -1,5 +1,6 @@
 ---
 title: 'Dance Ensemble''s "Greatest Show"'
+media_order: show.gif
 publish_date: '02-05-2019 19:55'
 ---
 
