@@ -1,5 +1,6 @@
 ---
 title: '2019 Annual Senior Art Exhibit'
+media_order: senr.jpg
 publish_date: '03-05-2019 19:48'
 ---
 
