@@ -1,5 +1,6 @@
 ---
-title: 'Schuppan Presents on Developing Morris'' Queer Oral History Project'
+title: 'Schuppan Presents on Developing Morris'' Queer Oral History Project at Coffee Chat'
+media_order: file85560.jpg
 ---
 
 **Written by Melissa Voss, News Editor**
@@ -16,4 +17,4 @@ The future steps of the oral history project lie in four areas: training Gender 
 
 After Schuppan’s presentation, the floor was opened up to questions, comments, and ideas from the audience. 
 
-_Photo above courtesy of
+_Photo above courtesy of University of Nebraska Lincoln_
