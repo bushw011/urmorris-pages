@@ -4,7 +4,7 @@ date: 05/03/2019
 media_order: file85560.jpg
 ---
 
-**Written by Melissa Voss, News Editor**
+**By Melissa Voss, News Editor**
 
 On Wednesday, May 1, the LGBTQIA2S+ Program hosted a coffee chat presenting on the development of Morris’ queer oral history project. Calleigh Schuppan, a Morris Academic Partner (MAP), has been doing research on the creation of the University of Minnesota Morris queer oral history project alongside Adrienne Conley, assistant director for student life and coordinator for LGBTQIA2S+ programs, and Associate Professor Jennifer Rothchild.
 
