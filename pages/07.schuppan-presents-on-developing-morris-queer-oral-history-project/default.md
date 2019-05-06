@@ -1,5 +1,6 @@
 ---
 title: 'Schuppan Presents on Developing Morris'' Queer Oral History Project at Coffee Chat'
+date: 05/03/2019
 media_order: file85560.jpg
 ---
 
