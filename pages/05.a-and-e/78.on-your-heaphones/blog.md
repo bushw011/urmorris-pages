@@ -1,5 +1,7 @@
 ---
 title: 'On Your Heaphones: Bug Hunter'
+published: true
+date: '13-09-2019 23:34'
 content:
     items:
         - '@self.children'
