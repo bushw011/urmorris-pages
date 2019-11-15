@@ -1,5 +1,6 @@
 ---
 title: 'What Is Implicit Bias: Adam Madva Explains at Philosophy Colloquium'
+media_order: AlexMadva.JPG
 published: true
 date: '13-09-2019 22:33'
 content:
