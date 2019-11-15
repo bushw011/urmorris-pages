@@ -1,5 +1,6 @@
 ---
 title: 'Audition Season at UMM!'
+media_order: MNFringe.jpg
 content:
     items:
         - '@self.children'
