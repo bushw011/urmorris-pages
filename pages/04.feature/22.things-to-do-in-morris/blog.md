@@ -63,3 +63,5 @@ Friday: Friday Night Magic - Standard
 
 And that’s everything you need to know, more or less! Don’t be afraid to get out and explore the town, parks, and rivers that surround our lovely
 town! Hope you have some fun this year!
+
+_Photo on top courtesy of Google Images_
