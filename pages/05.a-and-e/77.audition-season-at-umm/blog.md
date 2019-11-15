@@ -1,6 +1,8 @@
 ---
 title: 'Audition Season at UMM!'
 media_order: MNFringe.jpg
+published: true
+date: '13-09-2019 23:22'
 content:
     items:
         - '@self.children'
