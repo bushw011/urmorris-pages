@@ -1,5 +1,5 @@
 ---
-title: 'Audition Season at UMM!'
+title: '_Moon River_ at Minnesota Fringe'
 media_order: MNFringe.jpg
 published: true
 date: '13-09-2019 23:22'
