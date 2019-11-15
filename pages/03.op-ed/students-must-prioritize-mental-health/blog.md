@@ -28,3 +28,5 @@ If our society ever causes you to feel that you are at fault for issues with you
 Tehya Wachuta
 Editor-in-Chief
 The University Register
+
+_Photo at top courtesy of Google Images_
