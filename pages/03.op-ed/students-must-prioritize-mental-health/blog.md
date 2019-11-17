@@ -1,5 +1,7 @@
 ---
 title: 'Students Must Prioritize Mental Health'
+published: true
+date: '14-09-2019 17:50'
 content:
     items:
         - '@self.children'
