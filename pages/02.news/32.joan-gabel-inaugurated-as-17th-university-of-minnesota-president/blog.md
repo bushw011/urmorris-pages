@@ -1,6 +1,8 @@
 ---
 title: 'Joan Gabel Inaugurated as 17th University of Minnesota President'
 media_order: Gabel-min.jpg
+published: true
+date: '27-09-2019 17:29'
 content:
     items:
         - '@self.children'
