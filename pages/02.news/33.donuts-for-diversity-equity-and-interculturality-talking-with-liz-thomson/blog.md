@@ -1,5 +1,6 @@
 ---
 title: 'Donuts for Diversity, Equity, and Interculturality: Talking with Liz Thomson'
+media_order: 'donuts-min.jpg,donuts.jpg'
 published: true
 date: '27-09-2019 17:37'
 content:
