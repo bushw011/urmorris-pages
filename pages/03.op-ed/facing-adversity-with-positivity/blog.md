@@ -1,5 +1,6 @@
 ---
 title: 'Facing Adversity with Positivity'
+media_order: 'DanishGirl.jpg,DanishGirl.jpg'
 published: true
 date: '28-09-2019 17:46'
 content:
