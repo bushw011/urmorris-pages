@@ -1,5 +1,6 @@
 ---
 title: 'Joan Gabel Inaugurated as 17th University of Minnesota President'
+media_order: Gabel-min.jpg
 content:
     items:
         - '@self.children'
