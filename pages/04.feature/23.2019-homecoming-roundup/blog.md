@@ -13,6 +13,8 @@ content:
     url_taxonomy_filters: true
 ---
 
+**By Evan Douville, Feature Editor** _Originally published in Issue 1, Volume 32 of The University Register on Friday, September 13, 2019_
+
 September 20 and 21, 2019 brought the UMM campus another wonderful year of homecoming. Want a quick recap for everything that happened? Let’s get started!
 
 **HomeKUMMing Concert**
