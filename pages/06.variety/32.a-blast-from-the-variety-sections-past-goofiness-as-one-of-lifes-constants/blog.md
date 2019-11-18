@@ -20,4 +20,4 @@ While going down the rabbit-hole of Anderson’s work, I was unable to find much
 
 One thing that I enjoy about both the campus and the community here in Morris is how interconnected everybody is, even after graduating and moving away. We are so lucky to have both community members AND professors who used to be students at UMM. In my time here, one thing that I have learned is that nonsense is a constant in life. Every graduating class has its fair share of goofs, and I would certainly hope that my work with Variety is contributing to Morris’ goofiness. Whoever Erik Anderson is, it is clear that he contributed to this as well!
 
-[(Comics.JPG)]
+![](Comics.JPG)
