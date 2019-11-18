@@ -14,7 +14,7 @@ content:
     url_taxonomy_filters: true
 ---
 
-**By Evan Douville, Feature Editor** _Originally published in Issue 1, Volume 32 of The University Register on Friday, September 13, 2019_
+**By Alisa Samadani, Staff Writer** _Originally published in Issue 1, Volume 32 of The University Register on Friday, September 13, 2019_
 
 Ah, yes...Friday the 13th was a special day indeed. With the full moon and superstition in the air, many students would think evening festivities were limited. But no, the International Students Association (ISA) had other plans, as the full moon in mid-autumn signifies a very important tradition in China, as well as a few other
 Asian countries - the Mid-Autumn Festival. Along with learning about the festival itself, the club provided mooncakes, which are Chinese pastry products typically consumed during the Mid-Autumn Festival. The event was scheduled to be from 5-7pm, but all of the mooncakes seemed to be gone within the first half hour, with
