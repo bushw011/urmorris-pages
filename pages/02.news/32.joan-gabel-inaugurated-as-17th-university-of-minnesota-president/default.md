@@ -4,14 +4,13 @@ media_order: Gabel-min.jpg
 published: true
 date: '27-09-2019 17:29'
 content:
-    items:
-        - '@self.children'
-    limit: 5
+    items: '- ''@self.children'''
+    limit: '5'
     order:
         by: date
         dir: desc
-    pagination: true
-    url_taxonomy_filters: true
+    pagination: '1'
+    url_taxonomy_filters: '1'
 ---
 
 **By Melissa Voss, News Editor** _Originally published in Issue 2, Volume 32 of The University Register on Friday, September 27, 2019_
