@@ -1,6 +1,6 @@
 ---
 title: 'A Blast from the Variety Section''s Past: Goofiness as one of Life''s Constants'
-media_order: 'comic supplies.jpg,Comics.JPG'
+media_order: Comics.JPG
 published: true
 date: '28-09-2019 19:01'
 content:
