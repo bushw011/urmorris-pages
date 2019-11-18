@@ -1,5 +1,6 @@
 ---
 title: 'On Virtual Gambling'
+media_order: OnlineGambling.jpg
 published: true
 date: '28-09-2019 17:58'
 content:
