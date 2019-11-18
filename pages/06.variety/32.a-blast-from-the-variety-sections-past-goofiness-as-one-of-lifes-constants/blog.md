@@ -1,5 +1,6 @@
 ---
 title: 'A Blast from the Variety Section''s Past: Goofiness as one of Life''s Constants'
+media_order: 'comic supplies.jpg,Comics.JPG'
 published: true
 date: '28-09-2019 19:01'
 content:
@@ -17,4 +18,6 @@ For those of you who may not know, The University Register has been publishing i
 
 While going down the rabbit-hole of Anderson’s work, I was unable to find much information about the artist himself. It would be, in my opinion, very interesting to learn more about Anderson and whether art stayed a significant part of his life even after his time here at UMM. Of course, if I do happen to come across more information about him or his work in Variety, I will include it in a future issue. Even if I am unable to learn more, this has been a wild opportunity to dig through the UR archives, and I would certainly be open to doing this again.
 
-One thing that I enjoy about both the campus and the community here in Morris is how interconnected everybody is, even after graduating and moving away. We are so lucky to have both community members AND professors who used to be students at UMM. In my time here, one thing that I have learned is that nonsense is a constant in life. Every graduating class has its fair share of goofs, and I would certainly hope that my work with Variety is contributing to Morris’ goofiness. Whoever Erik Anderson is, it is clear that he contributed to this as well.
+One thing that I enjoy about both the campus and the community here in Morris is how interconnected everybody is, even after graduating and moving away. We are so lucky to have both community members AND professors who used to be students at UMM. In my time here, one thing that I have learned is that nonsense is a constant in life. Every graduating class has its fair share of goofs, and I would certainly hope that my work with Variety is contributing to Morris’ goofiness. Whoever Erik Anderson is, it is clear that he contributed to this as well!
+
+[](Comics.JPG)
