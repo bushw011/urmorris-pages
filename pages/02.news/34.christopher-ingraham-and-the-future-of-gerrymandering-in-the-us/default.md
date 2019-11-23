@@ -1,5 +1,6 @@
 ---
 title: 'Christopher Ingraham and The Future of Gerrymandering in the US'
+media_order: ChristopherIngraham.jpg
 published: true
 date: '11-10-2019 16:47'
 ---
