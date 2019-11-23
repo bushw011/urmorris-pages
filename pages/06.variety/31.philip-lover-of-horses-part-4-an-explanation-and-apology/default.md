@@ -3,14 +3,13 @@ title: 'Philip, Lover of Horses: Part 4 - An Explanation & Apology'
 published: true
 date: '13-09-2019 23:51'
 content:
-    items:
-        - '@self.children'
-    limit: 5
+    items: '- ''@self.children'''
+    limit: '5'
     order:
         by: date
         dir: desc
-    pagination: true
-    url_taxonomy_filters: true
+    pagination: '1'
+    url_taxonomy_filters: '1'
 ---
 
 **By Desmond Homann, Variety Editor** _Originally published in Issue 1, Volume 32 of The University Register on Friday, September 13, 2019_
