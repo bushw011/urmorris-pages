@@ -5,6 +5,8 @@ published: true
 date: '11-10-2019 17:20'
 ---
 
+**By Alisa Samadani, Staff Writer** _Originally published in Issue 3, Volume 32 of The University Register on Friday, October 11, 2019_
+
 UMM French Club hosted a free concert in Edson Auditorium on Saturday, October 5, from 7-9 p.m. The concert featured French musician, Eric Vincent, who has travelled all across the globe to share his music. His voice was full of soul. With graceful fingers sliding across the neck of his guitar, his powerful strums filled the room. Although I do not speak the language (desolé), I found his manner heartwarming.
 
 After his first piece, there was a brief interaction with the audience, then the lights turned red. He spoke of Sisyphus and his horrid condemnation: pushing a rock repeatedly up a hill for eternity.
@@ -29,3 +31,5 @@ was organized. The French club on cam pus is called Entre Nous, which means “e
 the cultures in Morris. He had performed at UMM in previous years and was more than happy to come and share some of his music with the campus. 
 
 When asked about future events that Entre Nous was planning, Molly mentioned French week, which runs from November 4-8, with each day comprised of different activities: a bake sale, a multilingual event with art or performances, “dirty Latin jokes,” and a “Tour de Morris,” which features riding mini clown bikes around the mall. Molly and the rest of Entre Nous look forward to hosting more events leading up to French Week, and hope that everyone who attended Eric Vincent’s concert had a wonderful time. Au revoir!
+
+_Photo on top courtesy of Google Images_
