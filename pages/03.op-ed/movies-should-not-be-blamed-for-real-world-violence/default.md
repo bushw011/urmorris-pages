@@ -5,7 +5,7 @@ published: true
 date: '11-10-2019 16:58'
 ---
 
-**By Tehya Wachuta, Feature Editor** _Originally published in Issue 3, Volume 32 of The University Register on Friday, October 11, 2019_
+**By Tehya Wachuta, Editor-in-Chief** _Originally published in Issue 3, Volume 32 of The University Register on Friday, October 11, 2019_
 
 Last weekend, I saw “Joker” at the Morris Theatre. For those of you who haven’t seen it, don’t worry — I’m going to try not to include any spoilers in this article. But after the movie ended, I started thinking about portrayals of the Joker throughout the character’s history.
 
