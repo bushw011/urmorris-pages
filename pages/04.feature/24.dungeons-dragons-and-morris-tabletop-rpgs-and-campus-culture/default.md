@@ -1,6 +1,8 @@
 ---
 title: 'Dungeons, Dragons, & Morris: Tabletop RPGs and Campus Culture'
 media_order: 'D&D.png'
+published: true
+date: '11-10-2019 17:10'
 ---
 
 **By Evan Douville, Feature Editor** _Originally published in Issue 3, Volume 32 of The University Register on Friday, October 11, 2019_
