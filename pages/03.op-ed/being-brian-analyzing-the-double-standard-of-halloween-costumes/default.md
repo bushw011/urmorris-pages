@@ -1,8 +1,11 @@
 ---
 title: 'Being Brian: Analyzing the Double Standard of Halloween Costumes'
+media_order: trickortreat.jpg
 published: true
 date: '25-10-2019 17:54'
 ---
+
+**By Dylan Young, Staff Writer**_Originally published in Issue 4, Volume 32 of The University Register on Friday, October 25, 2019_
 
 I’m not the biggest Halloween fan. I lived on an Indian reservation, and trick-or-treating back home was always problematic because of the rez dogs (stray canines that wreak havoc and eat trash) chasing me away before I could approach a house. There is one thing about Halloween I really love, though: costumes.
 
