@@ -5,6 +5,8 @@ published: true
 date: '25-10-2019 17:45'
 ---
 
+**By Melissa Voss, News Editor** Originally published in Issue 4, Volume 32 of The University Register on Friday, October 25, 2019
+
 The University of Minnesota Morris student body and alumni have raised their voices on social media, breaking the silence on a heated debate on free vs. hate speech on the Morris campus. On October 10, University of Minnesota Morris student Peter Truckenmiller posted two images of posters found in the Science-Student
 Center tunnel on Facebook: one showing three glasses saying “Optimist ...This glass is half full,” “Pessimist...This glass is half empty,” and “Feminist...This glass is being raped,” and the other showing male and female symbols and the phrase “Even when it only comes in two genders.” Both posters were labelled with “UMM
 College Republicans," their weekly meeting place and time, as well as the quoted phrase “Never be afraid of being right.”
