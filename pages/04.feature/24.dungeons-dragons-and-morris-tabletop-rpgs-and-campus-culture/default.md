@@ -1,8 +1,9 @@
 ---
 title: 'Dungeons, Dragons, & Morris: Tabletop RPGs and Campus Culture'
+media_order: 'D&D.png'
 ---
 
-By Evan Douville, Feature Editor Originally published in Issue 3, Volume 32 of The University Register on Friday, October 11, 2019
+**By Evan Douville, Feature Editor** _Originally published in Issue 3, Volume 32 of The University Register on Friday, October 11, 2019_
 
 If there’s one thing I find most prevalent on our campus, above all the hardworking, dedicated students, is that we have a very high regard for Dungeons and Dragons here. Not just D&D, but Tabletop Role Playing Games (TTRPGs) in general. Morris is, in my experience, incredibly TTRPG-crazy: with 113 registered members of Morris’ own RPG club, along with many others who aren’t enrolled, that’s almost 8% of our nearly 1500-student body. It’s absolutely amazing how prominent D&D is here compared to where I went to high school. I’ve managed to interview a few students about their love of D&D or new-ness to it, and I got some surprising answers.
 
