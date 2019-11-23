@@ -1,5 +1,6 @@
 ---
 title: 'A Blast from the Variety Section''s Past: A Special Friend From a Friend of the Register'
+media_order: 'comic supplies.jpeg,Comics2.JPG'
 published: true
 date: '11-10-2019 17:32'
 ---
@@ -12,3 +13,5 @@ I’m not totally sure I understand what is going on in Waryan’s comics, but I
 
 Maybe in future UR issues I will attempt to incorporate old Variety content again. I always have a lot of fun digging through old articles, art, and creative writing, and
 it’s good to take a look back every once in a while to make sure the hard work of these Morris students does not go unnoticed. All of us here at the UR work too hard to go unnoticed, so I hope that someday down the line there is another Variety editor who looks back on our issues too. I hope they aren’t embarrassed to have shared a section with me! I suppose we’ll see what happens.
+
+![](Comics2.JPG)
