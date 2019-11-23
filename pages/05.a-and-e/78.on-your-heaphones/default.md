@@ -3,14 +3,13 @@ title: 'On Your Heaphones: Bug Hunter'
 published: true
 date: '13-09-2019 23:34'
 content:
-    items:
-        - '@self.children'
-    limit: 5
+    items: '- ''@self.children'''
+    limit: '5'
     order:
         by: date
         dir: desc
-    pagination: true
-    url_taxonomy_filters: true
+    pagination: '1'
+    url_taxonomy_filters: '1'
 ---
 
 **By Tehya Wachuta, Editor-in-Chief** _Originally published in Issue 1, Volume 32 of The University Register on Friday, September 13, 2019_ 
