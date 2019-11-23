@@ -27,6 +27,7 @@ It should be noted that, as I am deathly allergic to horses, I had the help of s
 Do I trust horses? No. Do I like horses? No. Do I feel the need to go horseback riding again? Certainly not. This being said, it is only fair to admit that I know which horse I would want on my side in a fight. In a world without giant spiders for me to swoop in on when I save the day, I suppose this horse would not be unnacceptable. I still stand firmly by my beliefs, but I thank Mouse for not killing me when he had the chance. Maybe there are _some_ good horses out there, but you didn’t hear that from me. 
 
 Yeehaw,
+
 Desmond
 
 ![](Desmond%20&%20Mouse.JPG)
