@@ -1,5 +1,6 @@
 ---
 title: 'Movies Should Not Be Blamed For Real-World Violence'
+media_order: Joker.jpg
 published: true
 date: '11-10-2019 16:58'
 ---
@@ -21,3 +22,5 @@ I do not believe that this is meant to be a cry for sympathy for the villain, as
 That said, I understand why critics are concerned. The Joker has famously incited real-world violence before, with the Aurora, Colorado shooting which left 12 dead and 70 injured during a 2012 showing of “The Dark Knight.” James Holmes, the culprit, dyed his hair bright red before the shooting, which some speculate may be a symbol of the Joker, though Holmes has denied the connection. Before the 2019 film premiered, there were threats of another shooting on an unspecified theater in the United States, though the threat has yet to be acted upon.
 
 This concept of violence in movies leeching over into real life is an appalling trend reminiscent of such horrors as the Manson cult. While heinous, these types of crimes cannot be solely blamed on the world of cinema. Movies give us a new world to immerse ourselves in, give us characters to try to understand, and leave us with questions to ponder through the lens of our own lives. The extent to which we blur the lines between fantasy and reality is up to us.
+
+_Photo on top courtesy of Google Images_
