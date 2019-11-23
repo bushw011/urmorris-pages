@@ -5,6 +5,8 @@ published: true
 date: '11-10-2019 16:47'
 ---
 
+**By Dylan Young, Staff Writer** _Originally published in Issue 3, Volume 32 of The University Register on Friday, October 11, 2019_
+
 On Tuesday, October 1, the University of Minnesota Morris presented the latest installment in the university’s Jooin Lee Lecture series. Journalist Christopher Ingraham was the latest speaker in the series, presenting a lecture entitled “Gerrymandering after Rucho: What Will the Next Round of Redistricting Look Like?” to an audience of eager scholars and professors.
 
 Ingraham’s lecture explained what gerrymandering is, why it exists and how it works, and went in depth on his thoughts regarding the future of gerrymandering in the United States. Ingraham is a writer for the Washington Post known for his empirical, data-driven articles, particularly regarding gun and drug policy. Minnesota natives may recognize Ingraham for his harsh takedown of Red Lake Falls, MN in 2015, which he dubbed “the absolute worst place to live in America”. Ironically, Ingraham then moved to Red Lake Falls and has since, in his words, survived three full winters in the county.
