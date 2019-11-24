@@ -5,6 +5,8 @@ published: true
 date: '25-10-2019 18:35'
 ---
 
+**By Alisa Samadani, Staff Writer** _Originally published in Issue 4, Volume 32 of The University Register on Friday, October 25, 2019_
+
 Last week UMM was graced with a visit from Jocelyn Y. Howard, an artist with a beautiful story to tell. Howard gave a talk on Tuesday, October 15, from 6 to 7 p.m. in HFA 2. Growing up in a strict, Catholic environment, Howard was always raised to fear provocative imagery,  in spite of her dream to become an artist.
 
 When she attended Bob Jones University, the “buckle of the Bible belt,” as Howard put it, she was immersed in a far more restrictive creative space, where music, movements, and dress code were heavily regulated. Despite this, the university had a large collection of religious artwork, with the main source of entertainment for students being live theatre, as productions were done in great detail. 
