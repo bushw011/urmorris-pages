@@ -1,5 +1,6 @@
 ---
 title: 'A Musical Update Once Again From Your Friendly Neighborhood Oboe Man'
+media_order: oboe3-min.jpg
 published: true
 date: '25-10-2019 18:44'
 ---
