@@ -32,3 +32,5 @@ gender flipping of Cesario as a confident female figure, and Viola as a vulnerab
 
 Before Howard left campus, I asked her what advice she would give to aspiring artists of all levels, dealing with any sorts of roadblocks in life. Her response was one
 sentence: “I don’t believe in talent, I believe in hard work and failure.”
+
+_Photo on top courtesy of Pinterest_
