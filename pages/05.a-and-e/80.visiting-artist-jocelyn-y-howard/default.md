@@ -1,5 +1,6 @@
 ---
 title: 'Visiting Artist: Jocelyn Y. Howard'
+media_order: Jocelyn.jpg
 published: true
 date: '25-10-2019 18:35'
 ---
