@@ -1,5 +1,6 @@
 ---
 title: 'Student Organization Letter to Campus Community'
+media_order: Letter.jpg
 published: true
 date: '25-10-2019 18:00'
 ---
