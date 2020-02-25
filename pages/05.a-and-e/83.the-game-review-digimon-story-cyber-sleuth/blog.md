@@ -36,3 +36,5 @@ Speaking of which, another reason I rate this collection well is due to the fact
 For $50 you get two amazing, grindy RPGs that you can be sure to sink hundreds of hours into. If you’re a fan of monster collecting and grinding your team to perfection, “Digimon Story: Cyber Sleuth” is a must-have for fans of the genre. 
 
 Final Rating: 8.5/10
+
+_Image on top courtesy of Gematsu_
