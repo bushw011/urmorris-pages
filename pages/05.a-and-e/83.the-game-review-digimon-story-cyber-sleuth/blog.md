@@ -1,5 +1,6 @@
 ---
 title: 'The Game Review: Digimon Story Cyber Sleuth'
+media_order: Digimon-Story-CS-Complete-Edition_07-06-19.jpg
 date: '08-11-2019 23:06'
 content:
     items:
