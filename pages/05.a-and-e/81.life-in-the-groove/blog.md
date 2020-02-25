@@ -1,5 +1,6 @@
 ---
 title: 'Life in the Groove'
+media_order: music.jpg
 date: '08-11-2019 22:46'
 content:
     items:
