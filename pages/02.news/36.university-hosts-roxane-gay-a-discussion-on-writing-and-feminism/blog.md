@@ -1,5 +1,6 @@
 ---
 title: 'University Hosts Roxane Gay: A Discussion on Writing and Feminism'
+media_order: 49013430706_9921800e76_c.jpg
 date: '08-11-2019 21:18'
 content:
     items:
@@ -26,3 +27,5 @@ says it is all deliberate. She has boundaries about what she writes, particularl
 Gay received her PhD in rhetoric and technical communication in 2010, but has been passionate about writing from a young age. When she was four years old she would draw villages on napkins and write stories about the people who lived in them. She started her career by writing essays for literary magazines, but now has written opinion and advice columns, short stories, a Marvel comic book, and a novel. She continues to branch out with her work. 
 
 For students Gay left some advice: “Find the balance of taking care of yourself, contributing to society, and ending bigotry.”
+
+_Image on top courtesy of UMM Flickr_
