@@ -1,5 +1,6 @@
 ---
 title: 'On Your Headphones: Jesus is King'
+media_order: Jesus-Is-King-1572019297-828x536.jpg
 date: '08-11-2019 22:57'
 content:
     items:
@@ -29,3 +30,5 @@ One of my favorite aspects of Kanye’s artistry is his progression and evolutio
 I was born in a household that did not actively practice any religion. I was baptized at an Episcopal church and I am pretty sure that was the last time I ever stepped foot in one. I do not identify as atheist nor do I have any strong opinions about religion as a whole (which is admittedly a huge part of the reason why I did not enjoy this album). However, even I, someone with an elementary level understanding of Christianity, can recognize that some of the content clashes with the belief system the album claims to represent. I will save listing all of the examples because the comparison to his alleged persecution at the hands of the media and the betrayal of Jesus Christ on the track “Selah” already says everything that needs to be said regarding the holiness of how Kanye conducts himself on this album.
 
 As mentioned before, I did not enjoy Kanye’s previous solo album “Ye,” but I still find myself revisiting the track “Ghost Town.” There is not a single song on “Jesus is King” that I feel is worth multiple listens. This album is exhausting and beyond my help as a ranking member of the Kanye Defense Coalition... unfortunately for me this probably will not be the last Kanye album I dedicate large amounts of time thinking about regardless of actual quality or artistic merit.
+
+_Image on top courtesy of Stereogum_
