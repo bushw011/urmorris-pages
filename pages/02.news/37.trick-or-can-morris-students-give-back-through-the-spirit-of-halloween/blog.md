@@ -1,5 +1,6 @@
 ---
 title: 'Trick or Can: Morris Students Give Back Through the Spirit of Halloween'
+media_order: halloween-illustration-min.jpg
 date: '08-11-2019 21:24'
 content:
     items:
