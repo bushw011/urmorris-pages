@@ -1,5 +1,6 @@
 ---
 title: 'November Is Absolute Hell'
+media_order: November.jpg
 date: '08-11-2019 22:38'
 content:
     items:
