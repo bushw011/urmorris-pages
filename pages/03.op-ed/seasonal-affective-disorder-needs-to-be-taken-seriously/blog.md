@@ -1,5 +1,7 @@
 ---
 title: 'Seasonal Affective Disorder Needs to be Taken Seriously'
+media_order: winter.jpg
+date: '22-11-2019 21:24'
 content:
     items:
         - '@self.children'
