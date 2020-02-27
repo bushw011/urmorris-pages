@@ -1,5 +1,6 @@
 ---
 title: 'SIX at MOA'
+date: '22-11-2019 22:07'
 content:
     items:
         - '@self.children'
