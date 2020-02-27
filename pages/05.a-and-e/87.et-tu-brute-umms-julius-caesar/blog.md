@@ -1,5 +1,6 @@
 ---
 title: 'Et Tu, Brute? UMM''s Julius Caesar'
+media_order: 49065579448_dfb09c4678_c.jpg
 date: '22-11-2019 23:26'
 content:
     items:
@@ -28,3 +29,5 @@ Natalie Wallraff, who played Caius Cassius, said:
 “We were fortunate to get the set early in the rehearsal process, which meant we could familiarize ourselves with our acting space early. In ‘Julius Caesar,’ the setting is consistently shifting from scene to scene. Having a minimalistic set meant it could serve multiple purposes without needing long transition times. Shakespeare’s language can be a lot for an unpracticed ear to follow, and I think having too busy of a set might have given audience members too much to focus on at any given time.”
 
 The theatre discipline’s next production is “Hunting and Gathering” by Brooke Berman. Performances will be February 20 to February 22.
+
+_Photo on top courtesy of UMM Flickr_
