@@ -1,5 +1,6 @@
 ---
 title: 'UMM Community Members Speak on Hong Kong Extradition Protests'
+media_order: 'HK Flag.jpg'
 date: '22-11-2019 21:04'
 content:
     items:
