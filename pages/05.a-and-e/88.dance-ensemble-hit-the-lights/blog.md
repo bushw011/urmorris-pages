@@ -12,6 +12,8 @@ content:
     url_taxonomy_filters: true
 ---
 
+**By Alisa Samadani, Staff Writer** _Originally published in Issue 7, Volume 32 of The University Register on Friday, December 6, 2019_
+
 Dance Ensemble held their debut performance of the academic year, “Hit the Lights,” in Edson Auditorium on Friday, November 22. There were a total of three performances, Friday at 1 p.m., Saturday at 1p.m., and again at 7 p.m. This year’s show was performed in classic dance ensemble fashion. It featured energized, upbeat music mixed with lyrical and emotional pieces.
 
 Like most of the performance, “Wicked Ones” was an energetic piece, though the energy came not solely from the music but also from the dancers’ ability to perform the complex choreography in high heels. Although dancing in heels is an incredibly difficult task, the dancers brought Wyatt Anderson’s choreography to life in an impressive and graceful manner.
