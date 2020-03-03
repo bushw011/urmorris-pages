@@ -1,6 +1,6 @@
 ---
 title: 'Super Smash Bros. Ultimate First Year Anniversary'
-media_order: 'SSB-min.jpg,SSB.jpg'
+media_order: SSB-min.jpg
 date: '06-12-2019 21:16'
 content:
     items:
