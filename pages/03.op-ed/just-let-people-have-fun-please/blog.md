@@ -1,5 +1,6 @@
 ---
 title: 'Just Let People Have Fun, PLEASE'
+media_order: BEVH.jpeg
 content:
     items:
         - '@self.children'
@@ -33,4 +34,4 @@ Variety Editor
 
 The University Register
 
-_Image on top courtesy of Unilad_
+_Image on top courtesy of HuffPost_
