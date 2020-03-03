@@ -24,3 +24,5 @@ The second piece was Henry Eccles’ “Sonata in G Minor.” This piece feature
 The concert closed with Felix Mendelssohn’s "String Symphony No. 10 in B Minor,” which Mendelssohn composed at the age of 14. The piece consisted of three parts: an adagio with slow, elegant harmonics and abrupt color changes; an allegro with a few themes which developed individually throughout the section and included a few interesting key changes; and a piu presto that acted as an energetic and engaging finale. The piece showcased a recurring theme that evolved  throughout its duration, providing a fluid backbone to the symphony’s sound.
 
 Overall, the concert was a highly engaging opening to the Chamber Orchestra’s season. The selection of music allowed the students to display their talents in three different styles of orchestra repertoire, which provided the audience with an entertaining and diverse sample of chamber orchestra music. Their next concert will be Monday, May 4 at 7:30 p.m. in the HFA Recital Hall, and I highly encourage all of our readers to attend.
+
+_Image on top courtesy of WallpaperAccess_
