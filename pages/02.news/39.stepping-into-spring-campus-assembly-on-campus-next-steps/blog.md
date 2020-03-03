@@ -1,5 +1,6 @@
 ---
 title: 'Stepping into Spring: Campus Assembly On Campus'' Next Steps'
+media_order: 48788752347_f868297ba1_c.jpg
 date: '06-12-2019 20:25'
 content:
     items:
