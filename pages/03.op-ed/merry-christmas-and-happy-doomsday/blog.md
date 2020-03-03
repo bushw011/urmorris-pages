@@ -1,6 +1,6 @@
 ---
 title: 'Merry Christmas and Happy Doomsday'
-media_order: conflict.png
+media_order: 'handshake.jpg,conflict.png'
 date: '06-12-2019 20:57'
 content:
     items:
