@@ -1,5 +1,6 @@
 ---
 title: 'An Evening of Jazz: Fall Jazz Concert'
+media_order: sax.jpg
 content:
     items:
         - '@self.children'
