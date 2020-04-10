@@ -1,5 +1,6 @@
 ---
 title: 'What''s New, What''s Old, and What''s New With You?'
+media_order: Morris.jpg
 date: '07-02-2020 17:31'
 ---
 
@@ -28,3 +29,5 @@ On December 11, 2019, the U of M system officially implemented a new policy on g
 **Keep Your Eyes Peeled!**
 
 Morris, in general, almost always has something going on, whether it is in town or on campus. Many of the local bars and restaurants around town (including Stone’s Throw and The Met) have started trivia nights, so you can bring your friends down and start quizzing! John’s Total Entertainment is hosting game sessions for Magic, Pokemon, Yu-Gi-Oh, and D&D on weeknights! The Morris Theatre’s shows are constantly changing (and might even be free for students on certain nights, eye emoji indeed).
+
+_Photo on top courtesy of UMM Flickr_
