@@ -1,5 +1,6 @@
 ---
 title: 'Nimble: Artists Who Work Across Mediums'
+media_order: 49609092088_e0e5c46acd_w.jpg
 date: '07-02-2020 18:45'
 ---
 
@@ -22,3 +23,5 @@ Sara Allen Prigodich is a freelance artist whose works have been displayed natio
 Prigodich’s ceramic sculptures are, in the artist’s words, “physical representations of our psychological incongruities: the doubts, questions, and shifts in perspectives through which we view the memories of our lives.” The sculptures are ceramics thatare being held by a thin wooden structure; the ceramic seemingly slipping away from the wooden framework below carries strong feelings of anxiety, unsure of where the figure is heading, just as we are unsure of where we are heading in the near future. Prigodich has a few watercolor pieces as well, with each piece carrying soothing, near dreamlike imagery in each frame. Prigodich has three watercolor pieces and three ceramic sculptures on display on the upper floor of the gallery. Image courtesy of Sara Allen Prigodich. 
 
 Melissa Zexter is a freelance artist whose works have been shown nationally and internationally, including shows at Muriel Guepin Gallery in New York, USA; Robert Mann Gallery in New York, USA; Bronx Museum of the Arts; The Fuller Craft Museum in Massachusetts, USA; and The Triennial Design Museum in Milan, Italy. Zexter took an interesting approach to her work, utilizing thread and gelatin silver prints to accentuate certain aspects of her chosen prints. By combining embroidery with photography, Zexter can transform the two-dimensional image into a three-dimensional object, drawing out ideas of identity, memory, and technology; the image, once muted, begins to find a voice within itself. Zexter’s piece, “Girl in Bath,” strategically places the threads around a modern object, a bathtub, and combined with the oil paintings, create this dual-image of a pond and a bathtub, a cross between modernity and the natural world. Complimented by the ominous black shadow over the edge of the tub, there is a feeling of unease, of vulnerability for the woman. All of Zexter’s pieces share a theme of red thread and a woman in frame, possibly hinting at the challenges women face in art, as well as in the modern world in general. Zexter has ten pieces displayed on the main floor of the gallery, along the walls closest to the doorway.
+
+_Photo on top courtesy of UMM Flickr_
