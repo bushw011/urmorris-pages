@@ -1,6 +1,7 @@
 ---
 title: Ligament
 media_order: ligament.jpg
+date: '07-02-2020 18:18'
 ---
 
 **By Alisa Samadani, A&E Editor** _Originally published in Issue 8, Volume 32 of The University Register on Friday, February 7, 2020_
