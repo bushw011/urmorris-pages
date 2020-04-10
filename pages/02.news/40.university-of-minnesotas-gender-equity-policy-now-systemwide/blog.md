@@ -23,3 +23,5 @@ However, the main concern revolving around the policy proposal was that it would
 The University of Minnesota Senate passed the gender policy proposal back in May 2019. Many student senators such as Austin Berger emphasized that this policy was a “historic” step, telling the Minnesota Daily: “If the regents have concerns about this policy and if any of them would like to nullify it, I think we will have to organize some direct action efforts to ensure this is respected. It’s a pretty loud message when civil service [professional and administrative staff], faculty and students all come together and endorse something like this by an overwhelming majority.”
 
 The final revisions to the policy were implimented on December 11, 2019. Areas of the policy, as described on the University Policy Library, cover the preference of one’s name, gender identity and pronouns, privacy of legal sex and names, and use of preffered pronouns in programs, activities, and facilities.
+
+_Image on top courtesy of AIGA_
