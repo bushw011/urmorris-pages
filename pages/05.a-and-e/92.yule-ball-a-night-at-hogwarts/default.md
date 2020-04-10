@@ -20,3 +20,5 @@ In the Science Building, 8 Ball the ball python was available for photos. This w
 Students enjoyed the new take on the tradition, from themes specific to a recent film, to the series in a general sense. Many also appreciated the improvements made to the photo booth, as well as the Fantastic Beasts featured in this year’s treasure hunt. When asked about the significance of Yule Ball on campus, many answered that, similarly to the Star Wars franchise, the love for wizards and wizardry has become generational, being passed down from novel to film, visiting theme parks, and sharing a chocolate frog or two.
 
 Co-chair, Jordyn Meyer, said it best: “Yule Ball is such an amazing and fun tradition! You get one night before finals week to dress up and be stressfree. You can either nerd out with a huge fantasy series, or simply enjoy a night of fancy decorations. It’s also such a huge social gathering for friends both new and old.”
+
+_Photo on top courtesy of UMM Flickr_
