@@ -1,5 +1,6 @@
 ---
 title: 'University of Minnesota''s Gender Equity Policy Now Systemwide'
+media_order: gender-equilty-5pcaiga.jpg
 date: '07-02-2020 16:33'
 content:
     items:
@@ -24,4 +25,4 @@ The University of Minnesota Senate passed the gender policy proposal back in May
 
 The final revisions to the policy were implimented on December 11, 2019. Areas of the policy, as described on the University Policy Library, cover the preference of one’s name, gender identity and pronouns, privacy of legal sex and names, and use of preffered pronouns in programs, activities, and facilities.
 
-_Image on top courtesy of AIGA_
+_Image on top courtesy of The New Times_
