@@ -4,6 +4,8 @@ media_order: Morris2.jpg
 date: '07-02-2020 17:31'
 ---
 
+**By Evan Douville, Feature Editor** _Originally published in Issue 8, Volume 32 of The University Register on Friday, February 7, 2020_
+
 Well, here we are. 2020. We are all mostly not dead (mostly, emphasis definitely on the mostly). Many of us are returning to campus for yet another semester (some of us for our last semester ;_;) and some are arriving here for the first time. Despite being gone for only a month, things have certainly gotten spicy around here on our little campus on the prairie. I  figured, hey, how about I show you guys what is new, what is old that you might have missed, and what is coming up in the coming months. I hope you brought a writing utensil, because I forgot, can I borrow yours?
 
 **The Tunnels (Now Blue and Free of Ads)**
