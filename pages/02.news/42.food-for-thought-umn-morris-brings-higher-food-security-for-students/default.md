@@ -1,5 +1,6 @@
 ---
 title: 'Food for Thought: UMN Morris Brings Higher Food Security for Students'
+media_order: 'food insecurity.jpg'
 date: '21-02-2020 22:38'
 ---
 
@@ -25,3 +26,5 @@ The locations of the food security project include:
 • Native American Garden and the Organic Gardening Club (Not able to assist in the winter)
 
 • Morris Healthy Eating, Wellness Center
+
+_Image on top courtesy of The Daily Cardinal_
