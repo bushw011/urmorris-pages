@@ -1,5 +1,6 @@
 ---
 title: 'The Junkyard'
+media_order: junkyard.jpg
 date: '07-02-2020 19:10'
 ---
 
@@ -111,3 +112,5 @@ Terry stayed silent for a moment. Crass could tell he was hurt. Terry started sp
 “It’s filled up now,” Crass said. “I still thank you for it in my head, every time I use it.”
 
 Crass began to walk to his family’s house. It may have always been too damn hot in Serahsohta, but at least at his parent’s house he could turn on the AC, sit in his favorite chair, and think in the silent comfort of his living room.
+
+_Photo on top courtesy of McClusky Automotive_
