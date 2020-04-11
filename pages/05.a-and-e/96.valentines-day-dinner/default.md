@@ -38,3 +38,5 @@ Before the last act, choir director Bradley Miller took a moment to recognize th
 The eighth act featured Concert Choir. The choir surrounded the ballroom, filling each and every inch of the room with sound as they performed two songs: Jeff Langman’s “If You Told Me” and Felipe Coronel Rueda’s “Estrellita del sur.” The last song, which will be performed on their study abroad, is a Peruvian waltz.
 
 Concert Choir will be performing their send-off concert for Peru on March 7. If anyone is interested in sending donations to the choir, you can visit http://c-fund.us/pl9 to make a donation.
+
+_Image on top courtesy of Freepik_
