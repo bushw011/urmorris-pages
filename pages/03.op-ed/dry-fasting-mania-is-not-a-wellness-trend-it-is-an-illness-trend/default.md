@@ -26,3 +26,5 @@ This entire concept circles back to a topic I’ve discussed in editorials befor
 This mindset is normalizing and encouraging behavior that, if it doesn’t lead to illness or death, could certainly lead to eating disorders. Our obsession with weight 
 loss, and our blind willingness to follow any means to lose weight, is not wellness. It is not self love. It is not healthy. It is a mass illness, rooted in our society’s fixation
 with “the ideal body” and sustained by the nearly inescapable messages that our bodies will never be good enough. I urge you all, readers, to try not to fall victim to this abhorrent trend. Even if you are not satisfied with your body, be careful with how you try to change it. Make sure that you are not putting yourself in danger. And please, please, keep eating food and drinking water.
+
+_Image on top courtesy of pngimage.net_
