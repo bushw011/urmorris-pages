@@ -1,5 +1,6 @@
 ---
 title: 'Graduation Thoughts: Talk from Graduation Students'
+date: '21-02-2020 23:24'
 ---
 
 **By Evan Douville, Feature Editor** _Originally published in Issue 9, Volume 32 of The University Register on Friday, February 21, 2020_
@@ -45,3 +46,5 @@ Johnson comments, “One time, freshman year, my friend and I were in the Indy k
 Cordes in particular shared a vulnerable, yet empowering moment. “For the third laser tag event, I was really stressed out. My co-exec had to be on call and leave early. I felt like I had to be there. My friends brought a Switch and a TV to the Student Center, and we played Mario Kart, and they did that just to calm my nerves. After the event ended, I went inside to clean up all the obstacles and everything. When I went inside, and saw everyone, like ten people, players, the building event manager, everyone was helping with a smile on their face. It was the most meaningful moment for me. I felt like I believed that something I did, that I helped start, brought people together, brought them happiness, and united them. I’ll cherish that forever.”
 
 This May, many of us graduate, but as you can see, Morris will not leave us. Instead, we will take it with us, boldly, into the future.
+
+_Image on top courtesy of Lakeland Vision_
