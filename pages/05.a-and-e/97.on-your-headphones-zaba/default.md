@@ -15,3 +15,5 @@ Next, the lines. This album cover follows no laws of line, as squares, circles, 
 Full of life, yet slowed down by the cool, faded colors, ZABA caught my eye as a psychedelic album before I had even read the artist’s name, which is written in orange gold print in the center, followed by the album name at bottom center.
 
 With the album cover art in your mind, you’re probably imagining something loud and crowded, yet soft and soothing...well, you aren’t far off. Each song on the album has a similar structure, starting with the instrumental, slowly incorporating vocals, coming to a climax (sometimes multiple) about midway. The instruments used on this album are quite unique from traditional psychedelic music, incorporating wooden instruments into a guitar and synthesizer background, matched with soft, indie vocals that seek to lull you into a trance state. At times, the song can reach a bustling segment, full of energy and odd lyrics (as Glass Animals is well known for their hauntingly cryptic lyrics). This reminds me of the crowded images on their cover art: busy, yet calm.
+
+_Image on top courtesy of Wikipedia_
