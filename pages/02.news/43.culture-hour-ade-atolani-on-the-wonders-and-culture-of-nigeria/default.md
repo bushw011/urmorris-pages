@@ -12,3 +12,5 @@ In Nigerian culture, respect is shown in how people greet each other. Younger pe
 dance, and attendees spread money on the groom and bride as a prayer of wealth. Then, there is an American wedding in a classic western style. 
 
 The music in Nigeria is upbeat and has themes of religion, life and love. Some examples of clothing in Nigeria include the gele, a woman’s colorful headwear; the Iro, a woman’s wrap skirt; the Buba, a blouse; and the Buba and the Sokoto, a long shirt and pants that Ade wore. As for food, Ade described some of his favorite dishes, including Suya (a spice on chicken, rice, and soup), Punded yam, and okra soup.
+
+_Image on top courtesy of Wikipedia_
