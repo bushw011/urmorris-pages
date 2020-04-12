@@ -1,5 +1,6 @@
 ---
 title: 'International Fashion Show'
+media_order: 49579963161_0865f8c059_c.jpg
 date: '06-03-2020 00:52'
 ---
 
@@ -32,3 +33,5 @@ The outfit that I wore in the first wave of the fashion show was the same clothi
 What does this event mean to you? What do you think this event should mean to the campus community?
 
 The international fashion show embodies the very meaning of diversity and community that this campus portrays. It’s an opportunity to bring divided cultures together as one for a period of time that has historical significance and value.
+
+_Photo on top courtesy of UMM Flickr_
