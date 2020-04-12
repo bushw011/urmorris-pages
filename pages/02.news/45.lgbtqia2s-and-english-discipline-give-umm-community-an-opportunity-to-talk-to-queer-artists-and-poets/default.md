@@ -34,3 +34,5 @@ Judy Grahn
 Topics: Gay Women’s Liberation; origin stories; neurodiversity
 
 Judy Grahn is a poet, activist, and cultural theorist. Her writings have helped to fuel cultural feminist, gay, and lesbian activism since 1965. Grahn’s earliest books, Edward the Dyke and Other Poems (1971), She Who (1972), and A Woman is Talking to Death (1974), were collected in The Work of a Common Woman in 1978. Her recent book Hanging On Our Own Bones (2017) collects her seven “ninepart poems.” Grahn’s books of prose include her mythic-history Another Mother Tongue (Beacon Press, 1984, 1991) and Blood, Bread, and Roses: How Menstruation Created the World (Beacon Press, 1993), among others. She has held academic positions at Stanford University, New College of California, California Institute of Integral Studies, Sofia University, and the Institute of Transpersonal Psychology. Grahn has given more than 1,000 readings, lectures, and presentations in all kinds of venues. She is also the author of a memoir, A Simple Revolution: the Making of an Activist Poet.
+
+_Image on top courtesy of North Shore Kid_
