@@ -1,5 +1,6 @@
 ---
 title: 'Hunting and Gathering: A Quick Review'
+media_order: '49558251456_caedd853b1_c.jpg,49558251456_caedd853b1_w.jpg'
 date: '06-03-2020 00:02'
 ---
 
