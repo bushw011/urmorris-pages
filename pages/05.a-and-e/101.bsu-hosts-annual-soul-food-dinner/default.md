@@ -1,5 +1,6 @@
 ---
 title: 'BSU Hosts Annual Soul Food Dinner'
+media_order: 49609379421_665e476813_c.jpg
 date: '06-03-2020 01:13'
 ---
 
