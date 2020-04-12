@@ -1,5 +1,6 @@
 ---
 title: 'Super Tuesday: The Biggest Day for the Push of Primaries'
+media_order: supertuesday.jpg
 date: '06-03-2020 19:42'
 ---
 
