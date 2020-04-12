@@ -14,3 +14,5 @@ Although unorthodox, I thought it was an incredibly bold choice to cast Sarah Pa
 To me, the most fascinating aspect of the film was the brief look into Palin’s reception among the Republican Party at the time. There were several scenes highlighting the vice presidential candidate’s popularity among working class, right-wing voters. One must wonder whether Sarah Palin’s vice president candidacy played a role in the rise of the Trump administration, which was credited for mobilizing Southern, working class, conservative-leaning voters in the 2016 election.
 
 “Game Change” was a solid start in the three part film series. The next installment will be the 2011 film, “The Ides of March,” which chronicles the frantic last days of a contested Ohio presidential primary, where a campaign press secretary played by Ryan Gosling is found in a political scandal that threatens his candidate’s presidency chances. I encourage all to attend the next two events, if not for the politics, then for the ice cream.
+
+_Image on top courtesy of Free Vector Art & Graphics_
