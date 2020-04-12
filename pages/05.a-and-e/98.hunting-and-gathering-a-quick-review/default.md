@@ -1,6 +1,6 @@
 ---
 title: 'Hunting and Gathering: A Quick Review'
-media_order: '49558251456_caedd853b1_c.jpg,49558251456_caedd853b1_w.jpg'
+media_order: 49558251456_caedd853b1_c.jpg
 date: '06-03-2020 00:02'
 ---
 
@@ -19,3 +19,5 @@ Ruth is the tough woman trying to move past the memories of her ex-husband while
 On the other side, there is Jesse, Astor’s brother and a professor at Columbia University who is going through the motions. Jesse is simply teaching and working to find a new apartment when an affair suddenly comes into play, and things become complicated.
 
 Although a short, simple play, “Hunting and Gathering” touches on issues with co-living, with leaving home, getting past a strong relationship, and the hardship of maintaining a calm head. Rent aside, there are a plethora of problems that the youth of today have to face, and this play had a clever way of portraying both the external and internal issues with living on your own and navigating adulthood.
+
+_Image on top courtesy of UMM Flickr_
