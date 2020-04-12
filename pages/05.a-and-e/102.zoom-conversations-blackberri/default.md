@@ -4,6 +4,8 @@ media_order: blackberri.jpg
 date: '06-03-2020 01:37'
 ---
 
+**By Alisa Samadani, A&E Editor** _Originally published in Issue 10, Volume 32 of The University Register on March 6, 2020_
+
 On February 25, ENGL 4039: Feminist and Queer Storytelling, LGBTQIA2S+ Programs, and the English Discipline held the first of a series of Zoom conversations with queer poets and artists. The program features a Zoom call with queer poets and artists every week, and the 25th featured Blackberri, an American singer-songwriter and community activist. His music focuses on social issues including civil rights, LGBTQ+ rights, and HIV/AIDS prevention, among others. In 1981 he released Blackberri and Friends: Finally on his own music label, Bea B. Queen. The first National Third World Lesbian and Gay Conference’s theme song was Blackberri’s song “When Will The Ignorance End.” In 2002 Blackberri received a Lifetime Achievement AIDS Hero Award at the San Francisco Candlelight Vigil. He has a new album forthcoming. Blackberri lives in Oakland, CA. 
 
 At the start of the class, Blackberri sang a song for the class. Then, students were invited to ask questions about Blackberri’s background, his art, and his activism. 
