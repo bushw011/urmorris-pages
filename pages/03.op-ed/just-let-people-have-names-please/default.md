@@ -1,6 +1,6 @@
 ---
 title: 'Just Let People Have Names, Please'
-media_order: 'name.jpg,hello-name-tag-vector-267.jpg'
+media_order: name.jpg
 date: '06-03-2020 23:14'
 ---
 
@@ -13,3 +13,5 @@ Maybe this is strange or maybe it’s perfectly normal, but I don’t feel any d
 I chose my name shortly after coming out, which was six years ago now. Around that same time, I had several reasons that I did not feel I was able to use my chosen name all the time, whether it be a specific context, person, or concern standing in the way of my name. Because of these anxieties and obstacles, both internal and external, I kept quiet and let people call me pretty much whatever they wanted. Part of me feared that correcting others about my name would draw attention to my deviance from gender norms, putting me through even more anxiety and stress. Though I now wish I hadn’t kept so quiet, I am not upset with myself for doing so and I understand why I let so many nicknames slip through the cracks. 
 
 I have actually never been the kind of person to have a real nickname, but I’m not upset about my lack of nicknames. In fact, I prefer it that way. For some people, this might seem like an odd thing to have opinions about, and that’s fine! I’m not here to change anyone’s mind about nicknames, I simply wanted to offer my own reasons for being frustrated when I get called by a name other than the one I worked so hard to get. I went for more than half of my life by a name that I don’t consider my own, so now that people know my name is Desmond, I would hope they wouldn’t have reasons to call me anything else. After all, if I wanted people to call me something other than my name, I would have picked something different, right? 
+
+_Image on top courtesy of Zazzle_
