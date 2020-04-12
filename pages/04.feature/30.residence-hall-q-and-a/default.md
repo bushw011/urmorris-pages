@@ -48,3 +48,5 @@ Green Prairie is the only hall on campus that has both freshmen and upperclassme
 **Parker Smith, HD of the Apartments:**
 
 “I think that the best thing about the apartments is the space and the learning opportunities that come with it. Living in the on-campus apartments allows our students to have the independence and responsibility of an apartment, but not sacrifice the convenience and support of living on campus. We are also the only on campus area where students are not required to have a meal plan. For many, the apartments are a chance to develop the knowledge and skill to live off campus, whether that be in later years at Morris, or after graduation. The community in the apartments is different from the residence halls, less like a dorm floor and more like a neighborhood. Everyone has their privacy, but there is also a friendly sense of community. I don’t think I really have a part that I dislike, its just a really nice place to live. I hope that helps, good luck!”
+
+_Photo on top courtesy of students.morris.umn.edu_
