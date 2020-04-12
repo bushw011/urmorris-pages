@@ -1,5 +1,6 @@
 ---
 title: 'Zoom Conversations: Blackberri'
+media_order: blackberri.jpg
 date: '06-03-2020 01:37'
 ---
 
@@ -30,3 +31,5 @@ I always sang, from when I was really young. One of the things I liked to do was
 Wealth buys armies and I don’t know if there’s ever going to be a really safe place because the rich have a tight hold on everything and right now they’re kind of losing it. You can see it through all of the outlash. Until everybody becomes aware that they are powerful and that everything comes from within and not from without, they are always going to be in control. The real strength is internal, and once you find that, you become the most powerful person on the planet. Our job is to do that and manifest that outward. The division is the thing that keeps us from becoming one. We are all fingers of God. When we unite and come together, we become a fist. An open hand can slap but a fist can punch, and a punch is more powerful than a slap. There’s a saying that nobody wins until everybody wins and that’s absolutely true. 
 
 Everybody has to be brought to the table, you can’t have any empty chairs. The problem with the community is we still have people that think once they have their rights, they do not have to worry about other people’s rights. What I try to do is talk about all of these different struggles because we all need to include people. If you go on and ignore people who are still suffering, that’s very selfish. I’ve always been about inclusivity and bringing people into the bowl and that’s where I’m coming from. There still discrimination in the white gay community with gay minorities, forgetting about people outside of the circle.
+
+_Photo on top courtesy of queeropenmic.com_
