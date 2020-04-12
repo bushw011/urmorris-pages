@@ -1,5 +1,6 @@
 ---
 title: 'Symphonic Winds: Seasons of Emotions'
+media_order: oboe3-min.jpg
 date: '06-03-2020 00:37'
 ---
 
@@ -11,7 +12,7 @@ The first piece was Satoshi Yagisawa’s, “The Spring Sketches.” The song wa
 
 The second piece was Philip Sparke’s “A Winter’s Tale.” It features woodwind chords, distant bells, and a solo saxophone depicts a dawn chorus. The piece continues, and the sleigh bells get louder, with a wintry field being drawn most romantically. 
 
-The third piece was Stephen McNeff’s “Ghosts”. McNeff’s theatrical background plays a special part in this piece, as every part of the piece (excluding the introduction) was introduced with a short poem. The story of the Grey Lady, the Dog of Godley, the Oldham Coliseum Ghost, the Polish Sailor, and Chorale all featured a vivid fantasy realm that only adds to the alluring quality of the music. The eerie, whispering tones made hairs stand on end, heart beats skip, and anxiety rise...all in a good way. Summer was gone, and October was on its way.
+The third piece was Stephen McNeff’s “Ghosts.” McNeff’s theatrical background plays a special part in this piece, as every part of the piece (excluding the introduction) was introduced with a short poem. The story of the Grey Lady, the Dog of Godley, the Oldham Coliseum Ghost, the Polish Sailor, and Chorale all featured a vivid fantasy realm that only adds to the alluring quality of the music. The eerie, whispering tones made hairs stand on end, heart beats skip, and anxiety rise...all in a good way. Summer was gone, and October was on its way.
 
 The fourth piece was, coincidentally, Eric Whitacre’s “October.” The pastoral melodies and corresponding harmonies are all reminiscent of the English romantic composers – Vaughan Williams, Gustav Holst – composers who Whitacre, as a choral composer, is familiar with. According to Whitacre, “If the fall can create a sense of unease it can also convey serenity and contentment in the gold and reds of autumn hues.”
 
