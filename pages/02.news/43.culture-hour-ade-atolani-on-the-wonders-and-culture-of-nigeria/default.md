@@ -3,7 +3,7 @@ title: 'Culture Hour: Ade Atolani on the Wonders and Culture of Nigeria'
 date: '21-02-2020 22:45'
 ---
 
-**By Dana Voss, News Editor** _Originally published in Issue 9, Volume 32 of The University Register on Friday, February 21, 2020_
+**By Dana Voss, Contributor** _Originally published in Issue 9, Volume 32 of The University Register on Friday, February 21, 2020_
 
 On Thursday, February 13, the University of Minnesota Morris’ Culture Hour featured Adelou Atolani, who spoke of his motherland of Nigeria. He talked about many different aspects of Nigerian life, including the meanings of names, languages, weddings, music, clothing, and food. He began by saying that names in Nigeria have
 Christian meanings. For example, his name, Adeolu Atolani, means “crown of God” and “born into wealth.” Ade is from the Hausa, which is the largest ethnic group and language spoken in Nigeria. Ade wore beads to the presentation, and said that these specific beads he wore signified royalty. Ade’s grandfather was an African prince, but since Ade and his family live in America, they are cut off from the royal bloodline.
