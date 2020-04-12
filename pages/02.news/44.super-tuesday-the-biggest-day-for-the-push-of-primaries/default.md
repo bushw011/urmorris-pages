@@ -67,3 +67,5 @@ Tulsi Gabbard
 • Total Delegates: 1
 
 Following the events of Super Tuesday, former New York City mayor Mike Bloomberg dropped from the race March 4.
+
+_Image on top courtesy of Prensa Latina_
