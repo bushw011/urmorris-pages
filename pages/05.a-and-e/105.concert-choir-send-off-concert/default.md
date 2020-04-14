@@ -1,7 +1,7 @@
 ---
 title: 'Concert Choir Send-off Concert'
 published: true
-date: '03-04-2020 21:53'
+date: '10-04-2020 21:53'
 ---
 
 **By Alisa Samadani, A&E Editor** _Originally published in Issue 11, Volume 32 of The University Register on April 3, 2020_
