@@ -1,6 +1,10 @@
 ---
 title: 'Concert Choir Send-off Concert'
+published: true
+date: '03-04-2020 21:53'
 ---
+
+**By Alisa Samadani, A&E Editor** _Originally published in Issue 11, Volume 32 of The University Register on April 3, 2020_
 
 On Saturday, March 7, the Concert Choir performed their send-off concert in the HFA Recital Hall before their scheduled trip to Peru, which was unfortunately cancelled due to the virus outbreak. The repertoire consisted of traditional Peruvian choral works, as well as pieces by Michael McGlynn, Hans Leo Hassler, Sydney Guillaume, René Clausen, and Stephen Paulus. The choir also premiered a new piece, “Primavera in Silencio,” by Joshua Shank. There was a pre-concert talk at 6:45 p.m. with composer Joshua Shank and poet Dr. Robert W. Ressler. The concert was from 7:30 to 9 p.m. The event was $5 for Adults, $3 for seniors, and $1 for students and children.
 
