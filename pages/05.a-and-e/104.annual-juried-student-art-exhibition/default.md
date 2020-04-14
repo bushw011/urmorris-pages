@@ -1,7 +1,7 @@
 ---
 title: 'Annual Juried Student Art Exhibit'
 media_order: 49639664921_f247bfa23e_c.jpg
-date: '03-04-2020 21:47'
+date: '10-04-2020 21:47'
 ---
 
 **By Alisa Samadani, A&E Editor** _Originally published in Issue 11, Volume 32 of The University Register on April 3, 2020_
