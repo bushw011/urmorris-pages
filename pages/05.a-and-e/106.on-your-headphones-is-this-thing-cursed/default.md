@@ -1,7 +1,7 @@
 ---
 title: 'On Your Headphones: Is This Thing Cursed?'
 published: true
-date: '03-04-2020 22:04'
+date: '10-04-2020 22:04'
 ---
 
 **By Alisa Samadani, A&E Editor** _Originally published in Issue 11, Volume 32 of The University Register on April 3, 2020_
