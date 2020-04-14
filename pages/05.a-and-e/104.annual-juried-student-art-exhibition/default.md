@@ -1,12 +1,12 @@
 ---
-title: 'Annual Juried Student Art Exhibition'
+title: 'Annual Juried Student Art Exhibit'
 media_order: 49639664921_f247bfa23e_c.jpg
 date: '03-04-2020 21:47'
 ---
 
 **By Alisa Samadani, A&E Editor** _Originally published in Issue 11, Volume 32 of The University Register on April 3, 2020_
 
-On Thursday, March 5, the Annual Juried Student Art Exhibition opened to the public. Although they were only open for a short amount of time, I would like to invite readers to the University of Minnesota Morris Flickr, where all of the exhibition’s pieces have been photographed for people to view from the safety of their home.
+On Thursday, March 5, the Annual Juried Student Art Exhibit opened to the public. Although they were only open for a short amount of time, I would like to invite readers to the University of Minnesota Morris Flickr, where all of the exhibition’s pieces have been photographed for people to view from the safety of their home.
 This year’s exhibition featured works that showcased a number of mixed media pieces, as well as classic linocuts and ink on paper.
 With so many themes being featured this year, there were quite a handful of pieces that had appeared in earlier exhibitions. 
 One collection of frames featured works by Anika Dahl, Hope Guyer, Justice Anderson, and Gillian Orth. All are simple pieces hiding complex themes of beauty and loss. 
@@ -21,3 +21,5 @@ Bjerke worked with an impressive variety of mediums, with “Dimner Tiem :)” b
 Once again, I would like to encourage readers to take a look at the UMM Flickr, using the link below, to be able to fully appreciate the hard work that went into these pieces and the exhibition as a whole.
 
 https://www.flickr.com/photos/ummorris/albums/72157713422717148
+
+_Image above courtesy of UMM Flickr_
