@@ -21,4 +21,4 @@ Last, but certainly not least, is the fifth selection.
 
 The fifth selection of pieces was titled, “Together is Better,” and consisted of Guillaume’s “Twa Tanbou.” “Twa Wanbou,” is written in Haitian Creole. The song is playful in nature and tells the story of three drums learning to work together. Finishing this concert with strong messages of community was a wonderful decision, and even as we are staying home, I implore readers to listen to these pieces. What the world needs is a strong sense of community, and this repertoire captures it with utmost ease.
 
-Image above courtesy of andbeyond.com
+_Image above courtesy of andbeyond.com_
