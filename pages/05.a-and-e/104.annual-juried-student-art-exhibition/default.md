@@ -20,6 +20,4 @@ Bjerke worked with an impressive variety of mediums, with “Dimner Tiem :)” b
 
 Once again, I would like to encourage readers to take a look at the UMM Flickr, using the link below, to be able to fully appreciate the hard work that went into these pieces and the exhibition as a whole.
 
-
-
- https://www.flickr.com/photos/ummorris/albums/72157713422717148/with/49639136923/
+https://www.flickr.com/photos/ummorris/albums/72157713422717148
