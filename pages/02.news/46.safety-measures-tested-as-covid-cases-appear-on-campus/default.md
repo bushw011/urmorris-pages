@@ -3,14 +3,13 @@ title: 'Safety Measures Tested as COVID Cases Appear on  Campus'
 media_order: masks.jpg
 date: '11-09-2020 17:00'
 content:
-    items:
-        - '@self.children'
-    limit: 5
+    items: '- ''@self.children'''
+    limit: '5'
     order:
         by: date
         dir: desc
-    pagination: true
-    url_taxonomy_filters: true
+    pagination: '1'
+    url_taxonomy_filters: '1'
 ---
 
 **By Erik Kjer, News Editor** _Originally published in Issue 1, Volume 33 of The University Register on September 11, 2020_
