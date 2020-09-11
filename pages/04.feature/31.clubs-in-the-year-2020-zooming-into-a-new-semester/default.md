@@ -1,5 +1,6 @@
 ---
 title: 'Clubs in the Year 2020: Zooming Into a New Semester'
+media_order: 'club feature.jpg'
 date: '11-09-2020 17:32'
 ---
 
@@ -12,6 +13,8 @@ Here is what some student leaders had to say when asked about changes to their o
 **How are your meetings different this semester?**
 
 “All of the clubs I’m active in have shifted the majority of regular events online. The process for getting in-person events approved isn’t extremely laborious, but it’s more work than has been required in the past and that alone is enough to dissuade clubs from scheduling things in person when possible.” - Cal Mergendahl, officer in Chemistry Club and KUMM
+
+_Image on top courtesy of Entrepreneur_
 
 “All our meetings are over Zoom.” - CJ Lee, Co-chair of Floating World Prose
 
