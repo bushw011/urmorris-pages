@@ -1,5 +1,5 @@
 ---
-title: 'Update from Your Friendly Neighborhood Oboe Man'
+title: 'An Update from Your Friendly Neighborhood Oboe Man'
 media_order: oboe3-min.jpg
 date: '11-09-2020 17:53'
 ---
