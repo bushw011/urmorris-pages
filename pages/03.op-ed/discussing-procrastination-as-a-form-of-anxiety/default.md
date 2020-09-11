@@ -1,0 +1,20 @@
+---
+title: 'Discussing Procrastination as a Form of Anxiety'
+date: '11-09-2020 17:18'
+---
+
+**By Tehya Wachuta, Editor-in-Chief** _Originally published in Issue 1, Volume 33 of The University Register on September 11, 2020_
+
+With classes starting up again, I, for one, think it’s been nice to get back into a routine, even if that routine is a lot different than what we are used to. I have enjoyed the reintroduction of structure the academic year has brought forth after a long five months of unstructured, unpredictable quarantine at home. 
+
+But the start of a new semester often brings a second, more problematic routine for me: I start out my classes full of good intentions to read ahead, take diligent notes, and be as prepared as possible for every class discussion and essay, and then… procrastination sets in. I always seem to think I can get more done in an hour than I can, and even though I’m always wrong, I continue to not set aside enough time to get through my work at a comfortable pace. I know I am not alone in this problem, but I can’t help feeling like I should have found a way to overcome it by now, that I should be able to be productive and efficient after years of experience with homework and deadlines.
+
+Then, I thought about an article I’d read a while ago about the psychology behind people who are late all the time. One of the explanations was that some people use procrastination as a sort of expression of anxiety. If a person is anxious about an event coming up the next day, they might stay up late as a way to feel like they’re holding off on getting to the actual event. Then, they don’t have as much time to get ready in the morning and are late to the event. The idea is that going to sleep will lead to waking up and having to deal with the stressful event, so they stay up to put off having to deal with the next day. Of course, time keeps going whether we want it to or not, and staying up late before a stressful event won’t actually delay the event from happening.
+
+Procrastinating on an assignment could be a similar situation for some students—if they’re stressed about an upcoming deadline, they might put the work off until later, because working on the project makes it more real than something they’re keeping in mind to do later. However, much like delaying going to sleep will only serve to give a person less time to get ready in the morning, putting off work will only give a person less time to ensure the quality of their project. To combat this, we are usually told to learn what time management techniques work for us and use them to keep on top of our schedules, which is easier said than done.
+
+But if the procrastination stems from anxiety about the project rather than an inability to manage time (which I know has definitely been a prominent cause of procrastination for me lately), simply learning ways to better manage your time might not actually take care of the problem. Instead, figuring out what about the project stresses you out and addressing that stress might be a better answer.
+
+Of course, living in a pandemic is not helpful for either of those causes of procrastination. We are currently living in a world of increased stress and some of us are still trying to relearn how to have a set schedule again after our summer quarantine. The lack of structure and increase of societal regulations has produced what some people are referring to as “COVID fatigue”—essentially, people are becoming more easily stressed out by deadlines, rules, and structure in general because feelings of helplessness in their personal lives are leading to a lack of energy to deal with their professional lives. For this, all I can suggest is to make sure you are taking care of your mental health. I know it is much more difficult to deal with stress when the source of our stress is out of our control, but if we try to control the things we can and accept what we cannot, we will have a better chance at readjusting to schedules, structures, and deadlines once again.
+
+_Image on top courtesy of needpix.com_
