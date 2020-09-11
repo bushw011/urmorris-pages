@@ -1,5 +1,6 @@
 ---
 title: 'Fools and Philosopher''s: Quarantine Comedy Like No Other'
+media_order: flappers.jpg
 date: '11-09-2020 17:46'
 ---
 
@@ -35,3 +36,5 @@ For anyone who is looking to start out, even in a Zoom show with a few friends, 
 The burbank Flappers club will be doing more Zoom shows and they reached out to everyone to send availability. To find tickets, follow Zuccaro at @Zuccarozuccaro on Instagram and Twitter. On both of those, there will be links to my newsletter, Sometimes Weekly. On there, I write longer pieces that don’t really work for standup, they are mainly for history.
 
 You can follow Morrison Morrison on Instagram or Twitter, with the handle @Morrisonhmorrison. He also has a website, http://www.Morrisonmorrison.com, with an automated emailing system that will notify you of any updates on his upcoming shows, as well as links to tickets.
+
+_Image on top courtesy of Flappers Comedy Club_
