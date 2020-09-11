@@ -1,5 +1,6 @@
 ---
 title: 'Safety Measures Tested as COVID Cases Appear on  Campus'
+media_order: masks.jpg
 date: '11-09-2020 17:00'
 content:
     items:
@@ -34,3 +35,5 @@ To better track COVID-19 exposure, contact tracing is being conducted and those 
 Infection rates in Minnesota overall have also increased, causing three of the five U of M campuses to delay student move in for two weeks. The students have returned to the two remaining campuses Morris and Crookston, which have resumed in person classes. 
 
 As of writing, UMM plans to continue teaching in a hybrid mode.
+
+_Image on top couresy of Psychology Tools_
