@@ -2,6 +2,9 @@
 title: 'Aiming for Acceptance, Not Othering'
 media_order: acceptance.jpg
 date: '25-09-2020 16:15'
+taxonomy:
+    category:
+        - featured
 ---
 
 **By Desmond Homann, Variety Editor** _Originally published in Issue 2, Volume 33 of The University Register on September 25, 2020_
