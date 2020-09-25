@@ -4,7 +4,6 @@ media_order: 'social media & mental health-min.jpg'
 taxonomy:
     category:
         - article
-        - featured
 ---
 
 By Melissa Voss, News Editor uploaded at 2:25 p.m. on Thursday, December 6, 2018
