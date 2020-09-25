@@ -1,5 +1,6 @@
 ---
 title: 'Aiming for Acceptance, Not Othering'
+media_order: acceptance.jpg
 date: '25-09-2020 16:15'
 ---
 
@@ -15,3 +16,5 @@ As you can probably guess, I was NOT happy with this response, but felt worse to
 that it helps gives some context to how deeply this conversation with my friend affected me.)
 
 I know I’m not alone in feeling this way or dealing with conversations such as these. I feel frustrated when I try to open up about my mental health and am met with people talking down to me like I’m unintelligent or a child. In moments of honesty and vulnerability, it is crushing to hear these unintentionally patronizing jokes. I know that, like that TV character, I’m someone who goes deeply into life and, at times, is more emotionally affected than those around me may be. I hope that someday I don’t have to feel like a source of entertainment for my friends and acquaintances while I’m just trying to go about my day. Othering people, even as a joke, can impact someone long after a conversation is done, and all of us, even people who do struggle with mental illness, need to be aware of their words and actions to best practice acceptance of those who are different from us.
+
+_Image on top courtesy of Touchstone_
