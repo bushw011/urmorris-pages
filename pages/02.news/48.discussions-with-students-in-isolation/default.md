@@ -1,5 +1,6 @@
 ---
 title: 'Discussions with Students in Isolation'
+media_order: 'IMG_20200922_171343805-min.jpg,Coronavirus-Quarantine-Graphic.jpg'
 date: '25-09-2020 15:40'
 ---
 
