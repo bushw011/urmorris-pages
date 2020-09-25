@@ -1,6 +1,6 @@
 ---
 title: 'Discussions with Students in Isolation'
-media_order: 'IMG_20200922_171343805-min.jpg,Coronavirus-Quarantine-Graphic.jpg'
+media_order: IMG_20200922_171343805-min.jpg
 date: '25-09-2020 15:40'
 ---
 
@@ -37,3 +37,5 @@ Although they were not infected with the virus, they are concerned about the sti
 Classes under quarantine are also more difficult. “I think as a university we're prepared for where we are right now and we're kind of prepared for if we have to go completely online, but I don't think professors are prepared for having some students in isolation and having other students not in isolation… A lot of my hybrid classes right now don't have well set up zoom options. I basically just have to listen to the lecture and I don't get to participate at all and it's not the most equitable thing.”
 
 Despite all these difficulties, they remain optimistic about the future. When they began isolating, they thought that a return to online classes was inevitable, but as time passed their perspective changed. “If everyone stays here right now and [people isolating] finish their quarantines, I feel like we might stand a decent chance on our little island in the middle of nowhere.”
+
+_Picture on top taken by Erik Kjer_
