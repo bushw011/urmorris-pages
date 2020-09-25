@@ -38,4 +38,4 @@ Classes under quarantine are also more difficult. “I think as a university we'
 
 Despite all these difficulties, they remain optimistic about the future. When they began isolating, they thought that a return to online classes was inevitable, but as time passed their perspective changed. “If everyone stays here right now and [people isolating] finish their quarantines, I feel like we might stand a decent chance on our little island in the middle of nowhere.”
 
-_Picture on top taken by Erik Kjer_
+_Photo on top taken by Erik Kjer_
