@@ -1,5 +1,6 @@
 ---
 title: 'The Painting'
+media_order: painting.jpg
 date: '25-09-2020 17:18'
 ---
 
