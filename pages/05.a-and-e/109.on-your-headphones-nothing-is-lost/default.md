@@ -3,6 +3,7 @@ title: 'On Your Headphones: Nothing is Lost'
 ---
 
 **By Alisa Samadani, A&E Editor** _Originally published in Issue 2, Volume 33 of The University Register on September 25, 2020_
+
 	Last issue, I opened the academic year with Grimes’ _Miss Anthropocene_, an album about mystery and the imminent destruction of humanity. This issue, I am attempting to bring some solace to my lovely readers. Where there is darkness, there is always a sliver of light shining through the dark cloud of chaos and calamity. That light, this week, is Luca Fogale’s _Nothing is Lost._ 
 
 A western-Canada based, British-Columbian musician, Luca Fogale has released his sophomore album this past week, and in perfect timing with the current state of the world. Although the folk/indie genre is not my favorite, I will give every album a chance to prove me wrong. Two tracks in, Fogale instantly proved me wrong. 
