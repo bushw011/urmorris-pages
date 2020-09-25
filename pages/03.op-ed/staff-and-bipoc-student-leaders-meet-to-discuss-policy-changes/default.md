@@ -1,5 +1,6 @@
 ---
 title: 'Staff and BIPOC Student Leaders Meet to Discuss Policy Changes'
+media_order: Morris.jpg
 date: '25-09-2020 15:59'
 ---
 
