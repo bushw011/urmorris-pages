@@ -16,10 +16,10 @@ Elizabeth Collins, a publicist for The Syndicate, goes on to describe the same s
    
 Take one look at the cover art for _Nothing is Lost_ and you will understand the aura that this artist is striving to create. A simple side profile with a slight blur, with nowhere for the viewer to focus but Fogale. He is vulnerable, he is out in the open, and he is trusting us with his craft. The black background is soothing, with no details or added images to distract you from the dear friend calling out to us. “‘Cause if nothing is sacred//Then nothing is lost//And I’m in your corner//Whatever the cost.” Those lines, from “Another Way Around”, amplify the voices of so many people. These are unprecedented times, and we are all social creatures who cling to communication and company. The Syndicate has the inside scoop on Fogale’s aim with releasing this album.
  
-    “With this album, Fogale wanted to scratch the surface of what it means to be alive, and what it means to believe in 
-    something. Discussing, he states, ‘I feel as though the questions about existence inside these songs are questions that most 
-    people ask themselves. So many of us are desperately trying to figure how to find purpose, with or without spirituality. There 
-    is a real beauty in being connected by that.’”
+“With this album, Fogale wanted to scratch the surface of what it means to be alive, and what it means to believe in 
+ something. Discussing, he states, ‘I feel as though the questions about existence inside these songs are questions that most 
+people ask themselves. So many of us are desperately trying to figure how to find purpose, with or without spirituality. There 
+is a real beauty in being connected by that.’”
 
 Listen to _Nothing is Lost_, and let the relaxing indie vibes wash over you. Pick a quiet afternoon, lay on your back, turn on the fan, and just close your eyes. His music is clean, with no heavy bass or complicated guitar to take away from the beauty of his message. As was previously stated, Fogale is out in the open, with outstretched arms, ready to welcome us into his safe haven. This is what we need to do as a community: we need to open our hearts and be vulnerable with one another. Showing weakness can speed up progress, this has been proven throughout history.
 Before I go on a tangent about comradery, I would like to close this article with lyrics from “Every Colour.” Amidst the soft piano and the delicate instrumental, come these words:
