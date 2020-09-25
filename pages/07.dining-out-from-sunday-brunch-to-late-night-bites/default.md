@@ -42,3 +42,5 @@ _Angelica recommends: cream cheese wontons, fried sugar biscuits, and vegetable 
 McDonald’s, a fast food staple, can be found almost anywhere in the US. There is something about late-night McDonald’s runs with friends that makes for a quality experience over some tasty fries and burgers. The food is inexpensive, greasy, and the wait time is almost non-existent. This is a very affordable option for any student short on time and/or funds. Ordering options include: drive-thru, take-out, and curbside service when ordering from the McDonald’s app.
 
 _Angelica recommends: Reese’s McFlurry (with caramel added in), apple pies, chocolate chip cookie tote, and fries._
+
+_Image on top courtesy of FreePik_
