@@ -1,5 +1,6 @@
 ---
 title: 'In SCOTUS and Baseball, We''re All Just Hoping Not to Have to Stare Into the Abyss'
+media_order: abyss.jpg
 date: '25-09-2020 16:08'
 ---
 
@@ -30,3 +31,5 @@ Not that it should! In both cases, we have in large part abdicated a duty to cha
 national constitution was codified.
 
 We cannot return to a complacent refusal to stare into this abyss.
+
+_Image on top courtesy of The Path_
