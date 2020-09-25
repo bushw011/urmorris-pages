@@ -26,5 +26,5 @@ Before I go on a tangent about comradery, I would like to close this article wit
  
 “Oh, I feel the hours slipping//While I stumble to the edge//Losing faith in everything//When I couldn’t make a dent.//‘Cause I seem to forget//When I get all worked up//That you can find every colour//If you look close enough.”
 
-Image courtesy of Stitched Sound.
-
+_Image courtesy of Stitched Sound.
+_
