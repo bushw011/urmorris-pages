@@ -2,9 +2,6 @@
 title: 'Chancellor Behr on Likelihood of Moving Classes Online'
 media_order: Morris2.jpg
 date: '25-09-2020 15:54'
-taxonomy:
-    category:
-        - featured
 ---
 
 **By Erik Kjer, News Editor** _Originally published in Issue 2, Volume 33 of The University Register on September 25, 2020_
