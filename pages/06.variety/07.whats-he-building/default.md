@@ -2,6 +2,9 @@
 title: 'What''s He Building?'
 media_order: building.jpg
 date: '25-09-2020 17:12'
+taxonomy:
+    category:
+        - featured
 ---
 
 **By Desmond Homann, Variety Editor** _Originally published in Issue 2, Volume 33 of The University Register on September 25, 2020_
