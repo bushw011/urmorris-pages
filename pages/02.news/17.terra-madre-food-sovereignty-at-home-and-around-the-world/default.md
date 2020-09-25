@@ -2,9 +2,6 @@
 title: 'Terra Madre: food sovereignty at home and around the world'
 media_order: TerraMadre_new.jpg
 date: '16-11-2018 00:00'
-taxonomy:
-    category:
-        - featured
 ---
 
 **By Trey Goodsell, Staff Writer** _Originally published in Issue 6, Volume 31 of The University Register on Friday, November 16, 2018_
