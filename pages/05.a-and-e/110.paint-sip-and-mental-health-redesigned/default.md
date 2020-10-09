@@ -1,8 +1,5 @@
 ---
 title: 'Paint, Sip, and Mental Health [Redesigned]'
-taxonomy:
-    category:
-        - featured
 ---
 
 **By Alisa Samadani, A&E Editor** _Originally published in Issue 2, Volume 33 of The University Register on September 25, 2020_
