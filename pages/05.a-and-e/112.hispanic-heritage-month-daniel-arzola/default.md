@@ -37,6 +37,6 @@ At the end of both exercises, I personally felt more connected to the rest of th
 
 “Sometimes it is very difficult to be an artist because, at least in Latin America, people do not take art seriously as a profession until they need an artist to create something.[...] When I was a kid, people used to destroy my illustrations a lot. This is why I decided to do digital illustrations – if someone destroys one of my posters, they are only destroying the medium, but they cannot destroy the meaning, because it lives on digital. Art can be fragile when we do not give it a platform. I also think that it is very important that when we create something, to try to put it on the internet. There will be someone who likes it, someone who looks at your art and thinks, ‘Oh, that’s the way that I feel.’ Art has the power to connect.”
 
-	For more information on Arzola’s work, you can follow him on Instagram and Twitter, @Arzola_D, or email him with questions at artivismodigital@gmail.com.
+For more information on Arzola’s work, you can follow him on Instagram and Twitter, @Arzola_D, or email him with questions at artivismodigital@gmail.com.
 
 _Image courtesy of Americas Quarterly._
