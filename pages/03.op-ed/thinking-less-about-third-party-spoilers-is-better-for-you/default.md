@@ -2,6 +2,9 @@
 title: 'Thinking Less About Third Party Spoilers Is Better For You'
 media_order: 'third party.jpg'
 date: '09-10-2020 16:21'
+taxonomy:
+    category:
+        - featured
 ---
 
 **By Joey Daniewicz, Staff Writer** _Originally published in Issue 3, Volume 33 of The University Register on October 9, 2020_
