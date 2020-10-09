@@ -1,7 +1,10 @@
 ---
 title: 'Strange Weather: A Do-Not-Choose-Your-Own-Adventure Tale'
+media_order: clouds.jpg
 date: '09-10-2020 17:05'
 ---
+
+**By Desmond Homann, Variety Editor** _Originally published in Issue 3, Volume 33 of The University Register on October 9, 2020_
 
 Summer was always your favorite season even though summer brought rain, the kind of rain that punched at the back of your neck, the wind pushing it and pelting heavy droplets sideways. You’d always vowed to get out of this little town with its quarrelsome wind. The past 46 or so years had passed you by, though, and not once did you buy a single bus ticket. You stayed, working yourself to death and to madness selling used office furniture to businesses in neighboring towns, larger towns than yours but still small enough. These were businesses that couldn’t quite afford the real deal, businesses full of people who couldn’t afford sleek new kitchen sets. You didn’t feel bad for them; at least they had jobs. You were a firm believer in the power of work, your bills were always paid on time, and you could afford to get your kitchen redone, sleek and modern just how your wife wanted it. 
 
