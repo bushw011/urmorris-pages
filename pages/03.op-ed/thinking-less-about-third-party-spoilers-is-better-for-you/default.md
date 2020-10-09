@@ -20,3 +20,5 @@ I’ve dabbled in political organizing for the last four years, and there are re
 But a problem arises when we get too stuck on one group of voters. Sure, absolutely have conversations with your family and close friends, people who really value your take on these things, but I think too often we get hung up on third party voters who “cause” an undesirable outcome than the people who actually vote for that undesirable outcome. 
 
 Especially in a two party system that many Americans don’t feel represented by, some number of third party votes is just a law of nature. Earnestly try to earn those votes or simply move on to the next voter engagement. I’m absolutely not advocating that anyone reading this article vote for Howie Hawkins or whoever, and I’m certainly not suggesting that we hold no responsibility for our votes. But if everyone arguing about third parties hopped on the dialer for a few minutes instead, we’d likely have a better, more civically-engaged country.
+
+_Image on top courtesy of University of Miami_
