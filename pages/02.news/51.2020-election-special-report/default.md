@@ -1,5 +1,6 @@
 ---
 title: '2020 Election Special Report'
+media_order: 'vote mn.jpg'
 date: '09-10-2020 16:13'
 ---
 
