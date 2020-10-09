@@ -1,7 +1,7 @@
 ---
 title: 'Remembering Stephen Hillenburg and SpongeBob SquarePants'
 media_order: SpongeBob.jpg
-publish_date: '06-12-2018 16:42'
+date: '06-12-2018 16:43'
 ---
 
 **By Evan Douville, Staff Writer** _uploaded at 2:15 p.m. on Thursday, December 6, 2018_
