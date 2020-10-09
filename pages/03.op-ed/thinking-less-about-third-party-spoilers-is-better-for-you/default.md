@@ -1,5 +1,6 @@
 ---
 title: 'Thinking Less About Third Party Spoilers Is Better For You'
+media_order: 'third party.jpg'
 date: '09-10-2020 16:21'
 ---
 
