@@ -2,9 +2,6 @@
 title: 'In SCOTUS and Baseball, We''re All Just Hoping Not to Have to Stare Into the Abyss'
 media_order: abyss.jpg
 date: '25-09-2020 16:08'
-taxonomy:
-    category:
-        - featured
 ---
 
 **By Joey Daniewicz, Staff Writer** _Originally published in Issue 2, Volume 33 of The University Register on September 25, 2020_
