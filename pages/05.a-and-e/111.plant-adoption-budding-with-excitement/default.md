@@ -1,5 +1,6 @@
 ---
 title: 'Plant Adoption: Budding With Excitement'
+media_order: 'adopt a plant.jpg'
 date: '09-10-2020 14:51'
 ---
 
@@ -29,4 +30,6 @@ Israels-Swenson had the same idea, originally planning to have the event outside
 
 After 45 minutes of waiting around (and worrying that all of the plants were going to be gone), I was able to get to the front of the line. All of the anxiety was gone, there was no room for complaints. The Master Gardener was patient with me as I, just as all of the students before me had, took my time with selecting a lovely new addition to my dorm room. For those who are curious, I settled on a German Wax Ivy, who has yet to receive a name worthy of her stature. 
 
-Although this event had some unexpected problems, I still encourage all students to attend any events that they can, whether it be on campus or via Zoom. These efforts are being put forth by the faculty who want to see us succeed, and we should do our best to show our love and support as well!  Image courtesy of UMM Student Activities.
+Although this event had some unexpected problems, I still encourage all students to attend any events that they can, whether it be on campus or via Zoom. These efforts are being put forth by the faculty who want to see us succeed, and we should do our best to show our love and support as well!
+
+_Image courtesy of UMM Student Activities._
