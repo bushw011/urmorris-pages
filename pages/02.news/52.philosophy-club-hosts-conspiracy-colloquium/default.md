@@ -1,5 +1,6 @@
 ---
 title: 'Philosophy Club Hosts Conspiracy Colloquium'
+media_order: conspiracy.jpg
 date: '23-10-2020 13:20'
 ---
 
