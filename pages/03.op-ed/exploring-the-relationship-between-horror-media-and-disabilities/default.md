@@ -1,0 +1,22 @@
+---
+title: 'Exploring the Relationship Between Horror Media and Disabilities'
+date: '23-10-2020 14:08'
+---
+
+**By Tehya Wachuta, Editor-in-Chief** _Originally published in Issue 4, Volume 33 of The University Register on October 23, 2020_
+
+It’s almost the end of October, and you all know what that means: Halloween! I, for one, have always loved Halloween. I can’t exactly handle modern horror movies (I saw IT my freshman year and am still having occasional Pennywise nightmares) but I love older thrillers—the decorations, pumpkin carving, dressing up, and, of course, the excuse to buy a lot of chocolate.
+
+This year, though, I learned that October is also National Disability Employment Awareness Month (NDEAM). This year not only marks the 75th NDEAM, but also the 30th anniversary of the Americans with Disabilities Act (ADA), a legislation passed in 1990 which prohibits discrimination against people with disabilities in any aspect of their public lives, e.g. jobs, public transportation, and public spaces like restaurants or parks. The combination of these two things got me thinking about how disabled people are portrayed in horror books and movies.
+
+In my Gothic Literature class, we were recently talking about how books like “Frankenstein” opened up a new way for people to discuss disability in the media. Unfortunately, this discussion was usually negative. In “Frankenstein,” for example, other characters react with disgust and horror to Frankenstein’s monster. His body, composed of pieces of human corpses, is too abnormal for the “normal” characters to handle. This is just one of many examples of horror where a character resembling a person with a real disability is seen as a villain or monster.
+
+However, many of these stories also use these characters to highlight the monstrosity of the “normal” society which rejects the characters with disabilities. The original “Frankenstein” ultimately portrayed Dr. Frankenstein as the true monster, as he brought his creation into a world unwilling to sympathize with him, then abandoned him. The recent television series “Penny Dreadful” emphasized these points in its retelling of the Frankenstein story. In addition, Tim Burton’s film “Edward Scissorhands” is often praised for its portrayal of how people with disabilities react to people with them, and the immediate prejudice people with obvious disabilities can be met with.
+
+Some horror films have flipped this relationship and showcase a character with a disability as the hero of the story. Alfred Hitchcock’s “Rear Window” stars Jeff, a man whose recently broken leg necessitates the use of a wheelchair. Sitting at his window, he observes a neighbor acting suspiciously after a fight with his wife. Ultimately, Jeff is able to expose his neighbor for murder, causing the neighbor’s arrest and restoring peace to his neighborhood. In the Stephen King movie “Silver Bullet,” a paraplegic boy named Marty uses his motorcycle-wheelchair to defend himself and his family from a werewolf. In the 2016 movie “Hush,” a deaf and mute woman named Maddie uses household items that promote her independence to defend herself against an intruder. While no films are perfect and these examples have not escaped criticism, I think they are a step in the right direction.
+
+Not only can the horror genre be problematic for the disabled community, but it also commonly portrays characters with mental health disorders both inaccurately and as villains. In the 1944 film “Arsenic and Old Lace,” a character named Teddy with a vague psychosis disorder is manipulated into being an accomplice in multiple murders. Because his delusions of grandeur cause him to believe he is Teddy Roosevelt, his elderly aunts trick him into burying their victims in the unfinished basement under the pretense that they are soldiers who have died of yellow fever. More recently, the 2016 movie “Split” features a man with Dissociative Identity Disorder (DID) as a kidnapper and murderer. While I personally think that James McAvoy did a beautiful job playing the lead, the movie still fell into the trope of othering/villainizing people with mental health disorders.
+
+While I still plan on enjoying Halloween and the media that comes with it, I think it is important that we recognize these common themes and think about how different representations of people with disabilities and/or mental health disorders affect the public perception of these communities.
+
+_Image on top courtesy of WDEF_
