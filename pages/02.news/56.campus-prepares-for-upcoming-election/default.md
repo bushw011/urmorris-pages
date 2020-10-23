@@ -1,5 +1,6 @@
 ---
 title: 'Campus Prepares for Upcoming Election'
+media_order: election.jpg
 date: '23-10-2020 13:57'
 ---
 
