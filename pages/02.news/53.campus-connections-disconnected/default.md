@@ -1,5 +1,6 @@
 ---
 title: 'Campus Connections Disconnected'
+media_order: UMN-min.jpg
 date: '23-10-2020 13:30'
 ---
 
