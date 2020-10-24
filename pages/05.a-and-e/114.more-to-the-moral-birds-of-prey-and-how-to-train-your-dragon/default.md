@@ -20,4 +20,4 @@ While we have yet to show any “holiday films” on campus this semester, I thi
 
 Carry these truths with you, dear readers, and brave against the stormy weather (both literally and figuratively) quickly approaching. Stay tuned for more Movie on the Mall events, such as this Halloween’s showing of Tim Burton’s _Corpse Bride_.
 
-_Images courtesy of IMDb
+_Image courtesy of IMDb
