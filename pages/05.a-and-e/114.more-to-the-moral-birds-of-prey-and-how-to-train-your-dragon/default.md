@@ -1,6 +1,6 @@
 ---
 title: 'More To The Moral: Birds Of Prey and How To Train Your Dragon'
-media_order: 'birdsofprey.jpg,httyd_1.jpg'
+media_order: httyd_1.jpg
 date: '23-10-2020 19:07'
 ---
 
