@@ -1,5 +1,6 @@
 ---
-title: 'Halloween Happenings: '
+title: 'Halloween Happenings'
+media_order: halloween.jpg
 date: '23-10-2020 13:12'
 ---
 
