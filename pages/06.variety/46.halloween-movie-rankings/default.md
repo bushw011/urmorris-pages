@@ -54,3 +54,5 @@ It's almost Halloween, so here are some of my favorite spooky movies put in cate
 5. Apartment 143 — Low ratings and many jumpscares, what more could you want?
 
 _These lists were simply my opinions, so if you're someone who actually knows things about movies, don't rip my head off please!!_
+
+_Image on top courtesy of USU Statesman_
