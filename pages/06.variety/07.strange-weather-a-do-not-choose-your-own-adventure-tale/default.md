@@ -2,9 +2,6 @@
 title: 'Strange Weather: A Do-Not-Choose-Your-Own-Adventure Tale'
 media_order: clouds.jpg
 date: '09-10-2020 17:05'
-taxonomy:
-    category:
-        - featured
 ---
 
 **By Desmond Homann, Variety Editor** _Originally published in Issue 3, Volume 33 of The University Register on October 9, 2020_
