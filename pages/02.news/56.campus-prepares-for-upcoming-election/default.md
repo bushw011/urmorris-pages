@@ -4,6 +4,8 @@ media_order: election.jpg
 date: '23-10-2020 13:57'
 ---
 
+**By Erik Kjer, News Editor** _Originally published in Issue 4, Volume 33 of The University Register on October 23, 2020_
+
 With election day rapidly rapidly approaching the University of Minnesota’s students and faculty have participated in various in-person and digital events over the course of the past few weeks.
 
 The Office of Residential Life has been encouraging vote registration by awarding $10 gift cards for Higbies and the Bookstore to whichever floor can boast the highest registration rate among its residents. Spooner Top was awarded the prize on Tuesday.
