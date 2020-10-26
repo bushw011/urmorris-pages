@@ -1,8 +1,5 @@
 ---
 title: 'Hispanic Heritage Month: Daniel Arzola'
-taxonomy:
-    category:
-        - featured
 ---
 
 **By Alisa Samadani, A&E Editor** _Originally published in Issue 3, Volume 33 of The University Register on October 9, 2020_
