@@ -1,6 +1,9 @@
 ---
 title: 'The Reason for the Season: More Than Just Pumpkins, Ghouls, and Candy'
 date: '23-10-2020 13:17'
+taxonomy:
+    category:
+        - featured
 ---
 
 **By Angelica Cullen, Feature Editor** _Originally published in Issue 4, Volume 33 of The University Register on October 23, 2020_
