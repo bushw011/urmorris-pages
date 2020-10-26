@@ -3,6 +3,8 @@ title: 'Coming Out Week: Highlighting a Morris Community'
 date: '09-10-2020 16:54'
 ---
 
+**By Angelica Cullen, Feature Editor** _Originally published in Issue 4, Volume 33 of The University Register on October 23, 2020_
+
 October 5-11 is Coming Out Week for the University 0f Minnesota Morris and there are several events being put on by MoQSIE (Morris Queer Student Initiative for Equality) throughout the week.
 
 “National Coming Out Day 2020 is on Sunday October 11th, and to celebrate our LGBTQIA2S+ Community and educate our campus community as a whole we put on a week of different events to make Coming Out Week! We will do a mix of events that are fun activities and then also educational conversations so we can celebrate and educate with our Morris community,” said Sloane Mordecai, Co-chair of MoQSIE.
