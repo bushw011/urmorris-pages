@@ -3,6 +3,8 @@ title: 'Halloween Movie Rankings'
 date: '23-10-2020 13:30'
 ---
 
+**By Desmond Homann, Variety Editor** _Originally published in Issue 4, Volume 33 of The University Register on October 23, 2020_
+
 It's almost Halloween, so here are some of my favorite spooky movies put in categories and ranked:
 
 **Scariest:**
