@@ -2,6 +2,9 @@
 title: 'Examining the Relationship Between Mental Health Stigma and the DSM'
 media_order: dsm.jpg
 date: '06-11-2020 15:22'
+taxonomy:
+    category:
+        - featured
 ---
 
 **By Tehya Wachuta, Editor-in-Chief** _Originally published in Issue 5, Volume 33 of The University Register on November 6, 2020_
