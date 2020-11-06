@@ -1,6 +1,6 @@
 ---
 title: 'UMM Maintains Robust Recycling Despite Challenges'
-media_order: recycle.jpg
+media_order: 'recycle2.jpg,recycle.jpg'
 date: '06-11-2020 15:11'
 ---
 
