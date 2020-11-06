@@ -1,5 +1,6 @@
 ---
 title: 'Examining the Relationship Between Mental Health Stigma and the DSM'
+media_order: dsm.jpg
 date: '06-11-2020 15:22'
 ---
 
