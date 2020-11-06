@@ -1,9 +1,6 @@
 ---
 title: 'Exploring the Relationship Between Horror Media and Disabilities'
 date: '23-10-2020 14:08'
-taxonomy:
-    category:
-        - featured
 ---
 
 **By Tehya Wachuta, Editor-in-Chief** _Originally published in Issue 4, Volume 33 of The University Register on October 23, 2020_
