@@ -16,3 +16,5 @@ Meanwhile, the current Wednesday evening outlook of our state legislature is tha
 Finally, California’s ballot referenda were mostly pretty bleak, most notably with an almost irreversible measure that grants rideshare companies an exemption from having to classify their drivers as employees. The bleakest story in recent American history is the downward trend of the work hours and conditions necessary to meet the cost of living, and this is perhaps the scariest sign that tech companies can just throw money directly into this. We can expect to see battles like this across the country sooner rather than later.
 
 The failure to convert anti-Trump sentiment into a coherent message that benefitted either the down-ticket Democrats or their preferred policy positions (with some exceptions: Florida resoundingly voted to raise its minimum wage and many states voted to relax drug laws) will continue to have devastating effects on Democrats’ ability to counteract the gains that Republicans made while they were in power. We should all be wary of our tendency to hyperfocus on one aspect of a multilayered election.
+
+_Image on top courtesy of Lumen Learning_
