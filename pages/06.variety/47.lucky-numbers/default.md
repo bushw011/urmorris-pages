@@ -1,9 +1,6 @@
 ---
 title: 'Lucky Numbers'
 date: '23-10-2020 13:45'
-taxonomy:
-    category:
-        - featured
 ---
 
 **By Desmond Homann, Variety Editor** _Originally published in Issue 4, Volume 33 of The University Register on October 23, 2020_
