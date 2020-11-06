@@ -1,5 +1,6 @@
 ---
 title: 'Letter From the Student Body President'
+media_order: UMN-min.jpg
 date: '06-11-2020 15:05'
 ---
 
