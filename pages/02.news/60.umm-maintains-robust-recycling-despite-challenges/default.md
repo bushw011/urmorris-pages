@@ -20,4 +20,4 @@ That being said, “Recycling does make us think at least a little bit about red
 
 “In the case of plastic, recycling has for several decades been pushed by oil and petrochemical industries in order to confuse the public,” Brands added. “The main purpose of recycling has been to alleviate pressure to reduce the production and consumption of single-use products... Recycling may make us feel better, but as currently practiced in the United States, it does very little to reduce environmental impacts... We may view it as the only alternative to placing something in the garbage can. But solving our solid waste problems has to come way before--as individuals when we purchase something (or not), or more importantly as a society when we encourage the oil and plastics industries with tax breaks, glorify conspicuous consumption (e.g. of electronics, clothes, automobiles), fail to encourage development of products and goods that are actually durable, or fail to implement rules about producer responsibility for products at the end of their lives (i.e. ‘waste’).”
 
-_Image on top courtesy of phillymag.com_
+_Image on top courtesy of waste360.com_
