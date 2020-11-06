@@ -1,6 +1,10 @@
 ---
 title: 'The Concept of Neurodiversity: Not All Brains Look the Same'
+media_order: neuro.jpg
+date: '06-11-2020 15:33'
 ---
+
+**By Angelica Cullen, Feature Editor** _Originally published in Issue 5, Volume 33 of The University Register on November 6, 2020_
 
 Neurodiversity is a term used most often in the ADHD and autism communities, although it is not solely comprised of these two conditions. The key belief behind neurodiversity is that rather than seeing brain differences as abnormalities that need to be cured, they are seen as natural variations between human brains. This can include differences in learning, behavior, and thinking. The differences have been found to be in how the brain is ‘wired,’ or the ways that neurons link up with one another. Another key factor in neurodiversity is that instead of having the majority of these individuals change and mold themselves into normalcy to fit into society, society must work harder to accept them as they are and to make itself more accessible.
 
