@@ -1,5 +1,6 @@
 ---
 title: 'Fall Production: Alone, Together & The Seed'
+media_order: alonetogetherntheseed.jpg
 ---
 
 **By Alisa Samadani, A&E Editor** _Originally published in Issue 5, Volume 33 of The University Register on November 6, 2020_
