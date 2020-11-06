@@ -2,6 +2,9 @@
 title: 'UMM Maintains Robust Recycling Despite Challenges'
 media_order: recycle.jpg
 date: '06-11-2020 15:11'
+taxonomy:
+    category:
+        - featured
 ---
 
 The University of Minnesota Morris prides itself on being an environmentally conscious and sustainable campus and maintains a robust recycling program. Paper, plastic, glass, cardboard, ink cartridges, furniture, books, batteries, and more are collected by waste management in an attempt to cut down on excess waste, but how does this process work and to what degree is recycling an effective method of reducing negative environmental impacts? We spoke to people about recycling both on-campus and around the world.
