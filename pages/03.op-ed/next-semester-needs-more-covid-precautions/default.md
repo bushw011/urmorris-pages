@@ -17,3 +17,5 @@ Second, I believe that time spent in Dining Services must be minimized. I remain
 Lastly, I highly encourage UMM to investigate the possibility of starting the semester with a two week campus-wide quarantine. I do not personally think the strongly suggested quarantine over the two weeks prior to move-in day is quite enough. There are a lot of logistical questions of how this would be handled, namely how meals would be delivered, and I understand that. Still, in the event that January’s COVID numbers are truly dire, this could prove a necessary step that must be planned for.
 
 I think next semester presents the true challenge of the COVID crisis. I really do think it was easier before and will be easier thereafter. I have been impressed with this campus’ commitment to our new reality. But especially at the system level, I have found the measures taken fairly lax and disappointing. I hope by January I can be a little more hopeful that our University is the model to the community I know it can be.
+
+_Image on top courtesy of International Monetary Fund_
