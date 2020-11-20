@@ -1,9 +1,6 @@
 ---
 title: 'BBQ BEER FREEDOM: Alton Brown''s Breakdown'
 date: '06-11-2020 15:36'
-taxonomy:
-    category:
-        - featured
 ---
 
 **By Desmond Homann, Variety Editor** _Originally published in Issue 5, Volume 33 of The University Register on November 6, 2020_
