@@ -2,9 +2,6 @@
 title: 'The Concept of Neurodiversity: Not All Brains Look the Same'
 media_order: neuro.jpg
 date: '06-11-2020 15:33'
-taxonomy:
-    category:
-        - featured
 ---
 
 **By Angelica Cullen, Feature Editor** _Originally published in Issue 5, Volume 33 of The University Register on November 6, 2020_
