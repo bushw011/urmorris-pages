@@ -1,5 +1,6 @@
 ---
 title: 'Therapy Dogs Adapt to Social Distancing'
+media_order: 'dogs.JPG,QRs.JPG'
 date: '20-11-2020 14:50'
 ---
 
@@ -39,5 +40,7 @@ And finally, we are most likely heading into the most difficult period of the CO
 “We know that the 18 to 35 group is the group that’s most at risk right now. If we can have kindergarteners and first graders [practice COVID precautions], you can do it as well,” Roth said. “[I know oftentimes] you want to be your own person and independent and you don’t want to follow others’ rules, but this is one of those situations where we were all in the same boat and we have to work together.”
 
 Hank and Mercer are @HANKTnZ and @ MercerTnZ on Facebook, Tammy’s YouTube channel featuring the dogs and children’s book readings is Counselor Tammy, we’re including QR codes to all three below.
+
+![](QRs.JPG)
 
 _Photo on top courtesy of Tammy Roth_
