@@ -2,9 +2,6 @@
 title: 'On Your Headphones: Razzmatazz'
 media_order: razz.jpg
 date: '06-11-2020 16:31'
-taxonomy:
-    category:
-        - featured
 ---
 
 **By Alisa Samadani, A&E Editor** _Originally published in Issue 5, Volume 33 of The University Register on November 6, 2020_
