@@ -4,6 +4,8 @@ media_order: 'dogs.JPG,QRs.JPG'
 date: '20-11-2020 14:50'
 ---
 
+**By Erik Kjer, News Editor & Kayde Moore, Head Copy Editor** _Originally published in Issue 6, Volume 33 of The University Register on November 20, 2020_
+
 Morris students have been missing the familiar furry faces of Hank and Mercer, the two therapy dogs that have frequented campus every couple of weeks in years past. This year due to COVID-19, the doggie duo is holding off on their in-person college visits. We contacted their handler, Tammy Roth, to check up on them. Like all of us they have needed to adapt to a world dominated by social distancing, but are still busy providing support to the community.
 
 Mercer’s twelfth birthday happened just after students went home for the semester in March. Usually, students at UMM are a part of the birthday celebrations, but this year there could not be a student party.
