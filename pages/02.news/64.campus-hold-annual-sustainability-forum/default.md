@@ -1,7 +1,8 @@
 ---
 title: 'Campus Hold Annual Sustainability Forum'
 media_order: 14592032076_9b1b68628e_b.jpg
-date: '20-11-2020 14:30'
+published: true
+date: '20-11-2020 14:57'
 ---
 
 **By Erik Kjer, News Editor** _Originally published in Issue 6, Volume 33 of The University Register on November 20, 2020_
