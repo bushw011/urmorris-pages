@@ -2,9 +2,6 @@
 title: 'UMM Maintains Robust Recycling Despite Challenges'
 media_order: recycle.jpg
 date: '06-11-2020 15:11'
-taxonomy:
-    category:
-        - featured
 ---
 
 **Cameron Berthiaume, Contributor; Erik Kjer, News Editor; Kayde Moore, Head Copy Editor; Dylan Young, Staff Writer**_Originally published in Issue 5, Volume 33 of The University Register on November 6, 2020_
