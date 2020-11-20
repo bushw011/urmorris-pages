@@ -3,7 +3,7 @@ title: 'Early Analyses from Political Science Student Survey Part II'
 date: '20-11-2020 14:40'
 ---
 
-By E**rik Kjer, News Editor; POL 2001, Contributors** _Originally published in Issue 6, Volume 33 of The University Register on November 20, 2020_
+**By Erik Kjer, News Editor; POL 2001, Contributors** _Originally published in Issue 6, Volume 33 of The University Register on November 20, 2020_
 
 A survey of over 340 University of Minnesota Morris students was conducted by Political Science students in October, before this year’s election. In our last issue we brought you some preliminary findings from students. Now we are presenting some additional findings for the second and final time. The survey revealed that Morris students have strong concerns about several key issues in the animated 2020 election. Among the most important and interesting issues are climate change, trust in the mainstream media, and the possibility of elections being conducted online.
 
