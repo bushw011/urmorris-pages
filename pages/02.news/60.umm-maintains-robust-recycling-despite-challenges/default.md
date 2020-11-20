@@ -7,6 +7,8 @@ taxonomy:
         - featured
 ---
 
+**Cameron Berthiaume, Contributor; Erik Kjer, News Editor; Kayde Moore, Head Copy Editor; Dylan Young, Staff Writer**_Originally published in Issue 5, Volume 33 of The University Register on November 6, 2020_
+
 The University of Minnesota Morris prides itself on being an environmentally conscious and sustainable campus and maintains a robust recycling program. Paper, plastic, glass, cardboard, ink cartridges, furniture, books, batteries, and more are collected by waste management in an attempt to cut down on excess waste, but how does this process work and to what degree is recycling an effective method of reducing negative environmental impacts? We spoke to people about recycling both on-campus and around the world.
 
 “There isn’t a lot of products that we don’t at least attempt to recycle,” said Vance Gullickson.
