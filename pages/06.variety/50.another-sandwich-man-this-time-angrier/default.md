@@ -2,6 +2,9 @@
 title: 'Another Sandwich Man, This Time Angrier'
 media_order: chef.jpg
 date: '20-11-2020 15:29'
+taxonomy:
+    category:
+        - featured
 ---
 
 **By Desmond Homann, Variety Editor** _Originally published in Issue 6, Volume 33 of The University Register on November 20, 2020_
