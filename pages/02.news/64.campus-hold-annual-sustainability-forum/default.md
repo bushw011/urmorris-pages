@@ -1,5 +1,5 @@
 ---
-title: 'Campus Hold Annual Sustainability Forum'
+title: 'Campus Holds Annual Sustainability Forum'
 media_order: 14592032076_9b1b68628e_b.jpg
 published: true
 date: '20-11-2020 14:57'
