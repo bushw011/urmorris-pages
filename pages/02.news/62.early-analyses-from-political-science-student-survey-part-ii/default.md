@@ -3,6 +3,8 @@ title: 'Early Analyses from Political Science Student Survey Part II'
 date: '20-11-2020 14:40'
 ---
 
+By E**rik Kjer, News Editor; POL 2001, Contributors** _Originally published in Issue 6, Volume 33 of The University Register on November 20, 2020_
+
 A survey of over 340 University of Minnesota Morris students was conducted by Political Science students in October, before this year’s election. In our last issue we brought you some preliminary findings from students. Now we are presenting some additional findings for the second and final time. The survey revealed that Morris students have strong concerns about several key issues in the animated 2020 election. Among the most important and interesting issues are climate change, trust in the mainstream media, and the possibility of elections being conducted online.
 
 Students at the University were extremely concerned about the consequences of climate change. 71.4% of students rated climate change as “extremely important” to them in the election. However, the issue’s importance did differ across partisan affiliation. When analyzing by party identification, some 85.9% of Democrats polled believed the issue to be extremely important, but only 42.9% of independents and only 14.0% of Republican voters viewed climate change as extremely important.
