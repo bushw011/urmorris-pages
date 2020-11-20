@@ -1,7 +1,10 @@
 ---
 title: 'Another Sandwich Man, This Time Angrier'
+media_order: chef.jpg
 date: '20-11-2020 15:29'
 ---
+
+**By Desmond Homann, Variety Editor** _Originally published in Issue 6, Volume 33 of The University Register on November 20, 2020_
 
 Some of you may remember the very first goofy movie review that I wrote for the UR, during my first year here, working as a staff writer. I wrote about The movie “Hoodwinked” but more specifically about a character called “the Sandwich Man.” Once again, I have had a sandwich man on my mind: Chef Carl Casper.
 
