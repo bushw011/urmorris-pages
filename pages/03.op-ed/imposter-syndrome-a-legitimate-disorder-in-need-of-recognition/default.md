@@ -24,3 +24,5 @@ Type 5: The Expert. People with this type of Imposter Syndrome believe that in o
 All of these types of Imposter Syndrome are examples of maladaptive mindsets. To overcome them, one would need to adopt a more healthy mindset and self-perception. Personally, I think the best way to do this would be to participate in cognitive-behavioral therapy and work with a trained mental health professional to identify unhealthy, unrealistic beliefs and learn healthier ways of thinking.
 
 All this said, I do not know the answer to my opening question: How does the absence of Imposter Syndrome in the DSM affect those who have it? I can theorize a few things, though. I worry that people may be less willing to recognize a mental health disorder as legitimate if it is not included in the DSM, which would be detrimental to those with Imposter Syndrome since it would open up stigma regarding their disorder and may prevent them from learning about it. Although I cannot exactly fix this potential problem with one editorial, I hope that I have been able to shed light on this disorder for anyone who may benefit from learning of it.
+
+_Image on top courtesy of UnderPinned_
