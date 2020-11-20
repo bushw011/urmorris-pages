@@ -1,5 +1,6 @@
 ---
 title: 'The Importance of Kindness Revisited'
+media_order: kind.jpg
 date: '20-11-2020 15:18'
 ---
 
