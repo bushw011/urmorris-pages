@@ -1,5 +1,6 @@
 ---
 title: 'Ann DuHamel: Beethoven''s Transcendental Sonatas'
+date: '20-11-2020 22:36'
 ---
 
 **By Alisa Samadani, A&E Editor** _Originally published in Issue 6, Volume 33 of The University Register on November 20, 2020_
