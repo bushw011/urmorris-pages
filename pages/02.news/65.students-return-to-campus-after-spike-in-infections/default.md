@@ -2,7 +2,7 @@
 title: 'Students Return to Campus After Spike in Infections'
 media_order: umm.jpg
 published: true
-date: '12-02-2021 15:46'
+date: '12-02-2021 16:14'
 ---
 
 **By Erik Kjer, News Editor** _Originally published in Issue 7, Volume 33 of The University Register on February 12, 2021_
