@@ -1,5 +1,6 @@
 ---
 title: 'Students Prepare for Future Careers'
+media_order: boe.PNG
 ---
 
 **By Erik Kjer, News Editor** _Originally published in Issue 7, Volume 33 of The University Register on February 12, 2021_
@@ -27,3 +28,5 @@ Those who are interested in attending the fair and seeing personalized internshi
 The interview ended with an interesting and important anecdote. 
 
 “A number of years ago I met with a student who popped by the career services office and was telling me how they were frustrated about their job search and they had applied to 300 positions and had not received an interview or a phone call or an email anything and I said, ‘Please come into my office; I want to find out what this is what’s going on,’ and so we had a conversation and found out that um they had never tailored their resume at all. They had sent a generic cover letter that did not refer to the specific company, that did not refer to their mission or values. Employers think you just want _a_ job [but] you don’t want _this_ job, and that can be off-putting for employers. So we had a conversation in my office - we talked about tailoring and we went over some of that, and I think they learned from that experience that it’s not always about quantity of applications, but it’s really about the effort that you put in. There is going to be rejection as part of this. You’re not going to get offered every job you apply for and the number can really vary.”
+
+_Photo on top courtesy of Tammy Roth_
