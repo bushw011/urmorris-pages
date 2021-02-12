@@ -1,5 +1,6 @@
 ---
 title: 'Residential Life Offers Support to Campus Residents New and Old'
+media_order: campus.jpg
 date: '12-02-2021 15:35'
 ---
 
