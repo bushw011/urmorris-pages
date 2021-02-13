@@ -1,5 +1,6 @@
 ---
 title: 'Poetic Dreaming Toward Radical Solidarity with Black Table Arts'
+date: '12-02-2021 21:10'
 ---
 
 **By Alisa Samadani, A&E Editor** _Originally published in Issue 7, Volume 33 of The University Register on February 12, 2021_
