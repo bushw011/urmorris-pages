@@ -33,3 +33,5 @@ The situation within the dining hall has also changed during the coronavirus pan
 Out of all the varieties served, macaroni pizza appears to be the most popular based on Jean’s observations; in the words of Not Jean it just “hits DIFFERENT.”
 
 Dining hall staff is trying to stay six feet apart, but that makes it difficult to collaborate on larger projects in the kitchen. Despite the pandemic, Morris’s pizza is also starting to become healthier. Starting this year some crusts are being made with cauliflower instead of wheat to cut down on excess carbs, and flatbread pizza is typically served every Monday.
+
+_Image on top courtesy of VegNews_
