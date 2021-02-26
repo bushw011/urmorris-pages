@@ -2,6 +2,9 @@
 title: 'Cooking On A College Budget'
 media_order: baking.jpg
 date: '26-02-2021 13:37'
+taxonomy:
+    category:
+        - featured
 ---
 
 **By Angelica Cullen, Feature Editor** _Originally published in Issue 8, Volume 33 of The University Register on February 26, 2021_
