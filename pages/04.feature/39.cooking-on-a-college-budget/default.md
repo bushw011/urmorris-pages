@@ -1,5 +1,7 @@
 ---
 title: 'Cooking On A College Budget'
+media_order: baking.jpg
+date: '26-02-2021 13:37'
 ---
 
 **By Angelica Cullen, Feature Editor** _Originally published in Issue 8, Volume 33 of The University Register on February 26, 2021_
@@ -278,3 +280,5 @@ Assembly:
 3. Bake until topping is golden brown and puffed up, about 35-45 minutes.
 
 4. Serve warm by itself or with vanilla ice cream.
+
+_Image on top courtesy of Vecteezy_
