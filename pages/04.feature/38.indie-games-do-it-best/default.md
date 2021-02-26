@@ -4,7 +4,7 @@ media_order: dadish.jpg
 date: '12-02-2021 16:01'
 ---
 
-**By Angelica Cullen, Feature Editor** _Originally published in Issue 6, Volume 33 of The University Register on February 12, 2021_
+**By Angelica Cullen, Feature Editor** _Originally published in Issue 7, Volume 33 of The University Register on February 12, 2021_
 
 Over winter break I was finally able to get a Nintendo Switch after they had been sold out in many places for a good portion of 2020. This was a serious upgrade from my previous console, a cherry red Wii from 2008 (New  “Super Mario Bros” included). The primary reason for wanting a Switch was, of course, to play the newest installment of the popular series “Animal Crossing: New Horizons.” However, while looking around for some more  affordable options after the hefty $60 price tag of “New Horizons,” I discovered several other games at varying price points - including free - that I found enjoyable as well. Some are more well-known titles such as “Among Us” and “Super Mario 3D All-Stars,” while others are smaller indie games like “Monster Prom” and “A Short Hike.” I enjoy having a nice selection of indie games, both for the lower price and for the greater variety of gameplay. Here are some Switch games, many of which are multiplayer-capable, to check out if you’re looking to expand your library:
 
