@@ -1,7 +1,10 @@
 ---
 title: 'What Do Your Bad Takes/Habits Say About You?'
+media_order: speech.jpg
 date: '26-02-2021 13:43'
 ---
+
+**By Desmond Homann, Variety Editor** _Originally published in Issue 8, Volume 33 of The University Register on February 26, 2021_
 
 **“I correct people when they mix up ladybugs with Asian beetles because apparently that is a distinction that matters.”**
 
@@ -30,3 +33,5 @@ Agh! You let the cold water touch your skin? Well, at least you shower. It’s t
 **“Sometimes, when I’m feeling especially lazy, I’ll just toss on shoes with no socks.”**
 
 Okay, okay, okay. You did NOT hear this from me but I have definitely done this before. Same energy as wearing a hat on a bad hair day. If you can pull it off without getting sweaty or getting blisters, more power to you. You are the kind of person who constantly brags about “going with the flow” but the truth is that you have totally forgotten what the flow is and are now grasping at the edges of any sort of routine or stability in life. It can be little things; I’m not implying that your whole life is a mess, just that getting too comfortable and getting stagnant can sometimes look the same and then next thing you know, you’re sitting in an emotional swamp, smacking away mosquitos. Good luck.
+
+_Image on top courtesy of IStock_
