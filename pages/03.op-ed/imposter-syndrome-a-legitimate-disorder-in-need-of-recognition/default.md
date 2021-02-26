@@ -1,9 +1,6 @@
 ---
 title: 'Imposter Syndrome: A Legitimate Disorder in Need of Recognition'
 date: '20-11-2020 15:13'
-taxonomy:
-    category:
-        - featured
 ---
 
 **By Tehya Wachuta, Editor-in-Chief** _Originally published in Issue 6, Volume 33 of The University Register on November 20, 2020_
