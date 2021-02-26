@@ -2,6 +2,8 @@
 title: 'Dining Hall Worker Gains Online Following'
 ---
 
+**By Erik Kjer, News Editor** _Originally published in Issue 8, Volume 33 of The University Register on February 26, 2021_
+
 As almost any Morris attendee can tell you, the lunch pizza served at the dining hall has been a staple of student diet and culture for years. Most of that pizza is served by Jean Anderson, who herself has become a part of campus culture with her own fan account on Instagram. The account, @jeanjeanpizzaqueen has been able to amass over two hundred followers in less than one month of operation.
 
 The account’s operator, who asked to be identified only as “Not Jean” wrote the University Register, “I was eating in the dining hall toward the beginning of the semester with a friend and we were talking about old vines/memes, and I joked about how there should be a Morris meme page. I actually almost made one dedicated to the U itself, but I realized how difficult it would be to create content that everyone would get. A meme about one of the upper level math courses might be hysterical, but only to the 8 people who took that class. But we were sitting across from the pizza station, and I just kind of off-handedly said ‘but everyone knows Jean Jean Pizza Queen.’ And my buddy and I looked at each other in realization, and knew.
