@@ -1,5 +1,6 @@
 ---
 title: 'MCSA Presidential Election Cycle Begins, Scovil-Young Ticket Announced'
+media_order: UMN-min.jpg
 date: '26-02-2021 12:52'
 ---
 
