@@ -31,15 +31,13 @@ We welcome all student writers, graphic designers, photographers, copy editors, 
 
 **Tehya Wachuta, Editor-in-Chief**	|	wachu006@morris.umn.edu
 
-**Jeph Novak, Head Copy Editor**	|	novak442@morris.umn.edu
+**Katherine Moore, Head Copy Editor**	|	moor2014@morris.umn.edu
 
-**Michael Small, Tech Specialist**	|	small203@morris.umn.edu
+**Alisa Samadani, Ad Sales Manager**	|	samad025@morris.umn.edu
 
-**Isaac Hunt, Ad Sales Manager**	|	huntx253@morris.umn.edu
+**Erik Kjer, News Editor**		|	kjer0018@morris.umn.edu
 
-**Melissa Voss, News Editor**		|	vossx257@morris.umn.edu
-
-**Geordi Jones, Feature Editor**	|	jone3340@morris.umn.edu
+**Angelica Cullen, Feature Editor**	|	culle244@morris.umn.edu
 
 **Alisa Samadani, Arts & Entertainment Editor**	|	samad025@umn.edu
 
