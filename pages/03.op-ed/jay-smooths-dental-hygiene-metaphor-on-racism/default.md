@@ -3,7 +3,7 @@ title: 'Jay Smooth''s Dental Hygiene Metaphor on Racism'
 date: '12-02-2021 15:52'
 ---
 
-**By Tehya Wachuta, Editor-in-Chief** _Originally published in Issue 6, Volume 33 of The University Register on February 12, 2021_
+**By Tehya Wachuta, Editor-in-Chief** _Originally published in Issue 7, Volume 33 of The University Register on February 12, 2021_
 
 Happy Black History month! I am embarrassed to admit that I don’t think I knew February was Black History Month until this year. It is absolutely possible that I forgot, but it’s also possible that I was not paying attention. I am taking Multicultural Psychology this semester, and although we are only four weeks in, I’m discovering there is a lot about racial discrimination in our society that I have not been paying attention to. Part of it is probably because I grew up in a mostly white town and part of it is because I never really paid attention to the news until the pandemic hit last year (which, I know, is not the best trait for a prospective journalist). But since it is Black History Month, I wanted to take this opportunity to talk to our readers about a conversation about racism discussed in my psychology class.
 
