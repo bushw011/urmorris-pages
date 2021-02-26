@@ -4,6 +4,8 @@ media_order: cougar.jpg
 date: '26-02-2021 12:58'
 ---
 
+**By Erik Kjer, News Editor** _Originally published in Issue 8, Volume 33 of The University Register on February 26, 2021_
+
 Like many other activities, the format of Morris’s athletics has been radically altered by the COVID-19 pandemic, but unlike other activities it can not be moved online. For athletes, this has meant a condensed or delayed season, and a pervasive air on uncertainty. Amid dramatically increasing coronavirus infections in mid-November, Governor Walz announced a suspension of all indoor sports for the rest of November and most of December. Now college teams have returned to practices and traveling, and the University Register spoke with an active student athlete who wished to remain anonymous.
 
 “It has been a little different this season, but I’m glad to have a season and not be completely cancelled,” they said.
