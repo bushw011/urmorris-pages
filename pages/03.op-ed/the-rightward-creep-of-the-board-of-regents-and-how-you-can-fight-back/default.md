@@ -1,6 +1,9 @@
 ---
 title: 'The Rightward Creep of the Board of Regents (And How You Can Fight Back)'
 date: '26-02-2021 13:10'
+taxonomy:
+    category:
+        - featured
 ---
 
 **By Joey Daniewicz, Staff Writer** _Originally published in Issue 8, Volume 33 of The University Register on February 26, 2021_
