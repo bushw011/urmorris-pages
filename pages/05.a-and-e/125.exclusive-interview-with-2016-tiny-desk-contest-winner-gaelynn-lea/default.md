@@ -30,4 +30,4 @@ In closing, Lea had something beautiful to suggest to those who are finding it d
 “I read an article recently about how it is hard to really relax and typically, we end up scrolling through our phones before we go to bed. Instead, we should try learning something new every day. For me, I have been doing courses online and learning how to use new music technology. Expanding our minds, rather than just ruminating on what is going on is a really healthy way to get through this, with listening to new music being a great way to do that.”
 You can support her work on Patreon, and check out the full archive of Quarantine Concerts on her YouTube page, Gaelynn Lea.
 
-_Image courtesy of NPR_
+_Image courtesy of MPR_
