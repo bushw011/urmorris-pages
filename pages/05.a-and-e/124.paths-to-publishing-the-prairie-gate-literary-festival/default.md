@@ -4,7 +4,7 @@ media_order: AAFB98F1-8C8F-42A5-87E7-B64B538A2F46.jpeg
 date: '26-02-2021 06:11'
 ---
 
-**By Alisa Samadani, A&E Editor** _Originally published in Issue 8, Volume 33 of The University Register on February 26, 2021
+**By Alisa Samadani, A&E Editor** _Originally published in Issue 8, Volume 33 of The University Register on February 26, 2021_
 
 On Thursday, Feb. 11, UMM hosted the Prairie Gate Literary Festival, a biennial celebration of writing, from 7 p.m. to 8 p.m. There was a panel of writers available for a live Q&A via Zoom, including Peter Bremer, UMM librarian and self-published fantasy author, as well as the Prairie Gate Literary Festival Coordinator. Bremer gave me the run-down of the event. 
 
