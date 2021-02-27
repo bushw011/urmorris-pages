@@ -1,5 +1,6 @@
 ---
 title: 'Paths To Publishing: The Prairie Gate Literary Festival'
+media_order: AAFB98F1-8C8F-42A5-87E7-B64B538A2F46.jpeg
 date: '26-02-2021 06:11'
 ---
 
