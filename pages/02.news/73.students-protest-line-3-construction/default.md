@@ -1,6 +1,7 @@
 ---
 title: 'Students Protest Line 3 Construction'
 media_order: IMG_2830-min.jpg
+date: '12-03-2021 10:02'
 ---
 
 **By Katherine Moore, Head Copy Editor** _Originally published in Issue 9, Volume 33 of The University Register on March 12, 2021_
