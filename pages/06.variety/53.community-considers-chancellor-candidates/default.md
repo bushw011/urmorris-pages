@@ -1,6 +1,9 @@
 ---
 title: 'Community Considers Chancellor Candidates'
 date: '12-03-2021 12:13'
+taxonomy:
+    category:
+        - featured
 ---
 
 **By Desmond Homann, Variety Editor** _Originally published in Issue 9, Volume 33 of The University Register on March 12, 2021_
