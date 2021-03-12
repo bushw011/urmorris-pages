@@ -2,9 +2,6 @@
 title: 'La La Land: Pretty Good for a White Man'
 published: true
 date: '26-02-2021 13:48'
-taxonomy:
-    category:
-        - featured
 ---
 
 **By Desmond Homann, Variety Editor** _Originally published in Issue 8, Volume 33 of The University Register on February 26, 2021_
