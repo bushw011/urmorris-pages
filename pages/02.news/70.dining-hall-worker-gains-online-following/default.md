@@ -1,9 +1,6 @@
 ---
 title: 'Dining Hall Worker Gains Online Following'
 date: '26-02-2021 14:01'
-taxonomy:
-    category:
-        - featured
 ---
 
 **By Erik Kjer, News Editor** _Originally published in Issue 8, Volume 33 of The University Register on February 26, 2021_
