@@ -1,6 +1,9 @@
 ---
 title: 'Is Daylight Saving Time Keeping Up With the Times?'
 date: '12-03-2021 10:05'
+taxonomy:
+    category:
+        - featured
 ---
 
 **By Angelica Cullen, Feature Editor** _Originally published in Issue 9, Volume 33 of The University Register on March 12, 2021_
