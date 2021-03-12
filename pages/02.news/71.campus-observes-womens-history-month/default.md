@@ -24,3 +24,5 @@ they have affected our history.”
 In addition to the activities offered by the University, Fellers suggested that those who are interested in observing Women’s History Month are also encouraged to learn more women in politics in their own community.
 
 “Researching your own legislators and something that I think is really, really important. I know that we have female senators and a female lieutenant governor, and I think that those women are doing some really, really important things,” she said.
+
+_Image on top courtesy of All In For Health_
