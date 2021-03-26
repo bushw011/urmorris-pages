@@ -4,6 +4,8 @@ media_order: island.jpg
 date: '26-03-2021 12:38'
 ---
 
+**By Desmond Homann, Variety Editor** _Originally published in Issue 10, Volume 33 of The University Register on March 26, 2021_
+
 I’m rewatching “Lost” for the first time in seven or eight years and I’m finding myself once again thinking those DESERTED ISLAND THOUGHTS. (Okay, you got me there—the island isn’t technically uninhabited or deserted, but I’m not going to be the guy who spoils a show... that came out 15 years ago...) My first time watching the show, I was obsessed. It was then that I first experienced this thought that many of us have had: what would I do if I crashed on a mysterious island? Well, reader, I am here to share some insights with you if you are willing to answer a few questions. (I should note that the information here is not directly related to “Lost” but is about a more general castaway island experience.)
 
 _1. What is your initial reaction to finding yourself on this island?_
