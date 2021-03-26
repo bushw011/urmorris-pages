@@ -18,3 +18,5 @@ But I’m a little nervous! I’m nervous of the trauma that false hope could en
 Late in 2020, the tone of meetings I was in was to continue to plan for the worst. It feels like that caution is leaving us, especially as even more sensible Democratic officials buckle to reopening demands despite the warning of public health officials who say that caution during the vaccination rollout could still save so many lives.
 
 But hopefully this abundance of caution I’m exhibiting is an overabundance. I would like very much for that to be true.
+
+_Image on top courtesy of constructconnect.com_
