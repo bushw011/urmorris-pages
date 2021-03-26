@@ -3,7 +3,7 @@ title: 'Iphigenia in Aulis: A Taped Production'
 date: '12-03-2021 14:47'
 ---
 
-**By Alisa Samadani, A&E Editor**_Originally published in Issue 9, Volume 33 of The University Register on March 12, 2021_
+**By Alisa Samadani, A&E Editor** _Originally published in Issue 9, Volume 33 of The University Register on March 12, 2021_
 
 On Tuesday, March 2, the Morris Meninges Theater released a recording of their production of Iphigenia in Aulis, written by Euripides and translated by Robert Porter.
 
