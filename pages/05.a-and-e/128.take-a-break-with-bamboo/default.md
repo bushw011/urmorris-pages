@@ -4,7 +4,7 @@ media_order: zen-bamboo.jpg
 date: '12-03-2021 14:17'
 ---
 
-**By Alisa Samadani, A&E Editor**_Originally published in Issue 9, Volume 33 of The University Register on March 12, 2021_
+**By Alisa Samadani, A&E Editor** _Originally published in Issue 9, Volume 33 of The University Register on March 12, 2021_
 
 On Tuesday, March 2, approximately 180 folks stopped by the Turtle Mountain Cafe (TMC) and made their very own lucky bamboo, with materials also provided for making balloon stress balls filled with Orbeez. 
 
