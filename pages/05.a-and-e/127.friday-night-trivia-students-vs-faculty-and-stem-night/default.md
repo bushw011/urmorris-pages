@@ -3,7 +3,7 @@ title: 'Friday Night Trivia! Students vs Faculty & STEM Night'
 date: '12-03-2021 14:09'
 ---
 
-**By Alisa Samadani, A&E Editor**_Originally published in Issue 9, Volume 33 of The University Register on March 12, 2021_
+**By Alisa Samadani, A&E Editor** _Originally published in Issue 9, Volume 33 of The University Register on March 12, 2021_
 
 On Friday, Feb. 26, UMM held a students versus faculty trivia night. Trivia night was hosted by Peter Bremer and sponsored by College Bowl. Carolyn Curtis was our reader for the night, and quickly explained the rules. There were multiple rounds, each with their own designated set of categories. First person to buzz in could give their answer, Jeopardy style, but if they got an answer incorrect (or only partially correct) then the other teams got a chance to steal.
 
