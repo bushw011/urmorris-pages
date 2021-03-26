@@ -1,5 +1,6 @@
 ---
 title: 'Need A Break? Activities That Can Provide Much-Needed Stress Relief'
+media_order: relax.jpg
 date: '26-03-2021 12:30'
 ---
 
@@ -30,3 +31,5 @@ With midterms coming to a close, many students may be looking for a way to take 
 		the discussion.” The zoom link can be found on the library website.
 
 • Go thrift shopping. This is a fun and inexpensive way to update your wardrobe or to find that perfect outfit. Aside from clothing, they also offer a selection of kitchenware and appliances, decorative items, knicknacks, and much more. Someplace Safe is open Monday through Friday from 9 a.m. to 6 p.m. and on Saturday from 10 a.m. to 5 p.m.
+
+_Image on top courtesy of Freepik_
