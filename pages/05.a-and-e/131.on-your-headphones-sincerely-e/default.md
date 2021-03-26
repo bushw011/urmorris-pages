@@ -3,10 +3,7 @@ title: 'On Your Headphones: sincerely, e'
 date: '12-03-2021 14:49'
 ---
 
-**By Alisa Samadani, A&E Editor**
-
-**_Originally published in Issue 9, Volume 33 of The University Register on March 12, 2021_
-**
+**By Alisa Samadani, A&E Editor**_Originally published in Issue 9, Volume 33 of The University Register on March 12, 2021_
 
 Recently, I had the opportunity to interview Elizabeth Ziman, lead singer of Elizabeth & the Catapult, about her quarantine-released album, “sincerely, e.” Ziman grew up in New York City where she had an early connection with music as a young, competitive classical pianist. Around 11 or 12, Ziman realized that her love for music drove in a different direction than that of the “professional classical child prodigy stage.” She took a short break from music, up until enrolling in Berkeley to study film scoring, and soon found herself landing once-in-lifetime opportunities, eventually creating what is now known as Elizabeth & The Catapult. 
 
