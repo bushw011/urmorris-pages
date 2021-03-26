@@ -3,8 +3,7 @@ title: 'Exclusive Interview With 2016 Tiny Desk Contest Winner Gaelynn Lea'
 date: '26-02-2021 06:18'
 ---
 
-_**By Alisa Samadani, A&E Editor **_
-_Originally published in Issue 8, Volume 33 of The University Register on February 26, 2021_
+**By Alisa Samadani, A&E Editor** _Originally published in Issue 8, Volume 33 of The University Register on February 26, 2021_
 
 On Thursday, Feb. 18, my colleague and I had the pleasure of interviewing Gaelynn Lea, the haunting violinist of Duluth, Minnesota. Lea has performed all across the country, in 45 states and nine countries, astounding her audiences with a clever blend of traditional fiddle tunes and original songs. 
 She has already appeared in SXSW, Winnipeg Folk Festival, and the Reykjavik Arts Festival, and has also opened for a number of bands such as Wilco, Pigface, The Decemberists, The Jayhawks, and LOW.
