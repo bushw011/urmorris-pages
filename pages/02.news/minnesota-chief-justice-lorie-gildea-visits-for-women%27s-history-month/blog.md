@@ -29,4 +29,4 @@ Gildea also paid her respects to Bettina Blake, UMN Morris’s former Dean of Ac
 
 Women like Bettina Blake are who Chief Justice Gildea said define the true story of women’s history - a hard fight by generations of women pioneers smashing glass ceilings - reaching the top of their ladders to help other women reach higher on their own.
 
-_Image on top courtesy of minnlawyer.com_
+_Image on top courtesy of league of women voters MN_
