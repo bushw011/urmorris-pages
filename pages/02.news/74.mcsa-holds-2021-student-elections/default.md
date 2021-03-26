@@ -1,5 +1,6 @@
 ---
 title: 'MCSA Holds 2021 Student Elections'
+media_order: UMN-min.jpg
 date: '26-03-2021 10:04'
 ---
 
