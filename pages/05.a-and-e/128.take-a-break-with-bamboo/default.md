@@ -1,12 +1,10 @@
 ---
 title: 'Take a Break with Bamboo!'
+media_order: zen-bamboo.jpg
 date: '12-03-2021 14:17'
 ---
 
-**By Alisa Samadani, A&E Editor**
-
-**_Originally published in Issue 9, Volume 33 of The University Register on March 12, 2021_
-**
+**By Alisa Samadani, A&E Editor**_Originally published in Issue 9, Volume 33 of The University Register on March 12, 2021_
 
 On Tuesday, March 2, approximately 180 folks stopped by the Turtle Mountain Cafe (TMC) and made their very own lucky bamboo, with materials also provided for making balloon stress balls filled with Orbeez. 
 
@@ -21,3 +19,5 @@ All in all, it was a successful event. Some may wonder why the TMC, why not have
 “Putting together stress balls may seem obvious - students can squeeze them when they're stressed, but also it was mostly the idea of bringing students out of their halls and into another space together, to meet others and have small talk while they put the items together. Each table had small conversation starters at them, and during the event I overheard multiple examples of students introducing themselves to others and exchanging contact information. In a way, the program was able to initiate those random conversations that begin so many relationships on campus that students are missing right now, which decreases isolation and increases student support systems.”
  
 Keep your eyes peeled for your calm and quiet events on campus and via Zoom!
+
+_Image on top courtesy of Photowall_
