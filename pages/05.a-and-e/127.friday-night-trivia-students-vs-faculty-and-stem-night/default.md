@@ -1,6 +1,5 @@
 ---
 title: 'Friday Night Trivia! Students vs Faculty & STEM Night'
-media_order: trivia2.jpg
 date: '12-03-2021 14:09'
 ---
 
