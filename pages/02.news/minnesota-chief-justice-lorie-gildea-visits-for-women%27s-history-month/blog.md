@@ -2,6 +2,9 @@
 title: 'Minnesota Chief Justice Lorie Gildea Visits for Women’s History Month'
 media_order: lorie.png
 date: '26-03-2021 09:59'
+taxonomy:
+    category:
+        - featured
 content:
     items:
         - '@self.children'
