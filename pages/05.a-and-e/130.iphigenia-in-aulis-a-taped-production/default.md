@@ -3,10 +3,7 @@ title: 'Iphigenia in Aulis: A Taped Production'
 date: '12-03-2021 14:47'
 ---
 
-**By Alisa Samadani, A&E Editor**
-
-**_Originally published in Issue 9, Volume 33 of The University Register on March 12, 2021_
-**
+**By Alisa Samadani, A&E Editor**_Originally published in Issue 9, Volume 33 of The University Register on March 12, 2021_
 
 On Tuesday, March 2, the Morris Meninges Theater released a recording of their production of Iphigenia in Aulis, written by Euripides and translated by Robert Porter.
 
@@ -26,26 +23,47 @@ I strongly recommend that you go online and watch the production of Iphigenia in
 
 Cast: 
 Agamemnon: Rika Matney, Bella Pettit, Rheanne Kline
+
 Menelaus: Anika Dahl
+
 Achilles: Rika Matney
+
 Clytemnestra: Johannah Woodley 
+
 Iphigenia: Anika Dahl
+
 Attendant: Bella Pettit
+
 Messenger: Rheanne Kline
+
 Chorus:
+
 Strophe: Rheanne Kline
+
 Antistrophe: Rika Matney/Bella Pettit
+
 Epod/Chorus: All
 
 Production Team: 
+
 Lucas Granholm: Faculty Advisor
+
 Hailey Stobb: Producer
+
 Derek Johnson: Director
+
 Carolyn Curtis: Stage Manager
+
 Paige Haugen: Assistant Stage Manager
+
 Madison Grimsbo: Lighting Designer
+
 Robin Whirlwind Soldier: Sound Designer
+
 Aaron Otten: Set/Props Designer
+
 Velora Wilson: Assistant Set/Props Designer
+
 Cameron Schultz: Costume Designer
+
 Natalie Peterson: Assistant Costume Designer
