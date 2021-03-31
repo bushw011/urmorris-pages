@@ -1,5 +1,6 @@
 ---
 title: 'Unchartered Territory: Women in Politics'
+publish_date: '26-03-2021 12:31'
 ---
 
 **By Alisa Samadani, A&E Editor** _Originally published in Issue 10, Volume 33 of The University Register on March 26, 2021_
