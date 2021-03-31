@@ -1,5 +1,6 @@
 ---
 title: 'Unchartered Territory: Women in Politics'
+media_order: image.png
 published: true
 date: '26-03-2021 12:33'
 publish_date: '26-03-2021 12:31'
@@ -31,3 +32,4 @@ The last documentary was about the life of the late Justice Ruth Bader Ginsburg.
 
 Around 6:30 p.m., the viewing portion of the film festival concluded, and participants were able to discuss their thoughts on the numerous films. I admit, it was difficult to find the right words for each woman in history, as they all sacrificed so much for today’s society to have the laws and policies that we have now. I highly encourage any and all readers to do your research on these women, as well as other influential females in history. Just because it was not taught in school, does not mean that it should be ignored or dismissed. Educate the public, and celebrate the accomplishments of strong women past and present!
 
+_Image courtesy of Pinterest_
