@@ -1,5 +1,6 @@
 ---
 title: 'Try Not To Celebrate Vaccine Manufacturers (But Still, Get Vaccinated)'
+media_order: covvac.jpg
 date: '09-04-2021 09:47'
 ---
 
