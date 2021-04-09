@@ -2,9 +2,6 @@
 title: 'Alcohol: Federal Law and Public Perception'
 media_order: drinks.jpg
 date: '26-03-2021 12:22'
-taxonomy:
-    category:
-        - featured
 ---
 
 **By Tehya Wachuta, Editor-in-Chief** _Originally published in Issue 10, Volume 33 of The University Register on March 26, 2021_
