@@ -1,6 +1,9 @@
 ---
 title: 'Springtime Events'
 date: '09-04-2021 10:03'
+taxonomy:
+    category:
+        - featured
 ---
 
 **By Angelica Cullen, Feature Editor** _Originally published in Issue 11, Volume 33 of The University Register on April 9, 2021_
