@@ -2,9 +2,6 @@
 title: 'Need A Break? Activities That Can Provide Much-Needed Stress Relief'
 media_order: relax.jpg
 date: '26-03-2021 12:30'
-taxonomy:
-    category:
-        - featured
 ---
 
 **By Angelica Cullen, Feature Editor** _Originally published in Issue 10, Volume 33 of The University Register on March 26, 2021_
