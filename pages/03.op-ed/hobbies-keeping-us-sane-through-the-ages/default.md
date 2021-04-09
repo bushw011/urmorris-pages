@@ -1,0 +1,19 @@
+---
+title: 'Hobbies: Keeping Us Sane Through the Ages'
+date: '09-04-2021 09:52'
+taxonomy:
+    category:
+        - featured
+---
+
+Like many people, I have picked up a few new hobbies during the pandemic. I’ve learned to bake pies, started drawing, and have tried to care for a few plants. At the beginning of quarantine, the isolation and extension of free time was a nice change of pace, but as time went on and we seemed to be no closer to the end of lockdown, I was glad that I had a few simple pleasures like baking and art to keep me sane. Recently, while scrolling through news articles on my phone (another quarantine-induced habit), I noticed an article about hobbies that had sprung up during the Great Depression. Similarly to current society, the Great Depression suddenly stripped many people of their jobs and gave them more free time. And just like people today, those affected came up with new ways to keep themselves busy and keep sane during a period of seemingly endless tragedy.
+
+Unlike the present, however, the hobbies people turned to during the Great Depression were social. There was no virus to keep them from spending time with their loved ones, so they became engaged with activities like playing bridge or birdwatching, things that they could do with a group. Just like today, people in the Great Depression turned to their hobbies to save them from boredom or isolation – and they chose hobbies which could enable them to maintain their connections to those around them.
+
+Even though we can’t be with as many people as we’d perhaps prefer to be with during the pandemic, that still hasn’t kept us from finding social hobbies to safely engage in. People have turned to technology to stay in touch with friends and family members who they can’t see in person, finding connection in video calls, multi-player video games, and texting. Some of the activities are also non-social, preventing us from getting lost in boredom and isolation by finding something entertaining and fulfilling that we can do alone. For many people, these hobbies have been things like baking, arts and crafts, reading more, or watching movies.
+
+While some of these hobbies may be healthier than others, all are equally important. The human brain is not well-equipped to deal with long periods of isolation and boredom. People with lengthy and/or frequent periods of boredom with no good coping mechanism to help them out of it are reportedly more prone to mental health disorders such as depression, anxiety, and eating disorders. They are also more prone to addiction, from drugs to gambling. Hobbies can help people cope with boredom, and although playing a video game or baking a loaf of bread may not be the type of mental health treatments you’d learn about in a typical psychology class, the Mayo Clinic lists hobbies as one of the ways to keep up with self-care during the pandemic.
+
+So, if you’ve gotten a little too into Animal Crossing lately, or have used a surprising amount of bread flour in the last few months, don’t worry! Hobbies like these are an important part of our self-care during this period of isolation, and it’s never a bad time to try to take care of your own brain. However, our digital era means that we have access to a lot of tempting hobbies and it’s easier to focus too much on them – a couple episodes of your favorite show on Netflix is a break, but binging the entire new DotA anime in one day is maybe not the best idea. With that in mind, just try to make sure you’re keeping a balance between your hobbies and your other responsibilities!
+
+_Image on top courtesy of Pixlr_
