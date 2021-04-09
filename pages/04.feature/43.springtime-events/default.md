@@ -37,4 +37,4 @@ With more and more people being vaccinated recently, a few blended/in-person eve
 
 • 24-Hour Game Night: “Come join us for a fun day (and night) of role playing games, board games, and virtual party games! There will be virtual and in-person options so everyone can join safely and to their comfort level.” This event will take place both online and in the Humanities Building. It starts on Friday, April 30 at 6 p.m. and ends on Saturday, May 1 at 6 p.m.
 
-_Image on top courtesy of freepik.com_
+_Image on top courtesy of iStock_
