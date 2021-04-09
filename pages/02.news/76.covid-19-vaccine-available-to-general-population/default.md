@@ -1,5 +1,6 @@
 ---
 title: 'COVID-19 Vaccine Available to General Population'
+media_order: vaccine.jpg
 date: '09-04-2021 09:43'
 ---
 
@@ -15,3 +16,5 @@ Although the ongoing vaccination campaign is essential to creating a large enoug
 
 Shots are currently being given at a variety of sites around Morris several times a week. Those who wish to be vaccinated can contact health services who can help arrange appointments with Stevens Community Medical Center, Horizon Public Health, or Thrifty White Pharmacy. If an individual receives a vaccine which requires 
 multiple doses, they should plan to receive the second dose at least 28 days after receiving their initial dose. Those interested in viewing or booking an appointment with Horizon Public Health can do so on their website, and the Minnesota Department of Health has an online tool for finding a vaccine appointment anywhere in the state on their site. Morris Public Transit has provided free transportation for those getting vaccinated in the past, but individuals should inquire if this is still being offered before booking an appointment.
+
+_Image on top courtesy of Yale Medicine_
