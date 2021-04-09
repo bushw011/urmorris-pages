@@ -2,9 +2,6 @@
 title: 'What Does Your Role on a Desert Island Say About You?'
 media_order: island.jpg
 date: '26-03-2021 12:38'
-taxonomy:
-    category:
-        - featured
 ---
 
 **By Desmond Homann, Variety Editor** _Originally published in Issue 10, Volume 33 of The University Register on March 26, 2021_
