@@ -17,6 +17,6 @@ After that rather gut wrenching song, we are awarded with “PRIDEFUL,” a mell
 Personally, I found the title track to be the most catchy and easy to analyze, aside from “STORY,” which seems fairly straightforward.
 In true NF fashion, the album holds homogeneity in rhythm and backing track, with hard hitting, heartfelt stories spit in perfect time. The misunderstood rapper has done it again, and I encourage anyone who has been a fan of his work, or perhaps something he’s collaborated on, to take a good listen. All that we can do now is wait for the next monumental album to drop, while appreciating the masterpiece that is “CLOUDS (THE MIXTAPE).” A+
 
-_Image courtesy of Genius_
+_Image courtesy of Amazon_
 
 
