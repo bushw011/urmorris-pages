@@ -4,7 +4,7 @@ date: '09-04-2021 02:35'
 publish_date: '09-04-2021 02:36'
 ---
 
-_*By Alisa Samadani, A&E Editor Originally published in Issue 11, Volume 33 of The University Register on April 9, 2021*_
+_**By Alisa Samadani, A&E Editor** Originally published in Issue 11, Volume 33 of The University Register on April 9, 2021_
 
 On Friday, April 2, I had the opportunity to interview Aaron Kheifets, seasoned comedian with extensive work in the comedy world, from CollegeHumor to Cracked, as well as The Onion News Network and TEDx. 
 
@@ -22,3 +22,4 @@ The podcast reveals a lot about the process of creating, and I was curious as to
 
 MAKE COOL SH!T is available on Spotify, Stitcher, and everywhere else that podcasts are available, but Donny and Mike are also eager to hear from fans about places they should include their podcast. Reach out to the podcast on social media @mcs_media, or use #makecoolshit.
 
+_Image courtesy of UCB Comedy_
