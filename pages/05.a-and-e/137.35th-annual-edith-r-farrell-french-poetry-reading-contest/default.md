@@ -1,5 +1,7 @@
 ---
 title: '35th Annual Edith R. Farrell French Poetry Reading Contest'
+date: '09-04-2021 02:54'
+publish_date: '09-04-2021 02:54'
 ---
 
 _**By Alisa Samadani, A&E Editor** Originally published in Issue 11, Volume 33 of The University Register on April 9, 2021_
