@@ -1,5 +1,6 @@
 ---
 title: '35th Annual Edith R. Farrell French Poetry Reading Contest'
+media_order: 12AB728B-0F64-4F70-A8B9-4B04F7F8A528.jpeg
 date: '09-04-2021 02:54'
 publish_date: '09-04-2021 02:54'
 ---
@@ -138,3 +139,4 @@ Vous nous soignez sans hésitation ni condition
 Comme un parent auprès de son nouveau-né 
 Comme des héros masqués 
 
+_Image courtesy of UMM Events_
