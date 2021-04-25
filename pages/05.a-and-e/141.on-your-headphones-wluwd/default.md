@@ -30,3 +30,5 @@ With 12 songs on the album, I would have to put the title track as my favorite. 
 
 “And while you dance//Just remember that you'll never be alone//That you'll never fade, you'll only carry on//You can let it go, it never made your way//Oh, oh, whoa//And while you're here//Don't forget to help your neighbor when they're low//Why not live, to love and humble as you grow//So when you finally go they'll cherish what you made//Oh, oh, whoa.”
 
+_Image courtesy of YouTube_
+
