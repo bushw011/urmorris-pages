@@ -1,5 +1,5 @@
 ---
-title: 'KUMM Kicks Off Virtual Concert'
+title: 'KUMM Kicks Off Live Virtual Concert'
 media_order: IMG_5635.jpg
 date: '23-04-2021 12:30'
 publish_date: '23-04-2021 12:30'
