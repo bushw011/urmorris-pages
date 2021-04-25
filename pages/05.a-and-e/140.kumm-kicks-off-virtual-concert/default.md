@@ -1,16 +1,16 @@
 ---
 title: 'KUMM Kicks Off Virtual Concert'
+media_order: IMG_5635.jpg
 date: '23-04-2021 12:30'
 publish_date: '23-04-2021 12:30'
 content:
-    items:
-        - '@self.children'
-    limit: 5
+    items: '- ''@self.children'''
+    limit: '5'
     order:
         by: date
         dir: desc
-    pagination: true
-    url_taxonomy_filters: true
+    pagination: '1'
+    url_taxonomy_filters: '1'
 ---
 
 _**By Alisa Samadani, A&E Editor** Originally published in Issue 12, Volume 33 of The University Register on April 23, 2021_
@@ -29,3 +29,4 @@ The third and final artist of the night was a band called Coyote Kid. Previously
 
 All three artists had a powerful story to tell, and KUMM was more than happy to provide a platform for them to get together and perform for us in a safe manner. Although the academic year has come to a close, our journey through the cosmos is only just beginning. Stay safe, and stay strong, dear readers.
 
+_Image courtesy of Stitched Sound_
